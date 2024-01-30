@@ -110,8 +110,8 @@ id: Finland
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Finland//
-markerFolder: ./Finland//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Finland] 
