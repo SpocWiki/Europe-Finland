@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::25.27] 
-[geo-lat::65.7] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::25.27] 
+[has_place_latitude::65.7] 
 [name::Saarijaervi~Raj] 
 State ::  
 Country :: [[Finland]]  

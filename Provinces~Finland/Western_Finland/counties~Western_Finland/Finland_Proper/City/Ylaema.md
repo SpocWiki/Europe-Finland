@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::22.53] 
-[geo-lat::60.82] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::22.53] 
+[has_place_latitude::60.82] 
 [name::Ylaema] 
 State ::  
 Country :: [[Finland]]  

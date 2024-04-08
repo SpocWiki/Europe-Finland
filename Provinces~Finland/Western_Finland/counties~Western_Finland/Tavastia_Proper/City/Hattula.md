@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::24.35] 
-[geo-lat::61.07] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::24.35] 
+[has_place_latitude::61.07] 
 [name::Hattula] 
 State ::  
 Country :: [[Finland]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::24.7] 
-[geo-lat::62.25] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::24.7] 
+[has_place_latitude::62.25] 
 [name::Keuruu] 
 State ::  
 Country :: [[Finland]]  

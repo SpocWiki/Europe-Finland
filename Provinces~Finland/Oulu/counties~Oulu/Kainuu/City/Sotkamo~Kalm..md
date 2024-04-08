@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::28.08] 
-[geo-lat::63.85] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::28.08] 
+[has_place_latitude::63.85] 
 [name::Sotkamo~Kalm.] 
 State ::  
 Country :: [[Finland]]  

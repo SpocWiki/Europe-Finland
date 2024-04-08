@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::27.38] 
-[geo-lat::62.37] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::27.38] 
+[has_place_latitude::62.37] 
 [name::Lapinlahti] 
 State ::  
 Country :: [[Finland]]  

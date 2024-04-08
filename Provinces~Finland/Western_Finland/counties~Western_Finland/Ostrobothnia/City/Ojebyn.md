@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::21.4] 
-[geo-lat::62.35] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::21.4] 
+[has_place_latitude::62.35] 
 [name::Ojebyn] 
 State ::  
 Country :: [[Sweden]]  

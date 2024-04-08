@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::23.92] 
-[geo-lat::66.75] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::23.92] 
+[has_place_latitude::66.75] 
 [name::Turtola] 
 State ::  
 Country :: [[Finland]]  

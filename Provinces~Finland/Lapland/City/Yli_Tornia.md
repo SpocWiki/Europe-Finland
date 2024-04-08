@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::23.95] 
-[geo-lat::66.37] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::23.95] 
+[has_place_latitude::66.37] 
 [name::Yli Tornia] 
 State ::  
 Country :: [[Finland]]  

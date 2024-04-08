@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::22.82] 
-[geo-lat::62.78] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::22.82] 
+[has_place_latitude::62.78] 
 [name::Seinajoki] 
 State ::  
 Country :: [[Finland]]  

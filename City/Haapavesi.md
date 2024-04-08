@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::23.37] 
-[geo-lat::64.13] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::23.37] 
+[has_place_latitude::64.13] 
 [name::Haapavesi] 
 State ::  
 Country :: [[Finland]]  

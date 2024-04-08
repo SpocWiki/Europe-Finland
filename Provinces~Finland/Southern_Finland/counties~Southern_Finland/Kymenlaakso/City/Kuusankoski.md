@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::26.65] 
-[geo-lat::60.92] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::26.65] 
+[has_place_latitude::60.92] 
 [name::Kuusankoski] 
 State ::  
 Country :: [[Finland]]  

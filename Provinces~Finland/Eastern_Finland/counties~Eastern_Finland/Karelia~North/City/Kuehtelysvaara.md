@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::29.8] 
-[geo-lat::62.5] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::29.8] 
+[has_place_latitude::62.5] 
 [name::Kuehtelysvaara] 
 State ::  
 Country :: [[Finland]]  

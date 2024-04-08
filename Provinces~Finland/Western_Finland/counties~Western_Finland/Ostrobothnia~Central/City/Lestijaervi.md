@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::24.68] 
-[geo-lat::63.53] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::24.68] 
+[has_place_latitude::63.53] 
 [name::Lestijaervi] 
 State ::  
 Country :: [[Finland]]  

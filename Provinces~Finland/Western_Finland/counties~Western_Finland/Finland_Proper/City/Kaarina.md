@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::22.4] 
-[geo-lat::60.45] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::22.4] 
+[has_place_latitude::60.45] 
 [name::Kaarina] 
 State ::  
 Country :: [[Finland]]  

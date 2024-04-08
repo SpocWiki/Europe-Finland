@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::28.45] 
-[geo-lat::64.12] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::28.45] 
+[has_place_latitude::64.12] 
 [name::Sotkamo~Kirk.] 
 State ::  
 Country :: [[Finland]]  

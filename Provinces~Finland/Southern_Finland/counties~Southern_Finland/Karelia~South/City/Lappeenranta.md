@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::28.18] 
-[geo-lat::61.05] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::28.18] 
+[has_place_latitude::61.05] 
 [name::Lappeenranta] 
 State ::  
 Country :: [[Finland]]  

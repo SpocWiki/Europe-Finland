@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::28.47] 
-[geo-lat::60] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::28.47] 
+[has_place_latitude::60] 
 [name::Seiskari] 
 State ::  
 Country :: [[Finland]]  

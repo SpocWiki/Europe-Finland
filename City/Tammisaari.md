@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::23.43] 
-[geo-lat::59.97] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::23.43] 
+[has_place_latitude::59.97] 
 [name::Tammisaari] 
 State ::  
 Country :: [[Finland]]  

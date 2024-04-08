@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::26.57] 
-[geo-lat::62.87] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::26.57] 
+[has_place_latitude::62.87] 
 [name::Vesanto] 
 State ::  
 Country :: [[Finland]]  

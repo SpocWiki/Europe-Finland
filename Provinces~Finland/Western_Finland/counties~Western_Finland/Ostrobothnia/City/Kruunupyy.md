@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::23] 
-[geo-lat::63.72] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::23] 
+[has_place_latitude::63.72] 
 [name::Kruunupyy] 
 State ::  
 Country :: [[Finland]]  

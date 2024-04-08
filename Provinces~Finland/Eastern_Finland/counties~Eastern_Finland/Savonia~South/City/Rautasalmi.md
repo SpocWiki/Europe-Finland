@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::28.25] 
-[geo-lat::61.98] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::28.25] 
+[has_place_latitude::61.98] 
 [name::Rautasalmi] 
 State ::  
 Country :: [[Finland]]  

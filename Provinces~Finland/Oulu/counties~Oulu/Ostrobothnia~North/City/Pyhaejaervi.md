@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::26.2] 
-[geo-lat::64.65] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::26.2] 
+[has_place_latitude::64.65] 
 [name::Pyhaejaervi] 
 State ::  
 Country :: [[Finland]]  

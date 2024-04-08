@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::22.52] 
-[geo-lat::61.62] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::22.52] 
+[has_place_latitude::61.62] 
 [name::Lavia] 
 State ::  
 Country :: [[Finland]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::22.95] 
-[geo-lat::60.1] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::22.95] 
+[has_place_latitude::60.1] 
 [name::Finby] 
 State ::  
 Country :: [[Finland]]  

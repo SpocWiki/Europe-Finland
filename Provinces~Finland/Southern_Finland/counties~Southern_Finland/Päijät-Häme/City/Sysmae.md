@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::25.85] 
-[geo-lat::61.45] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::25.85] 
+[has_place_latitude::61.45] 
 [name::Sysmae] 
 State ::  
 Country :: [[Finland]]  

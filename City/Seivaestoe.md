@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::29.05] 
-[geo-lat::60.18] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::29.05] 
+[has_place_latitude::60.18] 
 [name::Seivaestoe] 
 State ::  
 Country :: [[Finland]]  

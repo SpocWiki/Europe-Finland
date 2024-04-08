@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::24.62] 
-[geo-lat::62.88] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::24.62] 
+[has_place_latitude::62.88] 
 [name::Karstula] 
 State ::  
 Country :: [[Finland]]  

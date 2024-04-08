@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::27,57] 
-[geo-lat::68,67] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::27,57] 
+[has_place_latitude::68,67] 
 [name::Inari/Enare] 
 State ::  
 Country :: [[Finland]]  

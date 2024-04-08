@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::24.97] 
-[geo-lat::60.27] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::24.97] 
+[has_place_latitude::60.27] 
 [name::Tamisto] 
 State ::  
 Country :: [[Finland]]  

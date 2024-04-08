@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::22.97] 
-[geo-lat::59.9] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::22.97] 
+[has_place_latitude::59.9] 
 [name::Hangoe=Hanko] 
 State ::  
 Country :: [[Finland]]  

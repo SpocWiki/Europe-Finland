@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::30.13] 
-[geo-lat::63.32] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::30.13] 
+[has_place_latitude::63.32] 
 [name::Pieliljaervi] 
 State ::  
 Country :: [[Finland]]  

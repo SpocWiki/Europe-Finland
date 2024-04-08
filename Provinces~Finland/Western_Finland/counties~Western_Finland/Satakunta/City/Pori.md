@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::21.85] 
-[geo-lat::61.43] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::21.85] 
+[has_place_latitude::61.43] 
 [name::Pori] 
 State ::  
 Country :: [[Finland]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::23.2] 
-[geo-lat::59.83] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::23.2] 
+[has_place_latitude::59.83] 
 [name::Tvaermiune] 
 State ::  
 Country :: [[Finland]]  

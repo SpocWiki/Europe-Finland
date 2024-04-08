@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::26.53] 
-[geo-lat::60.48] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::26.53] 
+[has_place_latitude::60.48] 
 [name::Pyttis] 
 State ::  
 Country :: [[Finland]]  

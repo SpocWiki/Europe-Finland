@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::26.42] 
-[geo-lat::62.38] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::26.42] 
+[has_place_latitude::62.38] 
 [name::Hankasalmi] 
 State ::  
 Country :: [[Finland]]  

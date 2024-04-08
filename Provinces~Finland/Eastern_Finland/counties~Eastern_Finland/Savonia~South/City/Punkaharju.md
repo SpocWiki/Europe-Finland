@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::29.28] 
-[geo-lat::61.8] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::29.28] 
+[has_place_latitude::61.8] 
 [name::Punkaharju] 
 State ::  
 Country :: [[Finland]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::24.18] 
-[geo-lat::60.75] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::24.18] 
+[has_place_latitude::60.75] 
 [name::Loppi] 
 State ::  
 Country :: [[Finland]]  

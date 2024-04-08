@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::24.23] 
-[geo-lat::65.83] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::24.23] 
+[has_place_latitude::65.83] 
 [name::Tornea] 
 State ::  
 Country :: [[Finland]]  

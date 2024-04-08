@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::21.5] 
-[geo-lat::61.13] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::21.5] 
+[has_place_latitude::61.13] 
 [name::Rauma] 
 State ::  
 Country :: [[Finland]]  

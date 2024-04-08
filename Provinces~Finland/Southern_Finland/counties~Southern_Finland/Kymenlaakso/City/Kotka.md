@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::26.93] 
-[geo-lat::60.47] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::26.93] 
+[has_place_latitude::60.47] 
 [name::Kotka] 
 State ::  
 Country :: [[Finland]]  

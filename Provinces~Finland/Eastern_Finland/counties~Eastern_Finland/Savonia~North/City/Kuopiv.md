@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::27.67] 
-[geo-lat::62.9] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::27.67] 
+[has_place_latitude::62.9] 
 [name::Kuopiv] 
 State ::  
 Country :: [[Finland]]  

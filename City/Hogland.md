@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::25.12] 
-[geo-lat::60.05] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::25.12] 
+[has_place_latitude::60.05] 
 [name::Hogland] 
 State ::  
 Country :: [[Finland]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::26.97] 
-[geo-lat::62.88] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::26.97] 
+[has_place_latitude::62.88] 
 [name::Karttula] 
 State ::  
 Country :: [[Finland]]  

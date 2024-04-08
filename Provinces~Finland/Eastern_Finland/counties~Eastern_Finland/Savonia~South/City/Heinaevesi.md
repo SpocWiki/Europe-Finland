@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::28.53] 
-[geo-lat::62.58] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::28.53] 
+[has_place_latitude::62.58] 
 [name::Heinaevesi] 
 State ::  
 Country :: [[Finland]]  

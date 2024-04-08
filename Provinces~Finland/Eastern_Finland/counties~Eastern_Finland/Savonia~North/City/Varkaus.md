@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::27.88] 
-[geo-lat::62.32] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::27.88] 
+[has_place_latitude::62.32] 
 [name::Varkaus] 
 State ::  
 Country :: [[Finland]]  

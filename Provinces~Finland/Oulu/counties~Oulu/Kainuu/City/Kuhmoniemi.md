@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::29.52] 
-[geo-lat::64.1] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::29.52] 
+[has_place_latitude::64.1] 
 [name::Kuhmoniemi] 
 State ::  
 Country :: [[Finland]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::24.57] 
-[geo-lat::65.05] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::24.57] 
+[has_place_latitude::65.05] 
 [name::Marjaniemi] 
 State ::  
 Country :: [[Finland]]  

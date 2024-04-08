@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::28.48] 
-[geo-lat::62.97] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::28.48] 
+[has_place_latitude::62.97] 
 [name::Kaavi] 
 State ::  
 Country :: [[Finland]]  

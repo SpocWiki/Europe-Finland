@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::24.05] 
-[geo-lat::61.92] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::24.05] 
+[has_place_latitude::61.92] 
 [name::Ruovesi] 
 State ::  
 Country :: [[Finland]]  

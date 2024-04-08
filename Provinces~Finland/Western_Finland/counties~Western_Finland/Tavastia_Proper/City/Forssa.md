@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::23.63] 
-[geo-lat::60.8] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::23.63] 
+[has_place_latitude::60.8] 
 [name::Forssa] 
 State ::  
 Country :: [[Finland]]  

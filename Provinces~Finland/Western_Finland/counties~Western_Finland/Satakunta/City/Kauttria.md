@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::22.17] 
-[geo-lat::61.1] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::22.17] 
+[has_place_latitude::61.1] 
 [name::Kauttria] 
 State ::  
 Country :: [[Finland]]  
