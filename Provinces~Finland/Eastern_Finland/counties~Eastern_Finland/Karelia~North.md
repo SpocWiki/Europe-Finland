@@ -14,6 +14,7 @@ tags:
 - geo/Country/Region
 aliases:
 - North_Karelia
+- North Karelia
 
 Languages:
 - de

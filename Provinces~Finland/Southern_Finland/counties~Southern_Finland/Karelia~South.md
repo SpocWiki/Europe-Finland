@@ -14,6 +14,7 @@ tags:
 - geo/Country/Region
 aliases:
 - South_Karelia
+- South Karelia
 
 Languages:
 - de

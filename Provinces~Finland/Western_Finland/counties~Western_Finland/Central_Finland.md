@@ -13,6 +13,7 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
+- Central Finland
 - Central_Finland
 
 Languages:

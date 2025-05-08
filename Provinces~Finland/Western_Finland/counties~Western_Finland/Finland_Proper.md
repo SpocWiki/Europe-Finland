@@ -13,7 +13,7 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
-- Finland_Proper
+- Finland proper
 
 Languages:
 - de

@@ -14,6 +14,7 @@ tags:
 - geo/Country/Region
 aliases:
 - Southern_Ostrobothnia
+- South Ostrobothnia
 
 Languages:
 - de

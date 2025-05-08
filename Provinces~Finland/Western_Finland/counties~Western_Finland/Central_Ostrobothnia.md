@@ -13,7 +13,7 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
-- Central_Ostrobothnia
+- Central Ostrobothnia
 
 Languages:
 - de

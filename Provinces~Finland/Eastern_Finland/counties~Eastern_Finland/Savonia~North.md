@@ -1,30 +1,31 @@
 ---
-location: [ 63.1 , 27.5 ] 
+location:
+  - 63.1
+  - 27.5
 type: geo-Region
 title: Northern_Savonia
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Northern_Savonia
-
+  - Northern_Savonia
+  - Northern Savonia
+  - North Savo
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
 linkTitle: 
 keywords: 
 layout: 
 publishDate: 
-expiryDate: 
+expiryDate:
 ---
 
 # Northern_Savonia

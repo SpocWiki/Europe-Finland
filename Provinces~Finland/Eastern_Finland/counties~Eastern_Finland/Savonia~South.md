@@ -14,6 +14,8 @@ tags:
 - geo/Country/Region
 aliases:
 - Southern_Savonia
+- Southern Savonia
+- South Savo
 
 Languages:
 - de
