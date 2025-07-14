@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Viitasaari|Viitasaari]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Viitasaari.public|Viitasaari.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Viitasaari.internal|Viitasaari.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Viitasaari.protect|Viitasaari.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Viitasaari.private|Viitasaari.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Viitasaari.personal|Viitasaari.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Viitasaari.secret|Viitasaari.secret]] 
+
+### [Viitasaari.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityViitasaari.public.md) 
+
+### [Viitasaari.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityViitasaari.internal.md) 
+
+### [Viitasaari.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityViitasaari.protect.md) 
+
+### [Viitasaari.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityViitasaari.private.md) 
+
+### [Viitasaari.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityViitasaari.personal.md) 
+
+### [Viitasaari.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityViitasaari.secret.md)
+

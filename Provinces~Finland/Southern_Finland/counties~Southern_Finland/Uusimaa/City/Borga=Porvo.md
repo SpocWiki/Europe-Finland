@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Borga=Porvo|Borga=Porvo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Borga=Porvo.public|Borga=Porvo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Borga=Porvo.internal|Borga=Porvo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Borga=Porvo.protect|Borga=Porvo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Borga=Porvo.private|Borga=Porvo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Borga=Porvo.personal|Borga=Porvo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Borga=Porvo.secret|Borga=Porvo.secret]] 
+
+### [Borga=Porvo.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityBorga=Porvo.public.md) 
+
+### [Borga=Porvo.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityBorga=Porvo.internal.md) 
+
+### [Borga=Porvo.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityBorga=Porvo.protect.md) 
+
+### [Borga=Porvo.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityBorga=Porvo.private.md) 
+
+### [Borga=Porvo.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityBorga=Porvo.personal.md) 
+
+### [Borga=Porvo.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityBorga=Porvo.secret.md)
+

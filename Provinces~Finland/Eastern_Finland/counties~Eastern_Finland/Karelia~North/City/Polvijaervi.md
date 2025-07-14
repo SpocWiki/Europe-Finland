@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Polvijaervi|Polvijaervi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Polvijaervi.public|Polvijaervi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Polvijaervi.internal|Polvijaervi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Polvijaervi.protect|Polvijaervi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Polvijaervi.private|Polvijaervi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Polvijaervi.personal|Polvijaervi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Polvijaervi.secret|Polvijaervi.secret]] 
+
+### [Polvijaervi.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityPolvijaervi.public.md) 
+
+### [Polvijaervi.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityPolvijaervi.internal.md) 
+
+### [Polvijaervi.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityPolvijaervi.protect.md) 
+
+### [Polvijaervi.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityPolvijaervi.private.md) 
+
+### [Polvijaervi.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityPolvijaervi.personal.md) 
+
+### [Polvijaervi.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityPolvijaervi.secret.md)
+

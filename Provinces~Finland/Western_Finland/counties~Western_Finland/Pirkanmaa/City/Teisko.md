@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Teisko|Teisko]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Teisko.public|Teisko.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Teisko.internal|Teisko.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Teisko.protect|Teisko.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Teisko.private|Teisko.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Teisko.personal|Teisko.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Teisko.secret|Teisko.secret]] 
+
+### [Teisko.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityTeisko.public.md) 
+
+### [Teisko.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityTeisko.internal.md) 
+
+### [Teisko.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityTeisko.protect.md) 
+
+### [Teisko.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityTeisko.private.md) 
+
+### [Teisko.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityTeisko.personal.md) 
+
+### [Teisko.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityTeisko.secret.md)
+

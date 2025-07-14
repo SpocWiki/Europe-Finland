@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Vaikeala|Vaikeala]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Vaikeala.public|Vaikeala.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Vaikeala.internal|Vaikeala.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Vaikeala.protect|Vaikeala.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Vaikeala.private|Vaikeala.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Vaikeala.personal|Vaikeala.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Vaikeala.secret|Vaikeala.secret]] 
+
+### [Vaikeala.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CityVaikeala.public.md) 
+
+### [Vaikeala.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CityVaikeala.internal.md) 
+
+### [Vaikeala.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CityVaikeala.protect.md) 
+
+### [Vaikeala.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CityVaikeala.private.md) 
+
+### [Vaikeala.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CityVaikeala.personal.md) 
+
+### [Vaikeala.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CityVaikeala.secret.md)
+

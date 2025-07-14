@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Valeakoski|Valeakoski]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Valeakoski.public|Valeakoski.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Valeakoski.internal|Valeakoski.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Valeakoski.protect|Valeakoski.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Valeakoski.private|Valeakoski.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Valeakoski.personal|Valeakoski.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Valeakoski.secret|Valeakoski.secret]] 
+
+### [Valeakoski.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityValeakoski.public.md) 
+
+### [Valeakoski.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityValeakoski.internal.md) 
+
+### [Valeakoski.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityValeakoski.protect.md) 
+
+### [Valeakoski.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityValeakoski.private.md) 
+
+### [Valeakoski.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityValeakoski.personal.md) 
+
+### [Valeakoski.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityValeakoski.secret.md)
+

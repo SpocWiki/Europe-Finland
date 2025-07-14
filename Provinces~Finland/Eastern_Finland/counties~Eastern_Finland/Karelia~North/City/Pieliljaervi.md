@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Pieliljaervi|Pieliljaervi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Pieliljaervi.public|Pieliljaervi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Pieliljaervi.internal|Pieliljaervi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Pieliljaervi.protect|Pieliljaervi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Pieliljaervi.private|Pieliljaervi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Pieliljaervi.personal|Pieliljaervi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Pieliljaervi.secret|Pieliljaervi.secret]] 
+
+### [Pieliljaervi.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityPieliljaervi.public.md) 
+
+### [Pieliljaervi.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityPieliljaervi.internal.md) 
+
+### [Pieliljaervi.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityPieliljaervi.protect.md) 
+
+### [Pieliljaervi.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityPieliljaervi.private.md) 
+
+### [Pieliljaervi.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityPieliljaervi.personal.md) 
+
+### [Pieliljaervi.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityPieliljaervi.secret.md)
+

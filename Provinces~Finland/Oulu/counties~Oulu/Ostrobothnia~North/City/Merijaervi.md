@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Merijaervi|Merijaervi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Merijaervi.public|Merijaervi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Merijaervi.internal|Merijaervi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Merijaervi.protect|Merijaervi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Merijaervi.private|Merijaervi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Merijaervi.personal|Merijaervi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Merijaervi.secret|Merijaervi.secret]] 
+
+### [Merijaervi.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityMerijaervi.public.md) 
+
+### [Merijaervi.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityMerijaervi.internal.md) 
+
+### [Merijaervi.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityMerijaervi.protect.md) 
+
+### [Merijaervi.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityMerijaervi.private.md) 
+
+### [Merijaervi.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityMerijaervi.personal.md) 
+
+### [Merijaervi.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityMerijaervi.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Raima|Raima]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Raima.public|Raima.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Raima.internal|Raima.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Raima.protect|Raima.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Raima.private|Raima.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Raima.personal|Raima.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Raima.secret|Raima.secret]] 
+
+### [Raima.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Satakunta\CityRaima.public.md) 
+
+### [Raima.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Satakunta\CityRaima.internal.md) 
+
+### [Raima.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Satakunta\CityRaima.protect.md) 
+
+### [Raima.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Satakunta\CityRaima.private.md) 
+
+### [Raima.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Satakunta\CityRaima.personal.md) 
+
+### [Raima.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Satakunta\CityRaima.secret.md)
+

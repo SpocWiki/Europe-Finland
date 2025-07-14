@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Valtimo|Valtimo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Valtimo.public|Valtimo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Valtimo.internal|Valtimo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Valtimo.protect|Valtimo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Valtimo.private|Valtimo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Valtimo.personal|Valtimo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Valtimo.secret|Valtimo.secret]] 
+
+### [Valtimo.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityValtimo.public.md) 
+
+### [Valtimo.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityValtimo.internal.md) 
+
+### [Valtimo.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityValtimo.protect.md) 
+
+### [Valtimo.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityValtimo.private.md) 
+
+### [Valtimo.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityValtimo.personal.md) 
+
+### [Valtimo.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityValtimo.secret.md)
+

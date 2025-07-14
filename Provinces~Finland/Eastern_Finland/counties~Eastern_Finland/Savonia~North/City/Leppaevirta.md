@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Leppaevirta|Leppaevirta]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Leppaevirta.public|Leppaevirta.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Leppaevirta.internal|Leppaevirta.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Leppaevirta.protect|Leppaevirta.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Leppaevirta.private|Leppaevirta.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Leppaevirta.personal|Leppaevirta.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Leppaevirta.secret|Leppaevirta.secret]] 
+
+### [Leppaevirta.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~North\CityLeppaevirta.public.md) 
+
+### [Leppaevirta.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~North\CityLeppaevirta.internal.md) 
+
+### [Leppaevirta.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~North\CityLeppaevirta.protect.md) 
+
+### [Leppaevirta.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~North\CityLeppaevirta.private.md) 
+
+### [Leppaevirta.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~North\CityLeppaevirta.personal.md) 
+
+### [Leppaevirta.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~North\CityLeppaevirta.secret.md)
+

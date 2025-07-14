@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Sysmae|Sysmae]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Sysmae.public|Sysmae.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Sysmae.internal|Sysmae.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Sysmae.protect|Sysmae.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Sysmae.private|Sysmae.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Sysmae.personal|Sysmae.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Sysmae.secret|Sysmae.secret]] 
+
+### [Sysmae.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Päijät-Häme\CitySysmae.public.md) 
+
+### [Sysmae.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Päijät-Häme\CitySysmae.internal.md) 
+
+### [Sysmae.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Päijät-Häme\CitySysmae.protect.md) 
+
+### [Sysmae.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Päijät-Häme\CitySysmae.private.md) 
+
+### [Sysmae.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Päijät-Häme\CitySysmae.personal.md) 
+
+### [Sysmae.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Päijät-Häme\CitySysmae.secret.md)
+

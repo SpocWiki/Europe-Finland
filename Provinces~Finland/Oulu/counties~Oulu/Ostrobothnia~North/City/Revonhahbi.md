@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Revonhahbi|Revonhahbi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Revonhahbi.public|Revonhahbi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Revonhahbi.internal|Revonhahbi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Revonhahbi.protect|Revonhahbi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Revonhahbi.private|Revonhahbi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Revonhahbi.personal|Revonhahbi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Revonhahbi.secret|Revonhahbi.secret]] 
+
+### [Revonhahbi.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityRevonhahbi.public.md) 
+
+### [Revonhahbi.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityRevonhahbi.internal.md) 
+
+### [Revonhahbi.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityRevonhahbi.protect.md) 
+
+### [Revonhahbi.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityRevonhahbi.private.md) 
+
+### [Revonhahbi.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityRevonhahbi.personal.md) 
+
+### [Revonhahbi.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityRevonhahbi.secret.md)
+

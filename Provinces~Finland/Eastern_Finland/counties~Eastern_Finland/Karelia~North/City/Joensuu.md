@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Joensuu|Joensuu]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Joensuu.public|Joensuu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Joensuu.internal|Joensuu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Joensuu.protect|Joensuu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Joensuu.private|Joensuu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Joensuu.personal|Joensuu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Joensuu.secret|Joensuu.secret]] 
+
+### [Joensuu.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityJoensuu.public.md) 
+
+### [Joensuu.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityJoensuu.internal.md) 
+
+### [Joensuu.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityJoensuu.protect.md) 
+
+### [Joensuu.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityJoensuu.private.md) 
+
+### [Joensuu.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityJoensuu.personal.md) 
+
+### [Joensuu.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityJoensuu.secret.md)
+

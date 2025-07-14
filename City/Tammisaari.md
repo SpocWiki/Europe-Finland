@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Tammisaari|Tammisaari]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Tammisaari.public|Tammisaari.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Tammisaari.internal|Tammisaari.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Tammisaari.protect|Tammisaari.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Tammisaari.private|Tammisaari.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Tammisaari.personal|Tammisaari.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Tammisaari.secret|Tammisaari.secret]] 
+
+### [Tammisaari.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\CityTammisaari.public.md) 
+
+### [Tammisaari.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\CityTammisaari.internal.md) 
+
+### [Tammisaari.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\CityTammisaari.protect.md) 
+
+### [Tammisaari.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\CityTammisaari.private.md) 
+
+### [Tammisaari.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\CityTammisaari.personal.md) 
+
+### [Tammisaari.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\CityTammisaari.secret.md)
+

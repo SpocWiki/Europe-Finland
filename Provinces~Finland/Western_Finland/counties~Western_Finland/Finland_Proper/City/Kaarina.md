@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Kaarina|Kaarina]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Kaarina.public|Kaarina.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Kaarina.internal|Kaarina.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Kaarina.protect|Kaarina.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Kaarina.private|Kaarina.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Kaarina.personal|Kaarina.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Kaarina.secret|Kaarina.secret]] 
+
+### [Kaarina.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityKaarina.public.md) 
+
+### [Kaarina.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityKaarina.internal.md) 
+
+### [Kaarina.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityKaarina.protect.md) 
+
+### [Kaarina.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityKaarina.private.md) 
+
+### [Kaarina.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityKaarina.personal.md) 
+
+### [Kaarina.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityKaarina.secret.md)
+

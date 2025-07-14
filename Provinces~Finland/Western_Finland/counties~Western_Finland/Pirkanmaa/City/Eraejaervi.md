@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Eraejaervi|Eraejaervi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Eraejaervi.public|Eraejaervi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Eraejaervi.internal|Eraejaervi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Eraejaervi.protect|Eraejaervi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Eraejaervi.private|Eraejaervi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Eraejaervi.personal|Eraejaervi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Eraejaervi.secret|Eraejaervi.secret]] 
+
+### [Eraejaervi.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityEraejaervi.public.md) 
+
+### [Eraejaervi.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityEraejaervi.internal.md) 
+
+### [Eraejaervi.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityEraejaervi.protect.md) 
+
+### [Eraejaervi.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityEraejaervi.private.md) 
+
+### [Eraejaervi.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityEraejaervi.personal.md) 
+
+### [Eraejaervi.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityEraejaervi.secret.md)
+

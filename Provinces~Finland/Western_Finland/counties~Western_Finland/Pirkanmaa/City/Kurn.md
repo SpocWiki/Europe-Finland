@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Kurn|Kurn]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Kurn.public|Kurn.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Kurn.internal|Kurn.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Kurn.protect|Kurn.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Kurn.private|Kurn.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Kurn.personal|Kurn.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Kurn.secret|Kurn.secret]] 
+
+### [Kurn.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityKurn.public.md) 
+
+### [Kurn.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityKurn.internal.md) 
+
+### [Kurn.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityKurn.protect.md) 
+
+### [Kurn.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityKurn.private.md) 
+
+### [Kurn.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityKurn.personal.md) 
+
+### [Kurn.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityKurn.secret.md)
+

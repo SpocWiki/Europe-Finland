@@ -40,11 +40,16 @@ markerFolder: ./Kainuu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/Counties/Kainuu|Kainuu]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/Counties/Kainuu.public|Kainuu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/Counties/Kainuu.internal|Kainuu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/Counties/Kainuu.protect|Kainuu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/Counties/Kainuu.private|Kainuu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/Counties/Kainuu.personal|Kainuu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/Counties/Kainuu.secret|Kainuu.secret]] 
+
+### [Kainuu.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~OuluKainuu.public.md) 
+
+### [Kainuu.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~OuluKainuu.internal.md) 
+
+### [Kainuu.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~OuluKainuu.protect.md) 
+
+### [Kainuu.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~OuluKainuu.private.md) 
+
+### [Kainuu.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~OuluKainuu.personal.md) 
+
+### [Kainuu.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~OuluKainuu.secret.md)
 

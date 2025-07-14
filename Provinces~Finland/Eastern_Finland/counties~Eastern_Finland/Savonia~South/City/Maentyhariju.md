@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Maentyhariju|Maentyhariju]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Maentyhariju.public|Maentyhariju.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Maentyhariju.internal|Maentyhariju.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Maentyhariju.protect|Maentyhariju.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Maentyhariju.private|Maentyhariju.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Maentyhariju.personal|Maentyhariju.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Maentyhariju.secret|Maentyhariju.secret]] 
+
+### [Maentyhariju.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityMaentyhariju.public.md) 
+
+### [Maentyhariju.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityMaentyhariju.internal.md) 
+
+### [Maentyhariju.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityMaentyhariju.protect.md) 
+
+### [Maentyhariju.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityMaentyhariju.private.md) 
+
+### [Maentyhariju.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityMaentyhariju.personal.md) 
+
+### [Maentyhariju.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityMaentyhariju.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Hankasalmi|Hankasalmi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Hankasalmi.public|Hankasalmi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Hankasalmi.internal|Hankasalmi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Hankasalmi.protect|Hankasalmi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Hankasalmi.private|Hankasalmi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Hankasalmi.personal|Hankasalmi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Hankasalmi.secret|Hankasalmi.secret]] 
+
+### [Hankasalmi.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityHankasalmi.public.md) 
+
+### [Hankasalmi.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityHankasalmi.internal.md) 
+
+### [Hankasalmi.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityHankasalmi.protect.md) 
+
+### [Hankasalmi.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityHankasalmi.private.md) 
+
+### [Hankasalmi.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityHankasalmi.personal.md) 
+
+### [Hankasalmi.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityHankasalmi.secret.md)
+

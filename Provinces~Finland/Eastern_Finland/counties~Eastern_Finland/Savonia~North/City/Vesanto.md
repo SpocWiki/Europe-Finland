@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Vesanto|Vesanto]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Vesanto.public|Vesanto.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Vesanto.internal|Vesanto.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Vesanto.protect|Vesanto.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Vesanto.private|Vesanto.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Vesanto.personal|Vesanto.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Vesanto.secret|Vesanto.secret]] 
+
+### [Vesanto.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~North\CityVesanto.public.md) 
+
+### [Vesanto.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~North\CityVesanto.internal.md) 
+
+### [Vesanto.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~North\CityVesanto.protect.md) 
+
+### [Vesanto.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~North\CityVesanto.private.md) 
+
+### [Vesanto.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~North\CityVesanto.personal.md) 
+
+### [Vesanto.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~North\CityVesanto.secret.md)
+

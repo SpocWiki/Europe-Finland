@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Teuva|Teuva]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Teuva.public|Teuva.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Teuva.internal|Teuva.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Teuva.protect|Teuva.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Teuva.private|Teuva.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Teuva.personal|Teuva.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Teuva.secret|Teuva.secret]] 
+
+### [Teuva.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~South\CityTeuva.public.md) 
+
+### [Teuva.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~South\CityTeuva.internal.md) 
+
+### [Teuva.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~South\CityTeuva.protect.md) 
+
+### [Teuva.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~South\CityTeuva.private.md) 
+
+### [Teuva.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~South\CityTeuva.personal.md) 
+
+### [Teuva.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~South\CityTeuva.secret.md)
+

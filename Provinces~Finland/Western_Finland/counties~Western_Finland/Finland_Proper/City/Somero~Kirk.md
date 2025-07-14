@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Somero~Kirk|Somero~Kirk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Somero~Kirk.public|Somero~Kirk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Somero~Kirk.internal|Somero~Kirk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Somero~Kirk.protect|Somero~Kirk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Somero~Kirk.private|Somero~Kirk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Somero~Kirk.personal|Somero~Kirk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Somero~Kirk.secret|Somero~Kirk.secret]] 
+
+### [Somero~Kirk.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CitySomero~Kirk.public.md) 
+
+### [Somero~Kirk.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CitySomero~Kirk.internal.md) 
+
+### [Somero~Kirk.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CitySomero~Kirk.protect.md) 
+
+### [Somero~Kirk.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CitySomero~Kirk.private.md) 
+
+### [Somero~Kirk.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CitySomero~Kirk.personal.md) 
+
+### [Somero~Kirk.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CitySomero~Kirk.secret.md)
+

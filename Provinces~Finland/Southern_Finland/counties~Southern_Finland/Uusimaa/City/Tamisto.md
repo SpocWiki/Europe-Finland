@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Tamisto|Tamisto]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Tamisto.public|Tamisto.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Tamisto.internal|Tamisto.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Tamisto.protect|Tamisto.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Tamisto.private|Tamisto.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Tamisto.personal|Tamisto.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Tamisto.secret|Tamisto.secret]] 
+
+### [Tamisto.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityTamisto.public.md) 
+
+### [Tamisto.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityTamisto.internal.md) 
+
+### [Tamisto.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityTamisto.protect.md) 
+
+### [Tamisto.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityTamisto.private.md) 
+
+### [Tamisto.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityTamisto.personal.md) 
+
+### [Tamisto.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityTamisto.secret.md)
+

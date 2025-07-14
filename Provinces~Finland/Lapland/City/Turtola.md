@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Turtola|Turtola]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Turtola.public|Turtola.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Turtola.internal|Turtola.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Turtola.protect|Turtola.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Turtola.private|Turtola.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Turtola.personal|Turtola.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Turtola.secret|Turtola.secret]] 
+
+### [Turtola.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityTurtola.public.md) 
+
+### [Turtola.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityTurtola.internal.md) 
+
+### [Turtola.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityTurtola.protect.md) 
+
+### [Turtola.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityTurtola.private.md) 
+
+### [Turtola.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityTurtola.personal.md) 
+
+### [Turtola.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityTurtola.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Pudasjaervi|Pudasjaervi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Pudasjaervi.public|Pudasjaervi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Pudasjaervi.internal|Pudasjaervi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Pudasjaervi.protect|Pudasjaervi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Pudasjaervi.private|Pudasjaervi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Pudasjaervi.personal|Pudasjaervi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Pudasjaervi.secret|Pudasjaervi.secret]] 
+
+### [Pudasjaervi.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityPudasjaervi.public.md) 
+
+### [Pudasjaervi.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityPudasjaervi.internal.md) 
+
+### [Pudasjaervi.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityPudasjaervi.protect.md) 
+
+### [Pudasjaervi.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityPudasjaervi.private.md) 
+
+### [Pudasjaervi.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityPudasjaervi.personal.md) 
+
+### [Pudasjaervi.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityPudasjaervi.secret.md)
+

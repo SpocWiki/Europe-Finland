@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Kotka|Kotka]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Kotka.public|Kotka.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Kotka.internal|Kotka.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Kotka.protect|Kotka.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Kotka.private|Kotka.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Kotka.personal|Kotka.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Kotka.secret|Kotka.secret]] 
+
+### [Kotka.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CityKotka.public.md) 
+
+### [Kotka.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CityKotka.internal.md) 
+
+### [Kotka.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CityKotka.protect.md) 
+
+### [Kotka.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CityKotka.private.md) 
+
+### [Kotka.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CityKotka.personal.md) 
+
+### [Kotka.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CityKotka.secret.md)
+

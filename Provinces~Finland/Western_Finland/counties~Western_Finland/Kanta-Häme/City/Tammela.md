@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Tammela|Tammela]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Tammela.public|Tammela.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Tammela.internal|Tammela.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Tammela.protect|Tammela.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Tammela.private|Tammela.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Tammela.personal|Tammela.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Tammela.secret|Tammela.secret]] 
+
+### [Tammela.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityTammela.public.md) 
+
+### [Tammela.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityTammela.internal.md) 
+
+### [Tammela.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityTammela.protect.md) 
+
+### [Tammela.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityTammela.private.md) 
+
+### [Tammela.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityTammela.personal.md) 
+
+### [Tammela.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityTammela.secret.md)
+

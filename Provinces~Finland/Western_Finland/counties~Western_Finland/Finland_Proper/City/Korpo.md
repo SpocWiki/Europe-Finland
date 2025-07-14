@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Korpo|Korpo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Korpo.public|Korpo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Korpo.internal|Korpo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Korpo.protect|Korpo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Korpo.private|Korpo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Korpo.personal|Korpo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Korpo.secret|Korpo.secret]] 
+
+### [Korpo.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityKorpo.public.md) 
+
+### [Korpo.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityKorpo.internal.md) 
+
+### [Korpo.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityKorpo.protect.md) 
+
+### [Korpo.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityKorpo.private.md) 
+
+### [Korpo.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityKorpo.personal.md) 
+
+### [Korpo.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityKorpo.secret.md)
+

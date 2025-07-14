@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Kuusamo|Kuusamo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Kuusamo.public|Kuusamo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Kuusamo.internal|Kuusamo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Kuusamo.protect|Kuusamo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Kuusamo.private|Kuusamo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Kuusamo.personal|Kuusamo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Kuusamo.secret|Kuusamo.secret]] 
+
+### [Kuusamo.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityKuusamo.public.md) 
+
+### [Kuusamo.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityKuusamo.internal.md) 
+
+### [Kuusamo.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityKuusamo.protect.md) 
+
+### [Kuusamo.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityKuusamo.private.md) 
+
+### [Kuusamo.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityKuusamo.personal.md) 
+
+### [Kuusamo.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityKuusamo.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Kajaani|Kajaani]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Kajaani.public|Kajaani.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Kajaani.internal|Kajaani.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Kajaani.protect|Kajaani.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Kajaani.private|Kajaani.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Kajaani.personal|Kajaani.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Kajaani.secret|Kajaani.secret]] 
+
+### [Kajaani.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityKajaani.public.md) 
+
+### [Kajaani.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityKajaani.internal.md) 
+
+### [Kajaani.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityKajaani.protect.md) 
+
+### [Kajaani.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityKajaani.private.md) 
+
+### [Kajaani.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityKajaani.personal.md) 
+
+### [Kajaani.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityKajaani.secret.md)
+

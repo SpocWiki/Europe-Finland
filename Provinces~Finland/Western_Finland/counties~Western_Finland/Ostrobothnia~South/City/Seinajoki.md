@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Seinajoki|Seinajoki]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Seinajoki.public|Seinajoki.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Seinajoki.internal|Seinajoki.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Seinajoki.protect|Seinajoki.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Seinajoki.private|Seinajoki.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Seinajoki.personal|Seinajoki.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Seinajoki.secret|Seinajoki.secret]] 
+
+### [Seinajoki.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~South\CitySeinajoki.public.md) 
+
+### [Seinajoki.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~South\CitySeinajoki.internal.md) 
+
+### [Seinajoki.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~South\CitySeinajoki.protect.md) 
+
+### [Seinajoki.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~South\CitySeinajoki.private.md) 
+
+### [Seinajoki.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~South\CitySeinajoki.personal.md) 
+
+### [Seinajoki.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~South\CitySeinajoki.secret.md)
+

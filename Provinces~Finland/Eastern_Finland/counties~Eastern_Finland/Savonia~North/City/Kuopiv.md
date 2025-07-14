@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Kuopiv|Kuopiv]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Kuopiv.public|Kuopiv.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Kuopiv.internal|Kuopiv.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Kuopiv.protect|Kuopiv.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Kuopiv.private|Kuopiv.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Kuopiv.personal|Kuopiv.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Kuopiv.secret|Kuopiv.secret]] 
+
+### [Kuopiv.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~North\CityKuopiv.public.md) 
+
+### [Kuopiv.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~North\CityKuopiv.internal.md) 
+
+### [Kuopiv.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~North\CityKuopiv.protect.md) 
+
+### [Kuopiv.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~North\CityKuopiv.private.md) 
+
+### [Kuopiv.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~North\CityKuopiv.personal.md) 
+
+### [Kuopiv.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~North\CityKuopiv.secret.md)
+

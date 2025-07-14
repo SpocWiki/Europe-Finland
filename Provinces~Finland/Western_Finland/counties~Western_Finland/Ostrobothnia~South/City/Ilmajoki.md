@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Ilmajoki|Ilmajoki]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Ilmajoki.public|Ilmajoki.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Ilmajoki.internal|Ilmajoki.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Ilmajoki.protect|Ilmajoki.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Ilmajoki.private|Ilmajoki.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Ilmajoki.personal|Ilmajoki.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Ilmajoki.secret|Ilmajoki.secret]] 
+
+### [Ilmajoki.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~South\CityIlmajoki.public.md) 
+
+### [Ilmajoki.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~South\CityIlmajoki.internal.md) 
+
+### [Ilmajoki.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~South\CityIlmajoki.protect.md) 
+
+### [Ilmajoki.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~South\CityIlmajoki.private.md) 
+
+### [Ilmajoki.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~South\CityIlmajoki.personal.md) 
+
+### [Ilmajoki.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~South\CityIlmajoki.secret.md)
+

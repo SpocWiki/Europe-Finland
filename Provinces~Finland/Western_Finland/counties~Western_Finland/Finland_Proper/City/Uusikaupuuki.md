@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Uusikaupuuki|Uusikaupuuki]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Uusikaupuuki.public|Uusikaupuuki.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Uusikaupuuki.internal|Uusikaupuuki.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Uusikaupuuki.protect|Uusikaupuuki.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Uusikaupuuki.private|Uusikaupuuki.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Uusikaupuuki.personal|Uusikaupuuki.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Uusikaupuuki.secret|Uusikaupuuki.secret]] 
+
+### [Uusikaupuuki.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityUusikaupuuki.public.md) 
+
+### [Uusikaupuuki.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityUusikaupuuki.internal.md) 
+
+### [Uusikaupuuki.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityUusikaupuuki.protect.md) 
+
+### [Uusikaupuuki.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityUusikaupuuki.private.md) 
+
+### [Uusikaupuuki.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityUusikaupuuki.personal.md) 
+
+### [Uusikaupuuki.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityUusikaupuuki.secret.md)
+

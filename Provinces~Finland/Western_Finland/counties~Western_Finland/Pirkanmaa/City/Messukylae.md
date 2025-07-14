@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Messukylae|Messukylae]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Messukylae.public|Messukylae.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Messukylae.internal|Messukylae.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Messukylae.protect|Messukylae.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Messukylae.private|Messukylae.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Messukylae.personal|Messukylae.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Messukylae.secret|Messukylae.secret]] 
+
+### [Messukylae.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityMessukylae.public.md) 
+
+### [Messukylae.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityMessukylae.internal.md) 
+
+### [Messukylae.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityMessukylae.protect.md) 
+
+### [Messukylae.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityMessukylae.private.md) 
+
+### [Messukylae.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityMessukylae.personal.md) 
+
+### [Messukylae.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityMessukylae.secret.md)
+

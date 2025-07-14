@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Walsoerarme|Walsoerarme]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Walsoerarme.public|Walsoerarme.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Walsoerarme.internal|Walsoerarme.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Walsoerarme.protect|Walsoerarme.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Walsoerarme.private|Walsoerarme.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Walsoerarme.personal|Walsoerarme.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Walsoerarme.secret|Walsoerarme.secret]] 
+
+### [Walsoerarme.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia\CityWalsoerarme.public.md) 
+
+### [Walsoerarme.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia\CityWalsoerarme.internal.md) 
+
+### [Walsoerarme.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia\CityWalsoerarme.protect.md) 
+
+### [Walsoerarme.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia\CityWalsoerarme.private.md) 
+
+### [Walsoerarme.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia\CityWalsoerarme.personal.md) 
+
+### [Walsoerarme.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia\CityWalsoerarme.secret.md)
+

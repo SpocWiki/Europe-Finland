@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Saeaksmaeki|Saeaksmaeki]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Saeaksmaeki.public|Saeaksmaeki.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Saeaksmaeki.internal|Saeaksmaeki.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Saeaksmaeki.protect|Saeaksmaeki.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Saeaksmaeki.private|Saeaksmaeki.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Saeaksmaeki.personal|Saeaksmaeki.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Saeaksmaeki.secret|Saeaksmaeki.secret]] 
+
+### [Saeaksmaeki.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CitySaeaksmaeki.public.md) 
+
+### [Saeaksmaeki.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CitySaeaksmaeki.internal.md) 
+
+### [Saeaksmaeki.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CitySaeaksmaeki.protect.md) 
+
+### [Saeaksmaeki.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CitySaeaksmaeki.private.md) 
+
+### [Saeaksmaeki.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CitySaeaksmaeki.personal.md) 
+
+### [Saeaksmaeki.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CitySaeaksmaeki.secret.md)
+

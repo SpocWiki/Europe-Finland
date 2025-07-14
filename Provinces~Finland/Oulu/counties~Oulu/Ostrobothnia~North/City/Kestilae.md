@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Kestilae|Kestilae]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Kestilae.public|Kestilae.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Kestilae.internal|Kestilae.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Kestilae.protect|Kestilae.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Kestilae.private|Kestilae.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Kestilae.personal|Kestilae.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Kestilae.secret|Kestilae.secret]] 
+
+### [Kestilae.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityKestilae.public.md) 
+
+### [Kestilae.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityKestilae.internal.md) 
+
+### [Kestilae.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityKestilae.protect.md) 
+
+### [Kestilae.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityKestilae.private.md) 
+
+### [Kestilae.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityKestilae.personal.md) 
+
+### [Kestilae.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityKestilae.secret.md)
+

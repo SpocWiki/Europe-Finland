@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Sotkamo~Kirk.|Sotkamo~Kirk.]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Sotkamo~Kirk..public|Sotkamo~Kirk..public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Sotkamo~Kirk..internal|Sotkamo~Kirk..internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Sotkamo~Kirk..protect|Sotkamo~Kirk..protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Sotkamo~Kirk..private|Sotkamo~Kirk..private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Sotkamo~Kirk..personal|Sotkamo~Kirk..personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Sotkamo~Kirk..secret|Sotkamo~Kirk..secret]] 
+
+### [Sotkamo~Kirk..public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySotkamo~Kirk..public.md) 
+
+### [Sotkamo~Kirk..internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySotkamo~Kirk..internal.md) 
+
+### [Sotkamo~Kirk..protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySotkamo~Kirk..protect.md) 
+
+### [Sotkamo~Kirk..private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySotkamo~Kirk..private.md) 
+
+### [Sotkamo~Kirk..personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySotkamo~Kirk..personal.md) 
+
+### [Sotkamo~Kirk..secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySotkamo~Kirk..secret.md)
+

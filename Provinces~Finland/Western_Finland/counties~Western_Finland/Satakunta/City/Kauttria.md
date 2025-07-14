@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Kauttria|Kauttria]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Kauttria.public|Kauttria.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Kauttria.internal|Kauttria.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Kauttria.protect|Kauttria.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Kauttria.private|Kauttria.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Kauttria.personal|Kauttria.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Kauttria.secret|Kauttria.secret]] 
+
+### [Kauttria.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Satakunta\CityKauttria.public.md) 
+
+### [Kauttria.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Satakunta\CityKauttria.internal.md) 
+
+### [Kauttria.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Satakunta\CityKauttria.protect.md) 
+
+### [Kauttria.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Satakunta\CityKauttria.private.md) 
+
+### [Kauttria.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Satakunta\CityKauttria.personal.md) 
+
+### [Kauttria.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Satakunta\CityKauttria.secret.md)
+

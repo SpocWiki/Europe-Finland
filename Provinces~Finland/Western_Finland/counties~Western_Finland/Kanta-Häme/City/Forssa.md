@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Forssa|Forssa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Forssa.public|Forssa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Forssa.internal|Forssa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Forssa.protect|Forssa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Forssa.private|Forssa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Forssa.personal|Forssa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Forssa.secret|Forssa.secret]] 
+
+### [Forssa.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityForssa.public.md) 
+
+### [Forssa.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityForssa.internal.md) 
+
+### [Forssa.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityForssa.protect.md) 
+
+### [Forssa.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityForssa.private.md) 
+
+### [Forssa.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityForssa.personal.md) 
+
+### [Forssa.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityForssa.secret.md)
+

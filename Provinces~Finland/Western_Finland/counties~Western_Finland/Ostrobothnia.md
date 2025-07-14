@@ -40,11 +40,16 @@ markerFolder: ./Ostrobothnia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/Counties/Ostrobothnia|Ostrobothnia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/Counties/Ostrobothnia.public|Ostrobothnia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/Counties/Ostrobothnia.internal|Ostrobothnia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/Counties/Ostrobothnia.protect|Ostrobothnia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/Counties/Ostrobothnia.private|Ostrobothnia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/Counties/Ostrobothnia.personal|Ostrobothnia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/Counties/Ostrobothnia.secret|Ostrobothnia.secret]] 
+
+### [Ostrobothnia.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandOstrobothnia.public.md) 
+
+### [Ostrobothnia.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandOstrobothnia.internal.md) 
+
+### [Ostrobothnia.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandOstrobothnia.protect.md) 
+
+### [Ostrobothnia.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandOstrobothnia.private.md) 
+
+### [Ostrobothnia.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandOstrobothnia.personal.md) 
+
+### [Ostrobothnia.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandOstrobothnia.secret.md)
 

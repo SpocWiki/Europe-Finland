@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Nastola|Nastola]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Nastola.public|Nastola.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Nastola.internal|Nastola.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Nastola.protect|Nastola.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Nastola.private|Nastola.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Nastola.personal|Nastola.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Nastola.secret|Nastola.secret]] 
+
+### [Nastola.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Päijät-Häme\CityNastola.public.md) 
+
+### [Nastola.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Päijät-Häme\CityNastola.internal.md) 
+
+### [Nastola.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Päijät-Häme\CityNastola.protect.md) 
+
+### [Nastola.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Päijät-Häme\CityNastola.private.md) 
+
+### [Nastola.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Päijät-Häme\CityNastola.personal.md) 
+
+### [Nastola.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Päijät-Häme\CityNastola.secret.md)
+

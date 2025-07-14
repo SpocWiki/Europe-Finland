@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Maentsaela|Maentsaela]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Maentsaela.public|Maentsaela.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Maentsaela.internal|Maentsaela.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Maentsaela.protect|Maentsaela.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Maentsaela.private|Maentsaela.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Maentsaela.personal|Maentsaela.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Maentsaela.secret|Maentsaela.secret]] 
+
+### [Maentsaela.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityMaentsaela.public.md) 
+
+### [Maentsaela.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityMaentsaela.internal.md) 
+
+### [Maentsaela.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityMaentsaela.protect.md) 
+
+### [Maentsaela.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityMaentsaela.private.md) 
+
+### [Maentsaela.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityMaentsaela.personal.md) 
+
+### [Maentsaela.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityMaentsaela.secret.md)
+

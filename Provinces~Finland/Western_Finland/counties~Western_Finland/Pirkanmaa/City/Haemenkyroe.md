@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Haemenkyroe|Haemenkyroe]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Haemenkyroe.public|Haemenkyroe.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Haemenkyroe.internal|Haemenkyroe.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Haemenkyroe.protect|Haemenkyroe.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Haemenkyroe.private|Haemenkyroe.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Haemenkyroe.personal|Haemenkyroe.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Haemenkyroe.secret|Haemenkyroe.secret]] 
+
+### [Haemenkyroe.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityHaemenkyroe.public.md) 
+
+### [Haemenkyroe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityHaemenkyroe.internal.md) 
+
+### [Haemenkyroe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityHaemenkyroe.protect.md) 
+
+### [Haemenkyroe.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityHaemenkyroe.private.md) 
+
+### [Haemenkyroe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityHaemenkyroe.personal.md) 
+
+### [Haemenkyroe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityHaemenkyroe.secret.md)
+

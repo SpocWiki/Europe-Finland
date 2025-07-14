@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Kuusankoski|Kuusankoski]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Kuusankoski.public|Kuusankoski.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Kuusankoski.internal|Kuusankoski.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Kuusankoski.protect|Kuusankoski.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Kuusankoski.private|Kuusankoski.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Kuusankoski.personal|Kuusankoski.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Kuusankoski.secret|Kuusankoski.secret]] 
+
+### [Kuusankoski.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CityKuusankoski.public.md) 
+
+### [Kuusankoski.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CityKuusankoski.internal.md) 
+
+### [Kuusankoski.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CityKuusankoski.protect.md) 
+
+### [Kuusankoski.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CityKuusankoski.private.md) 
+
+### [Kuusankoski.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CityKuusankoski.personal.md) 
+
+### [Kuusankoski.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CityKuusankoski.secret.md)
+

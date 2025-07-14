@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Suursaari|Suursaari]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Suursaari.public|Suursaari.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Suursaari.internal|Suursaari.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Suursaari.protect|Suursaari.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Suursaari.private|Suursaari.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Suursaari.personal|Suursaari.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Suursaari.secret|Suursaari.secret]] 
+
+### [Suursaari.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\CitySuursaari.public.md) 
+
+### [Suursaari.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\CitySuursaari.internal.md) 
+
+### [Suursaari.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\CitySuursaari.protect.md) 
+
+### [Suursaari.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\CitySuursaari.private.md) 
+
+### [Suursaari.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\CitySuursaari.personal.md) 
+
+### [Suursaari.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\CitySuursaari.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Somero~Langs.|Somero~Langs.]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Somero~Langs..public|Somero~Langs..public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Somero~Langs..internal|Somero~Langs..internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Somero~Langs..protect|Somero~Langs..protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Somero~Langs..private|Somero~Langs..private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Somero~Langs..personal|Somero~Langs..personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Somero~Langs..secret|Somero~Langs..secret]] 
+
+### [Somero~Langs..public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CitySomero~Langs..public.md) 
+
+### [Somero~Langs..internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CitySomero~Langs..internal.md) 
+
+### [Somero~Langs..protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CitySomero~Langs..protect.md) 
+
+### [Somero~Langs..private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CitySomero~Langs..private.md) 
+
+### [Somero~Langs..personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CitySomero~Langs..personal.md) 
+
+### [Somero~Langs..secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CitySomero~Langs..secret.md)
+

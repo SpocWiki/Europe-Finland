@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Mustasaari|Mustasaari]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Mustasaari.public|Mustasaari.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Mustasaari.internal|Mustasaari.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Mustasaari.protect|Mustasaari.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Mustasaari.private|Mustasaari.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Mustasaari.personal|Mustasaari.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Mustasaari.secret|Mustasaari.secret]] 
+
+### [Mustasaari.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia\CityMustasaari.public.md) 
+
+### [Mustasaari.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia\CityMustasaari.internal.md) 
+
+### [Mustasaari.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia\CityMustasaari.protect.md) 
+
+### [Mustasaari.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia\CityMustasaari.private.md) 
+
+### [Mustasaari.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia\CityMustasaari.personal.md) 
+
+### [Mustasaari.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia\CityMustasaari.secret.md)
+

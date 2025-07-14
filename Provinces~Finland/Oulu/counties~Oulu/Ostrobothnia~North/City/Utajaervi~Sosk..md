@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Utajaervi~Sosk.|Utajaervi~Sosk.]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Utajaervi~Sosk..public|Utajaervi~Sosk..public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Utajaervi~Sosk..internal|Utajaervi~Sosk..internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Utajaervi~Sosk..protect|Utajaervi~Sosk..protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Utajaervi~Sosk..private|Utajaervi~Sosk..private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Utajaervi~Sosk..personal|Utajaervi~Sosk..personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Utajaervi~Sosk..secret|Utajaervi~Sosk..secret]] 
+
+### [Utajaervi~Sosk..public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityUtajaervi~Sosk..public.md) 
+
+### [Utajaervi~Sosk..internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityUtajaervi~Sosk..internal.md) 
+
+### [Utajaervi~Sosk..protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityUtajaervi~Sosk..protect.md) 
+
+### [Utajaervi~Sosk..private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityUtajaervi~Sosk..private.md) 
+
+### [Utajaervi~Sosk..personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityUtajaervi~Sosk..personal.md) 
+
+### [Utajaervi~Sosk..secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityUtajaervi~Sosk..secret.md)
+

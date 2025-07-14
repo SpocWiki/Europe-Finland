@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Huittinen|Huittinen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Huittinen.public|Huittinen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Huittinen.internal|Huittinen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Huittinen.protect|Huittinen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Huittinen.private|Huittinen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Huittinen.personal|Huittinen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Huittinen.secret|Huittinen.secret]] 
+
+### [Huittinen.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Satakunta\CityHuittinen.public.md) 
+
+### [Huittinen.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Satakunta\CityHuittinen.internal.md) 
+
+### [Huittinen.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Satakunta\CityHuittinen.protect.md) 
+
+### [Huittinen.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Satakunta\CityHuittinen.private.md) 
+
+### [Huittinen.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Satakunta\CityHuittinen.personal.md) 
+
+### [Huittinen.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Satakunta\CityHuittinen.secret.md)
+

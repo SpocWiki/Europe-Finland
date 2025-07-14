@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Punkaharju|Punkaharju]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Punkaharju.public|Punkaharju.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Punkaharju.internal|Punkaharju.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Punkaharju.protect|Punkaharju.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Punkaharju.private|Punkaharju.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Punkaharju.personal|Punkaharju.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Punkaharju.secret|Punkaharju.secret]] 
+
+### [Punkaharju.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityPunkaharju.public.md) 
+
+### [Punkaharju.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityPunkaharju.internal.md) 
+
+### [Punkaharju.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityPunkaharju.protect.md) 
+
+### [Punkaharju.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityPunkaharju.private.md) 
+
+### [Punkaharju.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityPunkaharju.personal.md) 
+
+### [Punkaharju.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityPunkaharju.secret.md)
+

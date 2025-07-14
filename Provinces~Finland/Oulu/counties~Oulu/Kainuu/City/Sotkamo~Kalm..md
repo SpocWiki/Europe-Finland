@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Sotkamo~Kalm.|Sotkamo~Kalm.]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Sotkamo~Kalm..public|Sotkamo~Kalm..public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Sotkamo~Kalm..internal|Sotkamo~Kalm..internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Sotkamo~Kalm..protect|Sotkamo~Kalm..protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Sotkamo~Kalm..private|Sotkamo~Kalm..private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Sotkamo~Kalm..personal|Sotkamo~Kalm..personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Sotkamo~Kalm..secret|Sotkamo~Kalm..secret]] 
+
+### [Sotkamo~Kalm..public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySotkamo~Kalm..public.md) 
+
+### [Sotkamo~Kalm..internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySotkamo~Kalm..internal.md) 
+
+### [Sotkamo~Kalm..protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySotkamo~Kalm..protect.md) 
+
+### [Sotkamo~Kalm..private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySotkamo~Kalm..private.md) 
+
+### [Sotkamo~Kalm..personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySotkamo~Kalm..personal.md) 
+
+### [Sotkamo~Kalm..secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySotkamo~Kalm..secret.md)
+

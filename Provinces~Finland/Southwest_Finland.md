@@ -24,3 +24,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Southwest%20Finland)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Southwest_Finland.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~FinlandSouthwest_Finland.public.md) 
+
+### [Southwest_Finland.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~FinlandSouthwest_Finland.internal.md) 
+
+### [Southwest_Finland.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~FinlandSouthwest_Finland.protect.md) 
+
+### [Southwest_Finland.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~FinlandSouthwest_Finland.private.md) 
+
+### [Southwest_Finland.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~FinlandSouthwest_Finland.personal.md) 
+
+### [Southwest_Finland.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~FinlandSouthwest_Finland.secret.md)
+

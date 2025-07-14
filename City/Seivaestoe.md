@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Seivaestoe|Seivaestoe]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Seivaestoe.public|Seivaestoe.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Seivaestoe.internal|Seivaestoe.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Seivaestoe.protect|Seivaestoe.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Seivaestoe.private|Seivaestoe.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Seivaestoe.personal|Seivaestoe.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Seivaestoe.secret|Seivaestoe.secret]] 
+
+### [Seivaestoe.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\CitySeivaestoe.public.md) 
+
+### [Seivaestoe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\CitySeivaestoe.internal.md) 
+
+### [Seivaestoe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\CitySeivaestoe.protect.md) 
+
+### [Seivaestoe.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\CitySeivaestoe.private.md) 
+
+### [Seivaestoe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\CitySeivaestoe.personal.md) 
+
+### [Seivaestoe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\CitySeivaestoe.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Keuruu|Keuruu]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Keuruu.public|Keuruu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Keuruu.internal|Keuruu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Keuruu.protect|Keuruu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Keuruu.private|Keuruu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Keuruu.personal|Keuruu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Keuruu.secret|Keuruu.secret]] 
+
+### [Keuruu.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityKeuruu.public.md) 
+
+### [Keuruu.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityKeuruu.internal.md) 
+
+### [Keuruu.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityKeuruu.protect.md) 
+
+### [Keuruu.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityKeuruu.private.md) 
+
+### [Keuruu.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityKeuruu.personal.md) 
+
+### [Keuruu.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityKeuruu.secret.md)
+

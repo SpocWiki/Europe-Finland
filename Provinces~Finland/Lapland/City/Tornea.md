@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Tornea|Tornea]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Tornea.public|Tornea.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Tornea.internal|Tornea.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Tornea.protect|Tornea.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Tornea.private|Tornea.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Tornea.personal|Tornea.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Tornea.secret|Tornea.secret]] 
+
+### [Tornea.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityTornea.public.md) 
+
+### [Tornea.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityTornea.internal.md) 
+
+### [Tornea.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityTornea.protect.md) 
+
+### [Tornea.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityTornea.private.md) 
+
+### [Tornea.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityTornea.personal.md) 
+
+### [Tornea.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityTornea.secret.md)
+

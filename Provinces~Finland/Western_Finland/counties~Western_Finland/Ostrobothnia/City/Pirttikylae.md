@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Pirttikylae|Pirttikylae]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Pirttikylae.public|Pirttikylae.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Pirttikylae.internal|Pirttikylae.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Pirttikylae.protect|Pirttikylae.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Pirttikylae.private|Pirttikylae.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Pirttikylae.personal|Pirttikylae.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Pirttikylae.secret|Pirttikylae.secret]] 
+
+### [Pirttikylae.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia\CityPirttikylae.public.md) 
+
+### [Pirttikylae.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia\CityPirttikylae.internal.md) 
+
+### [Pirttikylae.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia\CityPirttikylae.protect.md) 
+
+### [Pirttikylae.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia\CityPirttikylae.private.md) 
+
+### [Pirttikylae.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia\CityPirttikylae.personal.md) 
+
+### [Pirttikylae.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia\CityPirttikylae.secret.md)
+

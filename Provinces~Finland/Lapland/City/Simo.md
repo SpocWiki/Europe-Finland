@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Simo|Simo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Simo.public|Simo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Simo.internal|Simo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Simo.protect|Simo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Simo.private|Simo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Simo.personal|Simo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Simo.secret|Simo.secret]] 
+
+### [Simo.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CitySimo.public.md) 
+
+### [Simo.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CitySimo.internal.md) 
+
+### [Simo.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CitySimo.protect.md) 
+
+### [Simo.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CitySimo.private.md) 
+
+### [Simo.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CitySimo.personal.md) 
+
+### [Simo.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CitySimo.secret.md)
+

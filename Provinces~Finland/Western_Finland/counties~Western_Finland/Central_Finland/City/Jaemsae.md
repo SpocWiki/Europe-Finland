@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Jaemsae|Jaemsae]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Jaemsae.public|Jaemsae.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Jaemsae.internal|Jaemsae.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Jaemsae.protect|Jaemsae.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Jaemsae.private|Jaemsae.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Jaemsae.personal|Jaemsae.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Jaemsae.secret|Jaemsae.secret]] 
+
+### [Jaemsae.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityJaemsae.public.md) 
+
+### [Jaemsae.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityJaemsae.internal.md) 
+
+### [Jaemsae.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityJaemsae.protect.md) 
+
+### [Jaemsae.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityJaemsae.private.md) 
+
+### [Jaemsae.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityJaemsae.personal.md) 
+
+### [Jaemsae.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityJaemsae.secret.md)
+

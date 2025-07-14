@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Kankaapaeae|Kankaapaeae]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Kankaapaeae.public|Kankaapaeae.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Kankaapaeae.internal|Kankaapaeae.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Kankaapaeae.protect|Kankaapaeae.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Kankaapaeae.private|Kankaapaeae.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Kankaapaeae.personal|Kankaapaeae.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Kankaapaeae.secret|Kankaapaeae.secret]] 
+
+### [Kankaapaeae.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Satakunta\CityKankaapaeae.public.md) 
+
+### [Kankaapaeae.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Satakunta\CityKankaapaeae.internal.md) 
+
+### [Kankaapaeae.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Satakunta\CityKankaapaeae.protect.md) 
+
+### [Kankaapaeae.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Satakunta\CityKankaapaeae.private.md) 
+
+### [Kankaapaeae.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Satakunta\CityKankaapaeae.personal.md) 
+
+### [Kankaapaeae.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Satakunta\CityKankaapaeae.secret.md)
+

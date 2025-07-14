@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Mikkeli|Mikkeli]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Mikkeli.public|Mikkeli.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Mikkeli.internal|Mikkeli.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Mikkeli.protect|Mikkeli.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Mikkeli.private|Mikkeli.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Mikkeli.personal|Mikkeli.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Mikkeli.secret|Mikkeli.secret]] 
+
+### [Mikkeli.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityMikkeli.public.md) 
+
+### [Mikkeli.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityMikkeli.internal.md) 
+
+### [Mikkeli.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityMikkeli.protect.md) 
+
+### [Mikkeli.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityMikkeli.private.md) 
+
+### [Mikkeli.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityMikkeli.personal.md) 
+
+### [Mikkeli.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityMikkeli.secret.md)
+

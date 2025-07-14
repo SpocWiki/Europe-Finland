@@ -40,11 +40,16 @@ markerFolder: ./Central_Ostrobothnia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/Counties/Central_Ostrobothnia|Central_Ostrobothnia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/Counties/Central_Ostrobothnia.public|Central_Ostrobothnia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/Counties/Central_Ostrobothnia.internal|Central_Ostrobothnia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/Counties/Central_Ostrobothnia.protect|Central_Ostrobothnia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/Counties/Central_Ostrobothnia.private|Central_Ostrobothnia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/Counties/Central_Ostrobothnia.personal|Central_Ostrobothnia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/Counties/Central_Ostrobothnia.secret|Central_Ostrobothnia.secret]] 
+
+### [Central_Ostrobothnia.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandCentral_Ostrobothnia.public.md) 
+
+### [Central_Ostrobothnia.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandCentral_Ostrobothnia.internal.md) 
+
+### [Central_Ostrobothnia.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandCentral_Ostrobothnia.protect.md) 
+
+### [Central_Ostrobothnia.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandCentral_Ostrobothnia.private.md) 
+
+### [Central_Ostrobothnia.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandCentral_Ostrobothnia.personal.md) 
+
+### [Central_Ostrobothnia.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandCentral_Ostrobothnia.secret.md)
 

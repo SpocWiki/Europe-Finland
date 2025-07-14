@@ -40,11 +40,16 @@ markerFolder: ./Pirkanmaa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/Counties/Pirkanmaa|Pirkanmaa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/Counties/Pirkanmaa.public|Pirkanmaa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/Counties/Pirkanmaa.internal|Pirkanmaa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/Counties/Pirkanmaa.protect|Pirkanmaa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/Counties/Pirkanmaa.private|Pirkanmaa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/Counties/Pirkanmaa.personal|Pirkanmaa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/Counties/Pirkanmaa.secret|Pirkanmaa.secret]] 
+
+### [Pirkanmaa.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandPirkanmaa.public.md) 
+
+### [Pirkanmaa.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandPirkanmaa.internal.md) 
+
+### [Pirkanmaa.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandPirkanmaa.protect.md) 
+
+### [Pirkanmaa.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandPirkanmaa.private.md) 
+
+### [Pirkanmaa.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandPirkanmaa.personal.md) 
+
+### [Pirkanmaa.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandPirkanmaa.secret.md)
 

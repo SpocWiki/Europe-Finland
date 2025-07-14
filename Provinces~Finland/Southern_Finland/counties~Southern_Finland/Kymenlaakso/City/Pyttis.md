@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Pyttis|Pyttis]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Pyttis.public|Pyttis.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Pyttis.internal|Pyttis.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Pyttis.protect|Pyttis.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Pyttis.private|Pyttis.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Pyttis.personal|Pyttis.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Pyttis.secret|Pyttis.secret]] 
+
+### [Pyttis.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CityPyttis.public.md) 
+
+### [Pyttis.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CityPyttis.internal.md) 
+
+### [Pyttis.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CityPyttis.protect.md) 
+
+### [Pyttis.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CityPyttis.private.md) 
+
+### [Pyttis.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CityPyttis.personal.md) 
+
+### [Pyttis.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CityPyttis.secret.md)
+

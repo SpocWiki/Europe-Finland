@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Tyrvaea|Tyrvaea]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Tyrvaea.public|Tyrvaea.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Tyrvaea.internal|Tyrvaea.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Tyrvaea.protect|Tyrvaea.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Tyrvaea.private|Tyrvaea.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Tyrvaea.personal|Tyrvaea.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Tyrvaea.secret|Tyrvaea.secret]] 
+
+### [Tyrvaea.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityTyrvaea.public.md) 
+
+### [Tyrvaea.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityTyrvaea.internal.md) 
+
+### [Tyrvaea.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityTyrvaea.protect.md) 
+
+### [Tyrvaea.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityTyrvaea.private.md) 
+
+### [Tyrvaea.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityTyrvaea.personal.md) 
+
+### [Tyrvaea.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityTyrvaea.secret.md)
+

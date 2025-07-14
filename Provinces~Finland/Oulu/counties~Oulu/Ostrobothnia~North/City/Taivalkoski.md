@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Taivalkoski|Taivalkoski]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Taivalkoski.public|Taivalkoski.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Taivalkoski.internal|Taivalkoski.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Taivalkoski.protect|Taivalkoski.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Taivalkoski.private|Taivalkoski.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Taivalkoski.personal|Taivalkoski.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Taivalkoski.secret|Taivalkoski.secret]] 
+
+### [Taivalkoski.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityTaivalkoski.public.md) 
+
+### [Taivalkoski.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityTaivalkoski.internal.md) 
+
+### [Taivalkoski.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityTaivalkoski.protect.md) 
+
+### [Taivalkoski.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityTaivalkoski.private.md) 
+
+### [Taivalkoski.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityTaivalkoski.personal.md) 
+
+### [Taivalkoski.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityTaivalkoski.secret.md)
+

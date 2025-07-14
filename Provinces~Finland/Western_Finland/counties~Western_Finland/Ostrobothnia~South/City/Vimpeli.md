@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Vimpeli|Vimpeli]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Vimpeli.public|Vimpeli.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Vimpeli.internal|Vimpeli.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Vimpeli.protect|Vimpeli.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Vimpeli.private|Vimpeli.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Vimpeli.personal|Vimpeli.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Vimpeli.secret|Vimpeli.secret]] 
+
+### [Vimpeli.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~South\CityVimpeli.public.md) 
+
+### [Vimpeli.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~South\CityVimpeli.internal.md) 
+
+### [Vimpeli.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~South\CityVimpeli.protect.md) 
+
+### [Vimpeli.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~South\CityVimpeli.private.md) 
+
+### [Vimpeli.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~South\CityVimpeli.personal.md) 
+
+### [Vimpeli.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~South\CityVimpeli.secret.md)
+

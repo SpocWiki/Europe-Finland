@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Rautavaara|Rautavaara]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Rautavaara.public|Rautavaara.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Rautavaara.internal|Rautavaara.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Rautavaara.protect|Rautavaara.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Rautavaara.private|Rautavaara.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Rautavaara.personal|Rautavaara.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Rautavaara.secret|Rautavaara.secret]] 
+
+### [Rautavaara.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~North\CityRautavaara.public.md) 
+
+### [Rautavaara.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~North\CityRautavaara.internal.md) 
+
+### [Rautavaara.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~North\CityRautavaara.protect.md) 
+
+### [Rautavaara.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~North\CityRautavaara.private.md) 
+
+### [Rautavaara.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~North\CityRautavaara.personal.md) 
+
+### [Rautavaara.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~North\CityRautavaara.secret.md)
+

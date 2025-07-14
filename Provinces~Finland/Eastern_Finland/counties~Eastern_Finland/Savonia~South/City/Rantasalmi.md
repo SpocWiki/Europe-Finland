@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Rantasalmi|Rantasalmi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Rantasalmi.public|Rantasalmi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Rantasalmi.internal|Rantasalmi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Rantasalmi.protect|Rantasalmi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Rantasalmi.private|Rantasalmi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Rantasalmi.personal|Rantasalmi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Rantasalmi.secret|Rantasalmi.secret]] 
+
+### [Rantasalmi.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityRantasalmi.public.md) 
+
+### [Rantasalmi.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityRantasalmi.internal.md) 
+
+### [Rantasalmi.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityRantasalmi.protect.md) 
+
+### [Rantasalmi.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityRantasalmi.private.md) 
+
+### [Rantasalmi.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityRantasalmi.personal.md) 
+
+### [Rantasalmi.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityRantasalmi.secret.md)
+

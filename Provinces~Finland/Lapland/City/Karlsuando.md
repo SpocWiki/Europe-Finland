@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Karlsuando|Karlsuando]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Karlsuando.public|Karlsuando.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Karlsuando.internal|Karlsuando.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Karlsuando.protect|Karlsuando.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Karlsuando.private|Karlsuando.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Karlsuando.personal|Karlsuando.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Karlsuando.secret|Karlsuando.secret]] 
+
+### [Karlsuando.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityKarlsuando.public.md) 
+
+### [Karlsuando.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityKarlsuando.internal.md) 
+
+### [Karlsuando.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityKarlsuando.protect.md) 
+
+### [Karlsuando.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityKarlsuando.private.md) 
+
+### [Karlsuando.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityKarlsuando.personal.md) 
+
+### [Karlsuando.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityKarlsuando.secret.md)
+

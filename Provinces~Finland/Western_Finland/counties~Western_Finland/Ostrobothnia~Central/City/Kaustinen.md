@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Kaustinen|Kaustinen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Kaustinen.public|Kaustinen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Kaustinen.internal|Kaustinen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Kaustinen.protect|Kaustinen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Kaustinen.private|Kaustinen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Kaustinen.personal|Kaustinen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Kaustinen.secret|Kaustinen.secret]] 
+
+### [Kaustinen.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~Central\CityKaustinen.public.md) 
+
+### [Kaustinen.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~Central\CityKaustinen.internal.md) 
+
+### [Kaustinen.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~Central\CityKaustinen.protect.md) 
+
+### [Kaustinen.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~Central\CityKaustinen.private.md) 
+
+### [Kaustinen.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~Central\CityKaustinen.personal.md) 
+
+### [Kaustinen.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia~Central\CityKaustinen.secret.md)
+

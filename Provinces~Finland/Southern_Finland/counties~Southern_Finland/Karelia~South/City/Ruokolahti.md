@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Ruokolahti|Ruokolahti]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Ruokolahti.public|Ruokolahti.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Ruokolahti.internal|Ruokolahti.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Ruokolahti.protect|Ruokolahti.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Ruokolahti.private|Ruokolahti.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Ruokolahti.personal|Ruokolahti.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Ruokolahti.secret|Ruokolahti.secret]] 
+
+### [Ruokolahti.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Karelia~South\CityRuokolahti.public.md) 
+
+### [Ruokolahti.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Karelia~South\CityRuokolahti.internal.md) 
+
+### [Ruokolahti.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Karelia~South\CityRuokolahti.protect.md) 
+
+### [Ruokolahti.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Karelia~South\CityRuokolahti.private.md) 
+
+### [Ruokolahti.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Karelia~South\CityRuokolahti.personal.md) 
+
+### [Ruokolahti.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Karelia~South\CityRuokolahti.secret.md)
+

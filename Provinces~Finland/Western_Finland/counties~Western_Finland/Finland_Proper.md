@@ -40,11 +40,16 @@ markerFolder: ./Finland_Proper/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/Counties/Finland_Proper|Finland_Proper]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/Counties/Finland_Proper.public|Finland_Proper.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/Counties/Finland_Proper.internal|Finland_Proper.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/Counties/Finland_Proper.protect|Finland_Proper.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/Counties/Finland_Proper.private|Finland_Proper.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/Counties/Finland_Proper.personal|Finland_Proper.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/Counties/Finland_Proper.secret|Finland_Proper.secret]] 
+
+### [Finland_Proper.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandFinland_Proper.public.md) 
+
+### [Finland_Proper.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandFinland_Proper.internal.md) 
+
+### [Finland_Proper.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandFinland_Proper.protect.md) 
+
+### [Finland_Proper.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandFinland_Proper.private.md) 
+
+### [Finland_Proper.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandFinland_Proper.personal.md) 
+
+### [Finland_Proper.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandFinland_Proper.secret.md)
 

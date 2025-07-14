@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Lappeenranta|Lappeenranta]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Lappeenranta.public|Lappeenranta.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Lappeenranta.internal|Lappeenranta.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Lappeenranta.protect|Lappeenranta.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Lappeenranta.private|Lappeenranta.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Lappeenranta.personal|Lappeenranta.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Lappeenranta.secret|Lappeenranta.secret]] 
+
+### [Lappeenranta.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Karelia~South\CityLappeenranta.public.md) 
+
+### [Lappeenranta.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Karelia~South\CityLappeenranta.internal.md) 
+
+### [Lappeenranta.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Karelia~South\CityLappeenranta.protect.md) 
+
+### [Lappeenranta.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Karelia~South\CityLappeenranta.private.md) 
+
+### [Lappeenranta.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Karelia~South\CityLappeenranta.personal.md) 
+
+### [Lappeenranta.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Karelia~South\CityLappeenranta.secret.md)
+

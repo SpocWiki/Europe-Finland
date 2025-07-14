@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Lappfjaerd|Lappfjaerd]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Lappfjaerd.public|Lappfjaerd.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Lappfjaerd.internal|Lappfjaerd.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Lappfjaerd.protect|Lappfjaerd.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Lappfjaerd.private|Lappfjaerd.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Lappfjaerd.personal|Lappfjaerd.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Lappfjaerd.secret|Lappfjaerd.secret]] 
+
+### [Lappfjaerd.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia\CityLappfjaerd.public.md) 
+
+### [Lappfjaerd.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia\CityLappfjaerd.internal.md) 
+
+### [Lappfjaerd.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia\CityLappfjaerd.protect.md) 
+
+### [Lappfjaerd.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia\CityLappfjaerd.private.md) 
+
+### [Lappfjaerd.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia\CityLappfjaerd.personal.md) 
+
+### [Lappfjaerd.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Ostrobothnia\CityLappfjaerd.secret.md)
+

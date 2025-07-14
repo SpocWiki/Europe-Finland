@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Lahti|Lahti]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Lahti.public|Lahti.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Lahti.internal|Lahti.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Lahti.protect|Lahti.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Lahti.private|Lahti.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Lahti.personal|Lahti.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Lahti.secret|Lahti.secret]] 
+
+### [Lahti.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Päijät-Häme\CityLahti.public.md) 
+
+### [Lahti.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Päijät-Häme\CityLahti.internal.md) 
+
+### [Lahti.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Päijät-Häme\CityLahti.protect.md) 
+
+### [Lahti.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Päijät-Häme\CityLahti.private.md) 
+
+### [Lahti.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Päijät-Häme\CityLahti.personal.md) 
+
+### [Lahti.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Päijät-Häme\CityLahti.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Rautasalmi|Rautasalmi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Rautasalmi.public|Rautasalmi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Rautasalmi.internal|Rautasalmi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Rautasalmi.protect|Rautasalmi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Rautasalmi.private|Rautasalmi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Rautasalmi.personal|Rautasalmi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Rautasalmi.secret|Rautasalmi.secret]] 
+
+### [Rautasalmi.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityRautasalmi.public.md) 
+
+### [Rautasalmi.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityRautasalmi.internal.md) 
+
+### [Rautasalmi.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityRautasalmi.protect.md) 
+
+### [Rautasalmi.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityRautasalmi.private.md) 
+
+### [Rautasalmi.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityRautasalmi.personal.md) 
+
+### [Rautasalmi.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityRautasalmi.secret.md)
+

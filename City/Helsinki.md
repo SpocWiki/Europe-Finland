@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Helsinki|Helsinki]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Helsinki.public|Helsinki.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Helsinki.internal|Helsinki.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Helsinki.protect|Helsinki.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Helsinki.private|Helsinki.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Helsinki.personal|Helsinki.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Helsinki.secret|Helsinki.secret]] 
+
+### [Helsinki.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\CityHelsinki.public.md) 
+
+### [Helsinki.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\CityHelsinki.internal.md) 
+
+### [Helsinki.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\CityHelsinki.protect.md) 
+
+### [Helsinki.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\CityHelsinki.private.md) 
+
+### [Helsinki.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\CityHelsinki.personal.md) 
+
+### [Helsinki.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\CityHelsinki.secret.md)
+

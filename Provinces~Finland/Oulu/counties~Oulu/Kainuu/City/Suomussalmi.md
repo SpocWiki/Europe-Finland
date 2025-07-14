@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Suomussalmi|Suomussalmi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Suomussalmi.public|Suomussalmi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Suomussalmi.internal|Suomussalmi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Suomussalmi.protect|Suomussalmi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Suomussalmi.private|Suomussalmi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Suomussalmi.personal|Suomussalmi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Suomussalmi.secret|Suomussalmi.secret]] 
+
+### [Suomussalmi.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySuomussalmi.public.md) 
+
+### [Suomussalmi.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySuomussalmi.internal.md) 
+
+### [Suomussalmi.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySuomussalmi.protect.md) 
+
+### [Suomussalmi.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySuomussalmi.private.md) 
+
+### [Suomussalmi.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySuomussalmi.personal.md) 
+
+### [Suomussalmi.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySuomussalmi.secret.md)
+

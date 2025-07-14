@@ -40,11 +40,16 @@ markerFolder: ./Satakunta/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/Counties/Satakunta|Satakunta]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/Counties/Satakunta.public|Satakunta.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/Counties/Satakunta.internal|Satakunta.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/Counties/Satakunta.protect|Satakunta.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/Counties/Satakunta.private|Satakunta.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/Counties/Satakunta.personal|Satakunta.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/Counties/Satakunta.secret|Satakunta.secret]] 
+
+### [Satakunta.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandSatakunta.public.md) 
+
+### [Satakunta.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandSatakunta.internal.md) 
+
+### [Satakunta.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandSatakunta.protect.md) 
+
+### [Satakunta.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandSatakunta.private.md) 
+
+### [Satakunta.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandSatakunta.personal.md) 
+
+### [Satakunta.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandSatakunta.secret.md)
 

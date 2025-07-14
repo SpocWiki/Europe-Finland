@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Haparanda|Haparanda]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Haparanda.public|Haparanda.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Haparanda.internal|Haparanda.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Haparanda.protect|Haparanda.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Haparanda.private|Haparanda.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Haparanda.personal|Haparanda.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Haparanda.secret|Haparanda.secret]] 
+
+### [Haparanda.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityHaparanda.public.md) 
+
+### [Haparanda.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityHaparanda.internal.md) 
+
+### [Haparanda.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityHaparanda.protect.md) 
+
+### [Haparanda.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityHaparanda.private.md) 
+
+### [Haparanda.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityHaparanda.personal.md) 
+
+### [Haparanda.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityHaparanda.secret.md)
+

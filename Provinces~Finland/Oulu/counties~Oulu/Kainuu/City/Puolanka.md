@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Puolanka|Puolanka]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Puolanka.public|Puolanka.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Puolanka.internal|Puolanka.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Puolanka.protect|Puolanka.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Puolanka.private|Puolanka.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Puolanka.personal|Puolanka.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Puolanka.secret|Puolanka.secret]] 
+
+### [Puolanka.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityPuolanka.public.md) 
+
+### [Puolanka.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityPuolanka.internal.md) 
+
+### [Puolanka.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityPuolanka.protect.md) 
+
+### [Puolanka.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityPuolanka.private.md) 
+
+### [Puolanka.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityPuolanka.personal.md) 
+
+### [Puolanka.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityPuolanka.secret.md)
+

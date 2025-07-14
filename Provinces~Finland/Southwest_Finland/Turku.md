@@ -52,3 +52,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Turku)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Turku.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southwest_FinlandTurku.public.md) 
+
+### [Turku.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southwest_FinlandTurku.internal.md) 
+
+### [Turku.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southwest_FinlandTurku.protect.md) 
+
+### [Turku.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southwest_FinlandTurku.private.md) 
+
+### [Turku.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southwest_FinlandTurku.personal.md) 
+
+### [Turku.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southwest_FinlandTurku.secret.md)
+

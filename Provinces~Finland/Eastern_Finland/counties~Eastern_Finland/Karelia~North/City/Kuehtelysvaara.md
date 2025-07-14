@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Kuehtelysvaara|Kuehtelysvaara]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Kuehtelysvaara.public|Kuehtelysvaara.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Kuehtelysvaara.internal|Kuehtelysvaara.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Kuehtelysvaara.protect|Kuehtelysvaara.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Kuehtelysvaara.private|Kuehtelysvaara.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Kuehtelysvaara.personal|Kuehtelysvaara.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Kuehtelysvaara.secret|Kuehtelysvaara.secret]] 
+
+### [Kuehtelysvaara.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityKuehtelysvaara.public.md) 
+
+### [Kuehtelysvaara.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityKuehtelysvaara.internal.md) 
+
+### [Kuehtelysvaara.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityKuehtelysvaara.protect.md) 
+
+### [Kuehtelysvaara.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityKuehtelysvaara.private.md) 
+
+### [Kuehtelysvaara.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityKuehtelysvaara.personal.md) 
+
+### [Kuehtelysvaara.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Karelia~North\CityKuehtelysvaara.secret.md)
+

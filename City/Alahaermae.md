@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Alahaermae|Alahaermae]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Alahaermae.public|Alahaermae.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Alahaermae.internal|Alahaermae.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Alahaermae.protect|Alahaermae.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Alahaermae.private|Alahaermae.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Alahaermae.personal|Alahaermae.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Alahaermae.secret|Alahaermae.secret]] 
+
+### [Alahaermae.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\CityAlahaermae.public.md) 
+
+### [Alahaermae.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\CityAlahaermae.internal.md) 
+
+### [Alahaermae.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\CityAlahaermae.protect.md) 
+
+### [Alahaermae.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\CityAlahaermae.private.md) 
+
+### [Alahaermae.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\CityAlahaermae.personal.md) 
+
+### [Alahaermae.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\CityAlahaermae.secret.md)
+

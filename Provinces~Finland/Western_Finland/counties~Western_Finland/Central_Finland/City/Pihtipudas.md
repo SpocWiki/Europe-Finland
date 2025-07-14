@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Pihtipudas|Pihtipudas]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Pihtipudas.public|Pihtipudas.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Pihtipudas.internal|Pihtipudas.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Pihtipudas.protect|Pihtipudas.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Pihtipudas.private|Pihtipudas.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Pihtipudas.personal|Pihtipudas.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Pihtipudas.secret|Pihtipudas.secret]] 
+
+### [Pihtipudas.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityPihtipudas.public.md) 
+
+### [Pihtipudas.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityPihtipudas.internal.md) 
+
+### [Pihtipudas.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityPihtipudas.protect.md) 
+
+### [Pihtipudas.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityPihtipudas.private.md) 
+
+### [Pihtipudas.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityPihtipudas.personal.md) 
+
+### [Pihtipudas.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityPihtipudas.secret.md)
+

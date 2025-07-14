@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Naroi|Naroi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Naroi.public|Naroi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Naroi.internal|Naroi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Naroi.protect|Naroi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Naroi.private|Naroi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Naroi.personal|Naroi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Naroi.secret|Naroi.secret]] 
+
+### [Naroi.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\CityNaroi.public.md) 
+
+### [Naroi.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\CityNaroi.internal.md) 
+
+### [Naroi.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\CityNaroi.protect.md) 
+
+### [Naroi.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\CityNaroi.private.md) 
+
+### [Naroi.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\CityNaroi.personal.md) 
+
+### [Naroi.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\CityNaroi.secret.md)
+

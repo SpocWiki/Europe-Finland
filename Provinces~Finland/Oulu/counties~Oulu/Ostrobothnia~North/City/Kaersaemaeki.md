@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Kaersaemaeki|Kaersaemaeki]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Kaersaemaeki.public|Kaersaemaeki.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Kaersaemaeki.internal|Kaersaemaeki.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Kaersaemaeki.protect|Kaersaemaeki.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Kaersaemaeki.private|Kaersaemaeki.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Kaersaemaeki.personal|Kaersaemaeki.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Kaersaemaeki.secret|Kaersaemaeki.secret]] 
+
+### [Kaersaemaeki.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityKaersaemaeki.public.md) 
+
+### [Kaersaemaeki.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityKaersaemaeki.internal.md) 
+
+### [Kaersaemaeki.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityKaersaemaeki.protect.md) 
+
+### [Kaersaemaeki.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityKaersaemaeki.private.md) 
+
+### [Kaersaemaeki.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityKaersaemaeki.personal.md) 
+
+### [Kaersaemaeki.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityKaersaemaeki.secret.md)
+

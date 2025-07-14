@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Loppi|Loppi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Loppi.public|Loppi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Loppi.internal|Loppi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Loppi.protect|Loppi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Loppi.private|Loppi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Loppi.personal|Loppi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Loppi.secret|Loppi.secret]] 
+
+### [Loppi.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityLoppi.public.md) 
+
+### [Loppi.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityLoppi.internal.md) 
+
+### [Loppi.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityLoppi.protect.md) 
+
+### [Loppi.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityLoppi.private.md) 
+
+### [Loppi.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityLoppi.personal.md) 
+
+### [Loppi.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityLoppi.secret.md)
+

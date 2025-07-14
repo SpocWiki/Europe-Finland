@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Kuhmoniemi|Kuhmoniemi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Kuhmoniemi.public|Kuhmoniemi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Kuhmoniemi.internal|Kuhmoniemi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Kuhmoniemi.protect|Kuhmoniemi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Kuhmoniemi.private|Kuhmoniemi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Kuhmoniemi.personal|Kuhmoniemi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Kuhmoniemi.secret|Kuhmoniemi.secret]] 
+
+### [Kuhmoniemi.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityKuhmoniemi.public.md) 
+
+### [Kuhmoniemi.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityKuhmoniemi.internal.md) 
+
+### [Kuhmoniemi.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityKuhmoniemi.protect.md) 
+
+### [Kuhmoniemi.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityKuhmoniemi.private.md) 
+
+### [Kuhmoniemi.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityKuhmoniemi.personal.md) 
+
+### [Kuhmoniemi.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityKuhmoniemi.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Kyrkslaett|Kyrkslaett]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Kyrkslaett.public|Kyrkslaett.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Kyrkslaett.internal|Kyrkslaett.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Kyrkslaett.protect|Kyrkslaett.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Kyrkslaett.private|Kyrkslaett.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Kyrkslaett.personal|Kyrkslaett.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Kyrkslaett.secret|Kyrkslaett.secret]] 
+
+### [Kyrkslaett.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityKyrkslaett.public.md) 
+
+### [Kyrkslaett.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityKyrkslaett.internal.md) 
+
+### [Kyrkslaett.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityKyrkslaett.protect.md) 
+
+### [Kyrkslaett.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityKyrkslaett.private.md) 
+
+### [Kyrkslaett.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityKyrkslaett.personal.md) 
+
+### [Kyrkslaett.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityKyrkslaett.secret.md)
+

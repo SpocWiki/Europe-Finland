@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Sippola|Sippola]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Sippola.public|Sippola.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Sippola.internal|Sippola.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Sippola.protect|Sippola.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Sippola.private|Sippola.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Sippola.personal|Sippola.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Sippola.secret|Sippola.secret]] 
+
+### [Sippola.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CitySippola.public.md) 
+
+### [Sippola.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CitySippola.internal.md) 
+
+### [Sippola.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CitySippola.protect.md) 
+
+### [Sippola.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CitySippola.private.md) 
+
+### [Sippola.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CitySippola.personal.md) 
+
+### [Sippola.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Kymenlaakso\CitySippola.secret.md)
+

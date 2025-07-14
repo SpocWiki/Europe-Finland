@@ -41,11 +41,16 @@ markerFolder: ./Northern_Savonia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/Counties/Northern_Savonia|Northern_Savonia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/Counties/Northern_Savonia.public|Northern_Savonia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/Counties/Northern_Savonia.internal|Northern_Savonia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/Counties/Northern_Savonia.protect|Northern_Savonia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/Counties/Northern_Savonia.private|Northern_Savonia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/Counties/Northern_Savonia.personal|Northern_Savonia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/Counties/Northern_Savonia.secret|Northern_Savonia.secret]] 
+
+### [Savonia~North.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_FinlandSavonia~North.public.md) 
+
+### [Savonia~North.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_FinlandSavonia~North.internal.md) 
+
+### [Savonia~North.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_FinlandSavonia~North.protect.md) 
+
+### [Savonia~North.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_FinlandSavonia~North.private.md) 
+
+### [Savonia~North.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_FinlandSavonia~North.personal.md) 
+
+### [Savonia~North.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_FinlandSavonia~North.secret.md)
 

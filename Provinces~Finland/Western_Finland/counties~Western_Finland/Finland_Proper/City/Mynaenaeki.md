@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Mynaenaeki|Mynaenaeki]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Mynaenaeki.public|Mynaenaeki.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Mynaenaeki.internal|Mynaenaeki.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Mynaenaeki.protect|Mynaenaeki.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Mynaenaeki.private|Mynaenaeki.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Mynaenaeki.personal|Mynaenaeki.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Mynaenaeki.secret|Mynaenaeki.secret]] 
+
+### [Mynaenaeki.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityMynaenaeki.public.md) 
+
+### [Mynaenaeki.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityMynaenaeki.internal.md) 
+
+### [Mynaenaeki.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityMynaenaeki.protect.md) 
+
+### [Mynaenaeki.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityMynaenaeki.private.md) 
+
+### [Mynaenaeki.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityMynaenaeki.personal.md) 
+
+### [Mynaenaeki.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityMynaenaeki.secret.md)
+

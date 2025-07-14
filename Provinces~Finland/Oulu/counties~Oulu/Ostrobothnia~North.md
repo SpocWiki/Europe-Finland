@@ -40,11 +40,16 @@ markerFolder: ./Northern_Ostrobothnia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/Counties/Northern_Ostrobothnia|Northern_Ostrobothnia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/Counties/Northern_Ostrobothnia.public|Northern_Ostrobothnia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/Counties/Northern_Ostrobothnia.internal|Northern_Ostrobothnia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/Counties/Northern_Ostrobothnia.protect|Northern_Ostrobothnia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/Counties/Northern_Ostrobothnia.private|Northern_Ostrobothnia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/Counties/Northern_Ostrobothnia.personal|Northern_Ostrobothnia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/Counties/Northern_Ostrobothnia.secret|Northern_Ostrobothnia.secret]] 
+
+### [Ostrobothnia~North.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~OuluOstrobothnia~North.public.md) 
+
+### [Ostrobothnia~North.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~OuluOstrobothnia~North.internal.md) 
+
+### [Ostrobothnia~North.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~OuluOstrobothnia~North.protect.md) 
+
+### [Ostrobothnia~North.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~OuluOstrobothnia~North.private.md) 
+
+### [Ostrobothnia~North.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~OuluOstrobothnia~North.personal.md) 
+
+### [Ostrobothnia~North.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~OuluOstrobothnia~North.secret.md)
 

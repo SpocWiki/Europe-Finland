@@ -130,12 +130,17 @@ Capital :: [[Helsingfors]]
 [has_place_latitude::62.3173] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland|Finland]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~North/Finland.public|Finland.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~North/Finland.internal|Finland.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~North/Finland.protect|Finland.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~North/Finland.private|Finland.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~North/Finland.personal|Finland.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~North/Finland.secret|Finland.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~North\FinlandReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~North\FinlandReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~North\FinlandReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~North\FinlandReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~North\FinlandReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~North\FinlandReadMe.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Poeyttyae|Poeyttyae]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Poeyttyae.public|Poeyttyae.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Poeyttyae.internal|Poeyttyae.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Poeyttyae.protect|Poeyttyae.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Poeyttyae.private|Poeyttyae.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Poeyttyae.personal|Poeyttyae.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Poeyttyae.secret|Poeyttyae.secret]] 
+
+### [Poeyttyae.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityPoeyttyae.public.md) 
+
+### [Poeyttyae.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityPoeyttyae.internal.md) 
+
+### [Poeyttyae.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityPoeyttyae.protect.md) 
+
+### [Poeyttyae.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityPoeyttyae.private.md) 
+
+### [Poeyttyae.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityPoeyttyae.personal.md) 
+
+### [Poeyttyae.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityPoeyttyae.secret.md)
+

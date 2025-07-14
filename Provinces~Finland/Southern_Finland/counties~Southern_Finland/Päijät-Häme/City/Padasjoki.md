@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Padasjoki|Padasjoki]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Padasjoki.public|Padasjoki.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Padasjoki.internal|Padasjoki.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Padasjoki.protect|Padasjoki.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Padasjoki.private|Padasjoki.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Padasjoki.personal|Padasjoki.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Padasjoki.secret|Padasjoki.secret]] 
+
+### [Padasjoki.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Päijät-Häme\CityPadasjoki.public.md) 
+
+### [Padasjoki.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Päijät-Häme\CityPadasjoki.internal.md) 
+
+### [Padasjoki.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Päijät-Häme\CityPadasjoki.protect.md) 
+
+### [Padasjoki.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Päijät-Häme\CityPadasjoki.private.md) 
+
+### [Padasjoki.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Päijät-Häme\CityPadasjoki.personal.md) 
+
+### [Padasjoki.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Päijät-Häme\CityPadasjoki.secret.md)
+

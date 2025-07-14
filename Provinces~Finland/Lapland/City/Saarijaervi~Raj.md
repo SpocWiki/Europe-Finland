@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Saarijaervi~Raj|Saarijaervi~Raj]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Saarijaervi~Raj.public|Saarijaervi~Raj.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Saarijaervi~Raj.internal|Saarijaervi~Raj.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Saarijaervi~Raj.protect|Saarijaervi~Raj.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Saarijaervi~Raj.private|Saarijaervi~Raj.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Saarijaervi~Raj.personal|Saarijaervi~Raj.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Saarijaervi~Raj.secret|Saarijaervi~Raj.secret]] 
+
+### [Saarijaervi~Raj.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CitySaarijaervi~Raj.public.md) 
+
+### [Saarijaervi~Raj.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CitySaarijaervi~Raj.internal.md) 
+
+### [Saarijaervi~Raj.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CitySaarijaervi~Raj.protect.md) 
+
+### [Saarijaervi~Raj.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CitySaarijaervi~Raj.private.md) 
+
+### [Saarijaervi~Raj.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CitySaarijaervi~Raj.personal.md) 
+
+### [Saarijaervi~Raj.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CitySaarijaervi~Raj.secret.md)
+

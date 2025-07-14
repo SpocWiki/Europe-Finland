@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Yli_Tornia|Yli_Tornia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Yli_Tornia.public|Yli_Tornia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Yli_Tornia.internal|Yli_Tornia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Yli_Tornia.protect|Yli_Tornia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Yli_Tornia.private|Yli_Tornia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Yli_Tornia.personal|Yli_Tornia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Yli_Tornia.secret|Yli_Tornia.secret]] 
+
+### [Yli_Tornia.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityYli_Tornia.public.md) 
+
+### [Yli_Tornia.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityYli_Tornia.internal.md) 
+
+### [Yli_Tornia.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityYli_Tornia.protect.md) 
+
+### [Yli_Tornia.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityYli_Tornia.private.md) 
+
+### [Yli_Tornia.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityYli_Tornia.personal.md) 
+
+### [Yli_Tornia.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityYli_Tornia.secret.md)
+

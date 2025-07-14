@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Kuivaniemi|Kuivaniemi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Kuivaniemi.public|Kuivaniemi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Kuivaniemi.internal|Kuivaniemi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Kuivaniemi.protect|Kuivaniemi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Kuivaniemi.private|Kuivaniemi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Kuivaniemi.personal|Kuivaniemi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Kuivaniemi.secret|Kuivaniemi.secret]] 
+
+### [Kuivaniemi.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityKuivaniemi.public.md) 
+
+### [Kuivaniemi.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityKuivaniemi.internal.md) 
+
+### [Kuivaniemi.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityKuivaniemi.protect.md) 
+
+### [Kuivaniemi.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityKuivaniemi.private.md) 
+
+### [Kuivaniemi.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityKuivaniemi.personal.md) 
+
+### [Kuivaniemi.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityKuivaniemi.secret.md)
+

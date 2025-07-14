@@ -40,11 +40,16 @@ markerFolder: ./_Lakes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/Counties/Uusimaa/_Lakes|_Lakes]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/Counties/Uusimaa/_Lakes.public|_Lakes.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/Counties/Uusimaa/_Lakes.internal|_Lakes.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/Counties/Uusimaa/_Lakes.protect|_Lakes.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/Counties/Uusimaa/_Lakes.private|_Lakes.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/Counties/Uusimaa/_Lakes.personal|_Lakes.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/Counties/Uusimaa/_Lakes.secret|_Lakes.secret]] 
+
+### [_Lakes.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa_Lakes.public.md) 
+
+### [_Lakes.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa_Lakes.internal.md) 
+
+### [_Lakes.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa_Lakes.protect.md) 
+
+### [_Lakes.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa_Lakes.private.md) 
+
+### [_Lakes.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa_Lakes.personal.md) 
+
+### [_Lakes.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa_Lakes.secret.md)
 

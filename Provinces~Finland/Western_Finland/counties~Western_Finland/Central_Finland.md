@@ -41,11 +41,16 @@ markerFolder: ./Central_Finland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/Counties/Central_Finland|Central_Finland]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/Counties/Central_Finland.public|Central_Finland.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/Counties/Central_Finland.internal|Central_Finland.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/Counties/Central_Finland.protect|Central_Finland.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/Counties/Central_Finland.private|Central_Finland.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/Counties/Central_Finland.personal|Central_Finland.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/Counties/Central_Finland.secret|Central_Finland.secret]] 
+
+### [Central_Finland.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandCentral_Finland.public.md) 
+
+### [Central_Finland.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandCentral_Finland.internal.md) 
+
+### [Central_Finland.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandCentral_Finland.protect.md) 
+
+### [Central_Finland.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandCentral_Finland.private.md) 
+
+### [Central_Finland.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandCentral_Finland.personal.md) 
+
+### [Central_Finland.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandCentral_Finland.secret.md)
 

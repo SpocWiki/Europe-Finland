@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Kuhmoinen|Kuhmoinen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Kuhmoinen.public|Kuhmoinen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Kuhmoinen.internal|Kuhmoinen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Kuhmoinen.protect|Kuhmoinen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Kuhmoinen.private|Kuhmoinen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Kuhmoinen.personal|Kuhmoinen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Kuhmoinen.secret|Kuhmoinen.secret]] 
+
+### [Kuhmoinen.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityKuhmoinen.public.md) 
+
+### [Kuhmoinen.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityKuhmoinen.internal.md) 
+
+### [Kuhmoinen.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityKuhmoinen.protect.md) 
+
+### [Kuhmoinen.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityKuhmoinen.private.md) 
+
+### [Kuhmoinen.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityKuhmoinen.personal.md) 
+
+### [Kuhmoinen.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Central_Finland\CityKuhmoinen.secret.md)
+

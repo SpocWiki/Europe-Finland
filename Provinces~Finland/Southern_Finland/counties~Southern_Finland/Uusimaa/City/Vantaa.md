@@ -21,3 +21,19 @@ aliases:
 > Vantaa is a bilingual municipality with Finnish and Swedish as its official languages. The population consists of 71% Finnish speakers, 2% Swedish speakers (the lowest percentage out of any bilingual municipality in Finland), and 27% speakers of other languages, which is well above the national average. According to the 2025 disturbance index used by the Finnish Police, Vantaa is currently the most dangerous city of Finland, and Myyrmäki its most dangerous district.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vantaa)
+
+
+## Confidential Links & Embeds: 
+
+### [Vantaa.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityVantaa.public.md) 
+
+### [Vantaa.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityVantaa.internal.md) 
+
+### [Vantaa.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityVantaa.protect.md) 
+
+### [Vantaa.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityVantaa.private.md) 
+
+### [Vantaa.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityVantaa.personal.md) 
+
+### [Vantaa.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityVantaa.secret.md)
+

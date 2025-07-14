@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Haemina|Haemina]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Haemina.public|Haemina.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Haemina.internal|Haemina.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Haemina.protect|Haemina.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Haemina.private|Haemina.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Haemina.personal|Haemina.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Haemina.secret|Haemina.secret]] 
+
+### [Haemina.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\CityHaemina.public.md) 
+
+### [Haemina.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\CityHaemina.internal.md) 
+
+### [Haemina.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\CityHaemina.protect.md) 
+
+### [Haemina.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\CityHaemina.private.md) 
+
+### [Haemina.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\CityHaemina.personal.md) 
+
+### [Haemina.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\CityHaemina.secret.md)
+

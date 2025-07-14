@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Sodankylae~Mut.|Sodankylae~Mut.]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Sodankylae~Mut..public|Sodankylae~Mut..public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Sodankylae~Mut..internal|Sodankylae~Mut..internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Sodankylae~Mut..protect|Sodankylae~Mut..protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Sodankylae~Mut..private|Sodankylae~Mut..private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Sodankylae~Mut..personal|Sodankylae~Mut..personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Sodankylae~Mut..secret|Sodankylae~Mut..secret]] 
+
+### [Sodankylae~Mut..public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CitySodankylae~Mut..public.md) 
+
+### [Sodankylae~Mut..internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CitySodankylae~Mut..internal.md) 
+
+### [Sodankylae~Mut..protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CitySodankylae~Mut..protect.md) 
+
+### [Sodankylae~Mut..private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CitySodankylae~Mut..private.md) 
+
+### [Sodankylae~Mut..personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CitySodankylae~Mut..personal.md) 
+
+### [Sodankylae~Mut..secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CitySodankylae~Mut..secret.md)
+

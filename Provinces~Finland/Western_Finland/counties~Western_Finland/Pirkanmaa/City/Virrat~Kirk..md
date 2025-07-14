@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Virrat~Kirk.|Virrat~Kirk.]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Virrat~Kirk..public|Virrat~Kirk..public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Virrat~Kirk..internal|Virrat~Kirk..internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Virrat~Kirk..protect|Virrat~Kirk..protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Virrat~Kirk..private|Virrat~Kirk..private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Virrat~Kirk..personal|Virrat~Kirk..personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Virrat~Kirk..secret|Virrat~Kirk..secret]] 
+
+### [Virrat~Kirk..public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityVirrat~Kirk..public.md) 
+
+### [Virrat~Kirk..internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityVirrat~Kirk..internal.md) 
+
+### [Virrat~Kirk..protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityVirrat~Kirk..protect.md) 
+
+### [Virrat~Kirk..private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityVirrat~Kirk..private.md) 
+
+### [Virrat~Kirk..personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityVirrat~Kirk..personal.md) 
+
+### [Virrat~Kirk..secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Pirkanmaa\CityVirrat~Kirk..secret.md)
+

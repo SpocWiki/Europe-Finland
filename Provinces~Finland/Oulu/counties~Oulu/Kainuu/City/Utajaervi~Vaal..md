@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Utajaervi~Vaal.|Utajaervi~Vaal.]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Utajaervi~Vaal..public|Utajaervi~Vaal..public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Utajaervi~Vaal..internal|Utajaervi~Vaal..internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Utajaervi~Vaal..protect|Utajaervi~Vaal..protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Utajaervi~Vaal..private|Utajaervi~Vaal..private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Utajaervi~Vaal..personal|Utajaervi~Vaal..personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Utajaervi~Vaal..secret|Utajaervi~Vaal..secret]] 
+
+### [Utajaervi~Vaal..public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityUtajaervi~Vaal..public.md) 
+
+### [Utajaervi~Vaal..internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityUtajaervi~Vaal..internal.md) 
+
+### [Utajaervi~Vaal..protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityUtajaervi~Vaal..protect.md) 
+
+### [Utajaervi~Vaal..private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityUtajaervi~Vaal..private.md) 
+
+### [Utajaervi~Vaal..personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityUtajaervi~Vaal..personal.md) 
+
+### [Utajaervi~Vaal..secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityUtajaervi~Vaal..secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Tvaermiune|Tvaermiune]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Tvaermiune.public|Tvaermiune.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Tvaermiune.internal|Tvaermiune.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Tvaermiune.protect|Tvaermiune.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Tvaermiune.private|Tvaermiune.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Tvaermiune.personal|Tvaermiune.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Tvaermiune.secret|Tvaermiune.secret]] 
+
+### [Tvaermiune.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\CityTvaermiune.public.md) 
+
+### [Tvaermiune.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\CityTvaermiune.internal.md) 
+
+### [Tvaermiune.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\CityTvaermiune.protect.md) 
+
+### [Tvaermiune.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\CityTvaermiune.private.md) 
+
+### [Tvaermiune.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\CityTvaermiune.personal.md) 
+
+### [Tvaermiune.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\CityTvaermiune.secret.md)
+

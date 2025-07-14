@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Saelgrund|Saelgrund]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Saelgrund.public|Saelgrund.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Saelgrund.internal|Saelgrund.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Saelgrund.protect|Saelgrund.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Saelgrund.private|Saelgrund.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Saelgrund.personal|Saelgrund.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Saelgrund.secret|Saelgrund.secret]] 
+
+### [Saelgrund.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\CitySaelgrund.public.md) 
+
+### [Saelgrund.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\CitySaelgrund.internal.md) 
+
+### [Saelgrund.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\CitySaelgrund.protect.md) 
+
+### [Saelgrund.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\CitySaelgrund.private.md) 
+
+### [Saelgrund.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\CitySaelgrund.personal.md) 
+
+### [Saelgrund.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\CitySaelgrund.secret.md)
+

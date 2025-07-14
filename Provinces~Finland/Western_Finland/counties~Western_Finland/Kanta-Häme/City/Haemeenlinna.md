@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Haemeenlinna|Haemeenlinna]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Haemeenlinna.public|Haemeenlinna.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Haemeenlinna.internal|Haemeenlinna.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Haemeenlinna.protect|Haemeenlinna.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Haemeenlinna.private|Haemeenlinna.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Haemeenlinna.personal|Haemeenlinna.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Haemeenlinna.secret|Haemeenlinna.secret]] 
+
+### [Haemeenlinna.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityHaemeenlinna.public.md) 
+
+### [Haemeenlinna.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityHaemeenlinna.internal.md) 
+
+### [Haemeenlinna.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityHaemeenlinna.protect.md) 
+
+### [Haemeenlinna.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityHaemeenlinna.private.md) 
+
+### [Haemeenlinna.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityHaemeenlinna.personal.md) 
+
+### [Haemeenlinna.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityHaemeenlinna.secret.md)
+

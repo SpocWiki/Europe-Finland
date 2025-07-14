@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Abo=Turko|Abo=Turko]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Abo=Turko.public|Abo=Turko.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Abo=Turko.internal|Abo=Turko.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Abo=Turko.protect|Abo=Turko.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Abo=Turko.private|Abo=Turko.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Abo=Turko.personal|Abo=Turko.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Abo=Turko.secret|Abo=Turko.secret]] 
+
+### [Abo=Turko.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityAbo=Turko.public.md) 
+
+### [Abo=Turko.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityAbo=Turko.internal.md) 
+
+### [Abo=Turko.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityAbo=Turko.protect.md) 
+
+### [Abo=Turko.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityAbo=Turko.private.md) 
+
+### [Abo=Turko.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityAbo=Turko.personal.md) 
+
+### [Abo=Turko.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityAbo=Turko.secret.md)
+

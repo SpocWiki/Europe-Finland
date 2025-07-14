@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Porkkala|Porkkala]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Porkkala.public|Porkkala.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Porkkala.internal|Porkkala.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Porkkala.protect|Porkkala.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Porkkala.private|Porkkala.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Porkkala.personal|Porkkala.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Porkkala.secret|Porkkala.secret]] 
+
+### [Porkkala.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\CityPorkkala.public.md) 
+
+### [Porkkala.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\CityPorkkala.internal.md) 
+
+### [Porkkala.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\CityPorkkala.protect.md) 
+
+### [Porkkala.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\CityPorkkala.private.md) 
+
+### [Porkkala.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\CityPorkkala.personal.md) 
+
+### [Porkkala.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\CityPorkkala.secret.md)
+

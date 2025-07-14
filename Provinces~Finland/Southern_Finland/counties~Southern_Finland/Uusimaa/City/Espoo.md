@@ -24,3 +24,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Espoo)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Espoo.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityEspoo.public.md) 
+
+### [Espoo.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityEspoo.internal.md) 
+
+### [Espoo.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityEspoo.protect.md) 
+
+### [Espoo.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityEspoo.private.md) 
+
+### [Espoo.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityEspoo.personal.md) 
+
+### [Espoo.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Uusimaa\CityEspoo.secret.md)
+

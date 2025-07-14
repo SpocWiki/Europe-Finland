@@ -40,11 +40,16 @@ markerFolder: ./Uusimaa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/Counties/Uusimaa|Uusimaa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/Counties/Uusimaa.public|Uusimaa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/Counties/Uusimaa.internal|Uusimaa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/Counties/Uusimaa.protect|Uusimaa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/Counties/Uusimaa.private|Uusimaa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/Counties/Uusimaa.personal|Uusimaa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/Counties/Uusimaa.secret|Uusimaa.secret]] 
+
+### [Uusimaa.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_FinlandUusimaa.public.md) 
+
+### [Uusimaa.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_FinlandUusimaa.internal.md) 
+
+### [Uusimaa.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_FinlandUusimaa.protect.md) 
+
+### [Uusimaa.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_FinlandUusimaa.private.md) 
+
+### [Uusimaa.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_FinlandUusimaa.personal.md) 
+
+### [Uusimaa.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_FinlandUusimaa.secret.md)
 

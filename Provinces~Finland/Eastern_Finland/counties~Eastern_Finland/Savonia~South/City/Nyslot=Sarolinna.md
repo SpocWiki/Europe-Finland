@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Nyslot=Sarolinna|Nyslot=Sarolinna]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Nyslot=Sarolinna.public|Nyslot=Sarolinna.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Nyslot=Sarolinna.internal|Nyslot=Sarolinna.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Nyslot=Sarolinna.protect|Nyslot=Sarolinna.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Nyslot=Sarolinna.private|Nyslot=Sarolinna.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Nyslot=Sarolinna.personal|Nyslot=Sarolinna.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Nyslot=Sarolinna.secret|Nyslot=Sarolinna.secret]] 
+
+### [Nyslot=Sarolinna.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityNyslot=Sarolinna.public.md) 
+
+### [Nyslot=Sarolinna.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityNyslot=Sarolinna.internal.md) 
+
+### [Nyslot=Sarolinna.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityNyslot=Sarolinna.protect.md) 
+
+### [Nyslot=Sarolinna.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityNyslot=Sarolinna.private.md) 
+
+### [Nyslot=Sarolinna.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityNyslot=Sarolinna.personal.md) 
+
+### [Nyslot=Sarolinna.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityNyslot=Sarolinna.secret.md)
+
