@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hogland.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\CityHogland.public.md) 
+### [Hogland](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Hogland.md) 
 
-### [Hogland.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\CityHogland.internal.md) 
+### [Hogland.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Hogland.public.md) 
 
-### [Hogland.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\CityHogland.protect.md) 
+### [Hogland.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Hogland.internal.md) 
 
-### [Hogland.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\CityHogland.private.md) 
+### [Hogland.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Hogland.protect.md) 
 
-### [Hogland.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\CityHogland.personal.md) 
+### [Hogland.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Hogland.private.md) 
 
-### [Hogland.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\CityHogland.secret.md)
+### [Hogland.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Hogland.personal.md) 
+
+### [Hogland.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Hogland.secret.md)
 

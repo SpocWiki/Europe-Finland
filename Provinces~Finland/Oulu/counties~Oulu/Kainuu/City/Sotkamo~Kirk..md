@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sotkamo~Kirk..public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySotkamo~Kirk..public.md) 
+### [Sotkamo~Kirk.](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kirk..md) 
 
-### [Sotkamo~Kirk..internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySotkamo~Kirk..internal.md) 
+### [Sotkamo~Kirk..public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kirk..public.md) 
 
-### [Sotkamo~Kirk..protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySotkamo~Kirk..protect.md) 
+### [Sotkamo~Kirk..internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kirk..internal.md) 
 
-### [Sotkamo~Kirk..private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySotkamo~Kirk..private.md) 
+### [Sotkamo~Kirk..protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kirk..protect.md) 
 
-### [Sotkamo~Kirk..personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySotkamo~Kirk..personal.md) 
+### [Sotkamo~Kirk..private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kirk..private.md) 
 
-### [Sotkamo~Kirk..secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySotkamo~Kirk..secret.md)
+### [Sotkamo~Kirk..personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kirk..personal.md) 
+
+### [Sotkamo~Kirk..secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kirk..secret.md)
 

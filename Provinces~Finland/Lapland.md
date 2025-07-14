@@ -41,15 +41,17 @@ markerFolder: ./Lapland/
 
 ## Confidential Links & Embeds: 
 
-### [Lapland.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~FinlandLapland.public.md) 
+### [Lapland](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland.md) 
 
-### [Lapland.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~FinlandLapland.internal.md) 
+### [Lapland.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland.public.md) 
 
-### [Lapland.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~FinlandLapland.protect.md) 
+### [Lapland.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland.internal.md) 
 
-### [Lapland.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~FinlandLapland.private.md) 
+### [Lapland.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland.protect.md) 
 
-### [Lapland.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~FinlandLapland.personal.md) 
+### [Lapland.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland.private.md) 
 
-### [Lapland.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~FinlandLapland.secret.md)
+### [Lapland.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland.personal.md) 
+
+### [Lapland.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland.secret.md)
 

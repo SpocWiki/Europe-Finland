@@ -53,19 +53,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Turku)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Turku.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southwest_FinlandTurku.public.md) 
+### [Turku](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland/Turku.md) 
 
-### [Turku.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southwest_FinlandTurku.internal.md) 
+### [Turku.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland/Turku.public.md) 
 
-### [Turku.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southwest_FinlandTurku.protect.md) 
+### [Turku.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland/Turku.internal.md) 
 
-### [Turku.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southwest_FinlandTurku.private.md) 
+### [Turku.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland/Turku.protect.md) 
 
-### [Turku.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southwest_FinlandTurku.personal.md) 
+### [Turku.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland/Turku.private.md) 
 
-### [Turku.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southwest_FinlandTurku.secret.md)
+### [Turku.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland/Turku.personal.md) 
+
+### [Turku.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland/Turku.secret.md)
 

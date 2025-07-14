@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hoegsand.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\CityHoegsand.public.md) 
+### [Hoegsand](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Hoegsand.md) 
 
-### [Hoegsand.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\CityHoegsand.internal.md) 
+### [Hoegsand.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Hoegsand.public.md) 
 
-### [Hoegsand.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\CityHoegsand.protect.md) 
+### [Hoegsand.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Hoegsand.internal.md) 
 
-### [Hoegsand.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\CityHoegsand.private.md) 
+### [Hoegsand.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Hoegsand.protect.md) 
 
-### [Hoegsand.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\CityHoegsand.personal.md) 
+### [Hoegsand.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Hoegsand.private.md) 
 
-### [Hoegsand.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\CityHoegsand.secret.md)
+### [Hoegsand.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Hoegsand.personal.md) 
+
+### [Hoegsand.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Hoegsand.secret.md)
 

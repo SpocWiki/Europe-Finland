@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hangoe=Hanko.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\CityHangoe=Hanko.public.md) 
+### [Hangoe=Hanko](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Hangoe=Hanko.md) 
 
-### [Hangoe=Hanko.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\CityHangoe=Hanko.internal.md) 
+### [Hangoe=Hanko.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Hangoe=Hanko.public.md) 
 
-### [Hangoe=Hanko.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\CityHangoe=Hanko.protect.md) 
+### [Hangoe=Hanko.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Hangoe=Hanko.internal.md) 
 
-### [Hangoe=Hanko.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\CityHangoe=Hanko.private.md) 
+### [Hangoe=Hanko.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Hangoe=Hanko.protect.md) 
 
-### [Hangoe=Hanko.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\CityHangoe=Hanko.personal.md) 
+### [Hangoe=Hanko.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Hangoe=Hanko.private.md) 
 
-### [Hangoe=Hanko.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\CityHangoe=Hanko.secret.md)
+### [Hangoe=Hanko.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Hangoe=Hanko.personal.md) 
+
+### [Hangoe=Hanko.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Hangoe=Hanko.secret.md)
 

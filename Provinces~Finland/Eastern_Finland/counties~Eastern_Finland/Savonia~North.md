@@ -42,15 +42,17 @@ markerFolder: ./Northern_Savonia/
 
 ## Confidential Links & Embeds: 
 
-### [Savonia~North.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_FinlandSavonia~North.public.md) 
+### [Savonia~North](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~North.md) 
 
-### [Savonia~North.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_FinlandSavonia~North.internal.md) 
+### [Savonia~North.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~North.public.md) 
 
-### [Savonia~North.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_FinlandSavonia~North.protect.md) 
+### [Savonia~North.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~North.internal.md) 
 
-### [Savonia~North.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_FinlandSavonia~North.private.md) 
+### [Savonia~North.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~North.protect.md) 
 
-### [Savonia~North.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_FinlandSavonia~North.personal.md) 
+### [Savonia~North.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~North.private.md) 
 
-### [Savonia~North.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_FinlandSavonia~North.secret.md)
+### [Savonia~North.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~North.personal.md) 
+
+### [Savonia~North.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~North.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hontskari.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\CityHontskari.public.md) 
+### [Hontskari](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Hontskari.md) 
 
-### [Hontskari.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\CityHontskari.internal.md) 
+### [Hontskari.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Hontskari.public.md) 
 
-### [Hontskari.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\CityHontskari.protect.md) 
+### [Hontskari.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Hontskari.internal.md) 
 
-### [Hontskari.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\CityHontskari.private.md) 
+### [Hontskari.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Hontskari.protect.md) 
 
-### [Hontskari.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\CityHontskari.personal.md) 
+### [Hontskari.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Hontskari.private.md) 
 
-### [Hontskari.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\CityHontskari.secret.md)
+### [Hontskari.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Hontskari.personal.md) 
+
+### [Hontskari.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Hontskari.secret.md)
 

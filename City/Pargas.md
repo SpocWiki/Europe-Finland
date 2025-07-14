@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pargas.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\CityPargas.public.md) 
+### [Pargas](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Pargas.md) 
 
-### [Pargas.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\CityPargas.internal.md) 
+### [Pargas.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Pargas.public.md) 
 
-### [Pargas.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\CityPargas.protect.md) 
+### [Pargas.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Pargas.internal.md) 
 
-### [Pargas.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\CityPargas.private.md) 
+### [Pargas.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Pargas.protect.md) 
 
-### [Pargas.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\CityPargas.personal.md) 
+### [Pargas.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Pargas.private.md) 
 
-### [Pargas.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\CityPargas.secret.md)
+### [Pargas.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Pargas.personal.md) 
+
+### [Pargas.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Pargas.secret.md)
 

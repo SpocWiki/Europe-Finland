@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Utajaervi~Sosk..public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityUtajaervi~Sosk..public.md) 
+### [Utajaervi~Sosk.](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Utajaervi~Sosk..md) 
 
-### [Utajaervi~Sosk..internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityUtajaervi~Sosk..internal.md) 
+### [Utajaervi~Sosk..public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Utajaervi~Sosk..public.md) 
 
-### [Utajaervi~Sosk..protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityUtajaervi~Sosk..protect.md) 
+### [Utajaervi~Sosk..internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Utajaervi~Sosk..internal.md) 
 
-### [Utajaervi~Sosk..private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityUtajaervi~Sosk..private.md) 
+### [Utajaervi~Sosk..protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Utajaervi~Sosk..protect.md) 
 
-### [Utajaervi~Sosk..personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityUtajaervi~Sosk..personal.md) 
+### [Utajaervi~Sosk..private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Utajaervi~Sosk..private.md) 
 
-### [Utajaervi~Sosk..secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityUtajaervi~Sosk..secret.md)
+### [Utajaervi~Sosk..personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Utajaervi~Sosk..personal.md) 
+
+### [Utajaervi~Sosk..secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Utajaervi~Sosk..secret.md)
 

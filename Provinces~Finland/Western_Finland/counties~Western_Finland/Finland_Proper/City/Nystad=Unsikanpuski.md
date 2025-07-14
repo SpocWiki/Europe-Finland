@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nystad=Unsikanpuski.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityNystad=Unsikanpuski.public.md) 
+### [Nystad=Unsikanpuski](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Finland_Proper/City/Nystad=Unsikanpuski.md) 
 
-### [Nystad=Unsikanpuski.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityNystad=Unsikanpuski.internal.md) 
+### [Nystad=Unsikanpuski.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Finland_Proper/City/Nystad=Unsikanpuski.public.md) 
 
-### [Nystad=Unsikanpuski.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityNystad=Unsikanpuski.protect.md) 
+### [Nystad=Unsikanpuski.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Finland_Proper/City/Nystad=Unsikanpuski.internal.md) 
 
-### [Nystad=Unsikanpuski.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityNystad=Unsikanpuski.private.md) 
+### [Nystad=Unsikanpuski.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Finland_Proper/City/Nystad=Unsikanpuski.protect.md) 
 
-### [Nystad=Unsikanpuski.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityNystad=Unsikanpuski.personal.md) 
+### [Nystad=Unsikanpuski.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Finland_Proper/City/Nystad=Unsikanpuski.private.md) 
 
-### [Nystad=Unsikanpuski.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Finland_Proper\CityNystad=Unsikanpuski.secret.md)
+### [Nystad=Unsikanpuski.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Finland_Proper/City/Nystad=Unsikanpuski.personal.md) 
+
+### [Nystad=Unsikanpuski.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Finland_Proper/City/Nystad=Unsikanpuski.secret.md)
 

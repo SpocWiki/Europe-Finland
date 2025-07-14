@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Saarijaervi~Raj.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CitySaarijaervi~Raj.public.md) 
+### [Saarijaervi~Raj](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Saarijaervi~Raj.md) 
 
-### [Saarijaervi~Raj.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CitySaarijaervi~Raj.internal.md) 
+### [Saarijaervi~Raj.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Saarijaervi~Raj.public.md) 
 
-### [Saarijaervi~Raj.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CitySaarijaervi~Raj.protect.md) 
+### [Saarijaervi~Raj.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Saarijaervi~Raj.internal.md) 
 
-### [Saarijaervi~Raj.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CitySaarijaervi~Raj.private.md) 
+### [Saarijaervi~Raj.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Saarijaervi~Raj.protect.md) 
 
-### [Saarijaervi~Raj.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CitySaarijaervi~Raj.personal.md) 
+### [Saarijaervi~Raj.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Saarijaervi~Raj.private.md) 
 
-### [Saarijaervi~Raj.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CitySaarijaervi~Raj.secret.md)
+### [Saarijaervi~Raj.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Saarijaervi~Raj.personal.md) 
+
+### [Saarijaervi~Raj.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Saarijaervi~Raj.secret.md)
 

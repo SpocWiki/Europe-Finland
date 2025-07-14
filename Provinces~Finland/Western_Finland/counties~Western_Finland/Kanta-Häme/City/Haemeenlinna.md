@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Haemeenlinna.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityHaemeenlinna.public.md) 
+### [Haemeenlinna](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Kanta-Häme/City/Haemeenlinna.md) 
 
-### [Haemeenlinna.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityHaemeenlinna.internal.md) 
+### [Haemeenlinna.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Kanta-Häme/City/Haemeenlinna.public.md) 
 
-### [Haemeenlinna.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityHaemeenlinna.protect.md) 
+### [Haemeenlinna.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Kanta-Häme/City/Haemeenlinna.internal.md) 
 
-### [Haemeenlinna.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityHaemeenlinna.private.md) 
+### [Haemeenlinna.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Kanta-Häme/City/Haemeenlinna.protect.md) 
 
-### [Haemeenlinna.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityHaemeenlinna.personal.md) 
+### [Haemeenlinna.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Kanta-Häme/City/Haemeenlinna.private.md) 
 
-### [Haemeenlinna.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_Finland\Kanta-Häme\CityHaemeenlinna.secret.md)
+### [Haemeenlinna.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Kanta-Häme/City/Haemeenlinna.personal.md) 
+
+### [Haemeenlinna.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Kanta-Häme/City/Haemeenlinna.secret.md)
 

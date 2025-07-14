@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Karlsuando.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityKarlsuando.public.md) 
+### [Karlsuando](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Karlsuando.md) 
 
-### [Karlsuando.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityKarlsuando.internal.md) 
+### [Karlsuando.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Karlsuando.public.md) 
 
-### [Karlsuando.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityKarlsuando.protect.md) 
+### [Karlsuando.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Karlsuando.internal.md) 
 
-### [Karlsuando.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityKarlsuando.private.md) 
+### [Karlsuando.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Karlsuando.protect.md) 
 
-### [Karlsuando.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityKarlsuando.personal.md) 
+### [Karlsuando.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Karlsuando.private.md) 
 
-### [Karlsuando.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityKarlsuando.secret.md)
+### [Karlsuando.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Karlsuando.personal.md) 
+
+### [Karlsuando.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Karlsuando.secret.md)
 

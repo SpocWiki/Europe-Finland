@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Seivaestoe.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\CitySeivaestoe.public.md) 
+### [Seivaestoe](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Seivaestoe.md) 
 
-### [Seivaestoe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\CitySeivaestoe.internal.md) 
+### [Seivaestoe.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Seivaestoe.public.md) 
 
-### [Seivaestoe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\CitySeivaestoe.protect.md) 
+### [Seivaestoe.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Seivaestoe.internal.md) 
 
-### [Seivaestoe.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\CitySeivaestoe.private.md) 
+### [Seivaestoe.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Seivaestoe.protect.md) 
 
-### [Seivaestoe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\CitySeivaestoe.personal.md) 
+### [Seivaestoe.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Seivaestoe.private.md) 
 
-### [Seivaestoe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\CitySeivaestoe.secret.md)
+### [Seivaestoe.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Seivaestoe.personal.md) 
+
+### [Seivaestoe.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Seivaestoe.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Inari_Kyronkylae.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\CityInari_Kyronkylae.public.md) 
+### [Inari_Kyronkylae](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Kyronkylae.md) 
 
-### [Inari_Kyronkylae.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\CityInari_Kyronkylae.internal.md) 
+### [Inari_Kyronkylae.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Kyronkylae.public.md) 
 
-### [Inari_Kyronkylae.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\CityInari_Kyronkylae.protect.md) 
+### [Inari_Kyronkylae.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Kyronkylae.internal.md) 
 
-### [Inari_Kyronkylae.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\CityInari_Kyronkylae.private.md) 
+### [Inari_Kyronkylae.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Kyronkylae.protect.md) 
 
-### [Inari_Kyronkylae.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\CityInari_Kyronkylae.personal.md) 
+### [Inari_Kyronkylae.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Kyronkylae.private.md) 
 
-### [Inari_Kyronkylae.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\CityInari_Kyronkylae.secret.md)
+### [Inari_Kyronkylae.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Kyronkylae.personal.md) 
+
+### [Inari_Kyronkylae.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Kyronkylae.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ulkokalla.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\CityUlkokalla.public.md) 
+### [Ulkokalla](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Ulkokalla.md) 
 
-### [Ulkokalla.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\CityUlkokalla.internal.md) 
+### [Ulkokalla.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Ulkokalla.public.md) 
 
-### [Ulkokalla.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\CityUlkokalla.protect.md) 
+### [Ulkokalla.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Ulkokalla.internal.md) 
 
-### [Ulkokalla.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\CityUlkokalla.private.md) 
+### [Ulkokalla.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Ulkokalla.protect.md) 
 
-### [Ulkokalla.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\CityUlkokalla.personal.md) 
+### [Ulkokalla.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Ulkokalla.private.md) 
 
-### [Ulkokalla.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\CityUlkokalla.secret.md)
+### [Ulkokalla.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Ulkokalla.personal.md) 
+
+### [Ulkokalla.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Ulkokalla.secret.md)
 

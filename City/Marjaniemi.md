@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marjaniemi.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\CityMarjaniemi.public.md) 
+### [Marjaniemi](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Marjaniemi.md) 
 
-### [Marjaniemi.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\CityMarjaniemi.internal.md) 
+### [Marjaniemi.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Marjaniemi.public.md) 
 
-### [Marjaniemi.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\CityMarjaniemi.protect.md) 
+### [Marjaniemi.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Marjaniemi.internal.md) 
 
-### [Marjaniemi.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\CityMarjaniemi.private.md) 
+### [Marjaniemi.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Marjaniemi.protect.md) 
 
-### [Marjaniemi.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\CityMarjaniemi.personal.md) 
+### [Marjaniemi.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Marjaniemi.private.md) 
 
-### [Marjaniemi.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\CityMarjaniemi.secret.md)
+### [Marjaniemi.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Marjaniemi.personal.md) 
+
+### [Marjaniemi.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Marjaniemi.secret.md)
 

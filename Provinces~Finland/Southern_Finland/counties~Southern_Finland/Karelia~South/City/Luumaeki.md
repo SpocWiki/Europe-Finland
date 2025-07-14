@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Luumaeki.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Karelia~South\CityLuumaeki.public.md) 
+### [Luumaeki](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Karelia~South/City/Luumaeki.md) 
 
-### [Luumaeki.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Karelia~South\CityLuumaeki.internal.md) 
+### [Luumaeki.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Karelia~South/City/Luumaeki.public.md) 
 
-### [Luumaeki.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Karelia~South\CityLuumaeki.protect.md) 
+### [Luumaeki.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Karelia~South/City/Luumaeki.internal.md) 
 
-### [Luumaeki.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Karelia~South\CityLuumaeki.private.md) 
+### [Luumaeki.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Karelia~South/City/Luumaeki.protect.md) 
 
-### [Luumaeki.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Karelia~South\CityLuumaeki.personal.md) 
+### [Luumaeki.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Karelia~South/City/Luumaeki.private.md) 
 
-### [Luumaeki.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Karelia~South\CityLuumaeki.secret.md)
+### [Luumaeki.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Karelia~South/City/Luumaeki.personal.md) 
+
+### [Luumaeki.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Karelia~South/City/Luumaeki.secret.md)
 

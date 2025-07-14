@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ruokolahti.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Karelia~South\CityRuokolahti.public.md) 
+### [Ruokolahti](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Karelia~South/City/Ruokolahti.md) 
 
-### [Ruokolahti.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Karelia~South\CityRuokolahti.internal.md) 
+### [Ruokolahti.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Karelia~South/City/Ruokolahti.public.md) 
 
-### [Ruokolahti.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Karelia~South\CityRuokolahti.protect.md) 
+### [Ruokolahti.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Karelia~South/City/Ruokolahti.internal.md) 
 
-### [Ruokolahti.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Karelia~South\CityRuokolahti.private.md) 
+### [Ruokolahti.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Karelia~South/City/Ruokolahti.protect.md) 
 
-### [Ruokolahti.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Karelia~South\CityRuokolahti.personal.md) 
+### [Ruokolahti.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Karelia~South/City/Ruokolahti.private.md) 
 
-### [Ruokolahti.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_Finland\Karelia~South\CityRuokolahti.secret.md)
+### [Ruokolahti.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Karelia~South/City/Ruokolahti.personal.md) 
+
+### [Ruokolahti.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Karelia~South/City/Ruokolahti.secret.md)
 

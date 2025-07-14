@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Enontekioe.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityEnontekioe.public.md) 
+### [Enontekioe](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Enontekioe.md) 
 
-### [Enontekioe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityEnontekioe.internal.md) 
+### [Enontekioe.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Enontekioe.public.md) 
 
-### [Enontekioe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityEnontekioe.protect.md) 
+### [Enontekioe.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Enontekioe.internal.md) 
 
-### [Enontekioe.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityEnontekioe.private.md) 
+### [Enontekioe.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Enontekioe.protect.md) 
 
-### [Enontekioe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityEnontekioe.personal.md) 
+### [Enontekioe.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Enontekioe.private.md) 
 
-### [Enontekioe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityEnontekioe.secret.md)
+### [Enontekioe.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Enontekioe.personal.md) 
+
+### [Enontekioe.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Enontekioe.secret.md)
 

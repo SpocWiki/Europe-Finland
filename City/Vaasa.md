@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vaasa.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\CityVaasa.public.md) 
+### [Vaasa](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Vaasa.md) 
 
-### [Vaasa.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\CityVaasa.internal.md) 
+### [Vaasa.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Vaasa.public.md) 
 
-### [Vaasa.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\CityVaasa.protect.md) 
+### [Vaasa.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Vaasa.internal.md) 
 
-### [Vaasa.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\CityVaasa.private.md) 
+### [Vaasa.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Vaasa.protect.md) 
 
-### [Vaasa.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\CityVaasa.personal.md) 
+### [Vaasa.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Vaasa.private.md) 
 
-### [Vaasa.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\CityVaasa.secret.md)
+### [Vaasa.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Vaasa.personal.md) 
+
+### [Vaasa.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Vaasa.secret.md)
 

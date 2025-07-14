@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Norrskaer.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\CityNorrskaer.public.md) 
+### [Norrskaer](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Norrskaer.md) 
 
-### [Norrskaer.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\CityNorrskaer.internal.md) 
+### [Norrskaer.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Norrskaer.public.md) 
 
-### [Norrskaer.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\CityNorrskaer.protect.md) 
+### [Norrskaer.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Norrskaer.internal.md) 
 
-### [Norrskaer.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\CityNorrskaer.private.md) 
+### [Norrskaer.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Norrskaer.protect.md) 
 
-### [Norrskaer.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\CityNorrskaer.personal.md) 
+### [Norrskaer.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Norrskaer.private.md) 
 
-### [Norrskaer.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\CityNorrskaer.secret.md)
+### [Norrskaer.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Norrskaer.personal.md) 
+
+### [Norrskaer.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Norrskaer.secret.md)
 

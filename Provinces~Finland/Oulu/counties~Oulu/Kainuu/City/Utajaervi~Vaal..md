@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Utajaervi~Vaal..public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityUtajaervi~Vaal..public.md) 
+### [Utajaervi~Vaal.](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Utajaervi~Vaal..md) 
 
-### [Utajaervi~Vaal..internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityUtajaervi~Vaal..internal.md) 
+### [Utajaervi~Vaal..public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Utajaervi~Vaal..public.md) 
 
-### [Utajaervi~Vaal..protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityUtajaervi~Vaal..protect.md) 
+### [Utajaervi~Vaal..internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Utajaervi~Vaal..internal.md) 
 
-### [Utajaervi~Vaal..private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityUtajaervi~Vaal..private.md) 
+### [Utajaervi~Vaal..protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Utajaervi~Vaal..protect.md) 
 
-### [Utajaervi~Vaal..personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityUtajaervi~Vaal..personal.md) 
+### [Utajaervi~Vaal..private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Utajaervi~Vaal..private.md) 
 
-### [Utajaervi~Vaal..secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CityUtajaervi~Vaal..secret.md)
+### [Utajaervi~Vaal..personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Utajaervi~Vaal..personal.md) 
+
+### [Utajaervi~Vaal..secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Utajaervi~Vaal..secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kristianstad.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\CityKristianstad.public.md) 
+### [Kristianstad](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Kristianstad.md) 
 
-### [Kristianstad.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\CityKristianstad.internal.md) 
+### [Kristianstad.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Kristianstad.public.md) 
 
-### [Kristianstad.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\CityKristianstad.protect.md) 
+### [Kristianstad.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Kristianstad.internal.md) 
 
-### [Kristianstad.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\CityKristianstad.private.md) 
+### [Kristianstad.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Kristianstad.protect.md) 
 
-### [Kristianstad.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\CityKristianstad.personal.md) 
+### [Kristianstad.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Kristianstad.private.md) 
 
-### [Kristianstad.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\CityKristianstad.secret.md)
+### [Kristianstad.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Kristianstad.personal.md) 
+
+### [Kristianstad.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Kristianstad.secret.md)
 

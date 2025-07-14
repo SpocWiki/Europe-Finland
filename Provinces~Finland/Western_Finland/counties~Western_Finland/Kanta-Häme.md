@@ -40,15 +40,17 @@ markerFolder: ./Tavastia_Proper/
 
 ## Confidential Links & Embeds: 
 
-### [Kanta-Häme.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandKanta-Häme.public.md) 
+### [Kanta-Häme](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Kanta-Häme.md) 
 
-### [Kanta-Häme.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandKanta-Häme.internal.md) 
+### [Kanta-Häme.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Kanta-Häme.public.md) 
 
-### [Kanta-Häme.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandKanta-Häme.protect.md) 
+### [Kanta-Häme.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Kanta-Häme.internal.md) 
 
-### [Kanta-Häme.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandKanta-Häme.private.md) 
+### [Kanta-Häme.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Kanta-Häme.protect.md) 
 
-### [Kanta-Häme.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandKanta-Häme.personal.md) 
+### [Kanta-Häme.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Kanta-Häme.private.md) 
 
-### [Kanta-Häme.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Western_Finland\counties~Western_FinlandKanta-Häme.secret.md)
+### [Kanta-Häme.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Kanta-Häme.personal.md) 
+
+### [Kanta-Häme.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Kanta-Häme.secret.md)
 

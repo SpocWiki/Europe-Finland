@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Inari_Enare.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\CityInari_Enare.public.md) 
+### [Inari_Enare](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Enare.md) 
 
-### [Inari_Enare.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\CityInari_Enare.internal.md) 
+### [Inari_Enare.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Enare.public.md) 
 
-### [Inari_Enare.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\CityInari_Enare.protect.md) 
+### [Inari_Enare.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Enare.internal.md) 
 
-### [Inari_Enare.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\CityInari_Enare.private.md) 
+### [Inari_Enare.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Enare.protect.md) 
 
-### [Inari_Enare.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\CityInari_Enare.personal.md) 
+### [Inari_Enare.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Enare.private.md) 
 
-### [Inari_Enare.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\CityInari_Enare.secret.md)
+### [Inari_Enare.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Enare.personal.md) 
+
+### [Inari_Enare.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Enare.secret.md)
 

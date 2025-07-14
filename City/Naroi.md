@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Naroi.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\CityNaroi.public.md) 
+### [Naroi](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Naroi.md) 
 
-### [Naroi.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\CityNaroi.internal.md) 
+### [Naroi.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Naroi.public.md) 
 
-### [Naroi.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\CityNaroi.protect.md) 
+### [Naroi.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Naroi.internal.md) 
 
-### [Naroi.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\CityNaroi.private.md) 
+### [Naroi.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Naroi.protect.md) 
 
-### [Naroi.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\CityNaroi.personal.md) 
+### [Naroi.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Naroi.private.md) 
 
-### [Naroi.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\CityNaroi.secret.md)
+### [Naroi.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Naroi.personal.md) 
+
+### [Naroi.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Naroi.secret.md)
 

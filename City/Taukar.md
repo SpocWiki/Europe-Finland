@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Taukar.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\CityTaukar.public.md) 
+### [Taukar](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Taukar.md) 
 
-### [Taukar.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\CityTaukar.internal.md) 
+### [Taukar.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Taukar.public.md) 
 
-### [Taukar.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\CityTaukar.protect.md) 
+### [Taukar.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Taukar.internal.md) 
 
-### [Taukar.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\CityTaukar.private.md) 
+### [Taukar.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Taukar.protect.md) 
 
-### [Taukar.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\CityTaukar.personal.md) 
+### [Taukar.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Taukar.private.md) 
 
-### [Taukar.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\CityTaukar.secret.md)
+### [Taukar.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Taukar.personal.md) 
+
+### [Taukar.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Taukar.secret.md)
 

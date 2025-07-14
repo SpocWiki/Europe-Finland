@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rovaniemi.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityRovaniemi.public.md) 
+### [Rovaniemi](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Rovaniemi.md) 
 
-### [Rovaniemi.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityRovaniemi.internal.md) 
+### [Rovaniemi.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Rovaniemi.public.md) 
 
-### [Rovaniemi.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityRovaniemi.protect.md) 
+### [Rovaniemi.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Rovaniemi.internal.md) 
 
-### [Rovaniemi.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityRovaniemi.private.md) 
+### [Rovaniemi.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Rovaniemi.protect.md) 
 
-### [Rovaniemi.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityRovaniemi.personal.md) 
+### [Rovaniemi.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Rovaniemi.private.md) 
 
-### [Rovaniemi.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Lapland\CityRovaniemi.secret.md)
+### [Rovaniemi.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Rovaniemi.personal.md) 
+
+### [Rovaniemi.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Rovaniemi.secret.md)
 

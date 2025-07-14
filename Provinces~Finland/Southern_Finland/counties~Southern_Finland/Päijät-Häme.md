@@ -41,15 +41,17 @@ markerFolder: ./Päijät-Häme/
 
 ## Confidential Links & Embeds: 
 
-### [Päijät-Häme.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_FinlandPäijät-Häme.public.md) 
+### [Päijät-Häme](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Päijät-Häme.md) 
 
-### [Päijät-Häme.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_FinlandPäijät-Häme.internal.md) 
+### [Päijät-Häme.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Päijät-Häme.public.md) 
 
-### [Päijät-Häme.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_FinlandPäijät-Häme.protect.md) 
+### [Päijät-Häme.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Päijät-Häme.internal.md) 
 
-### [Päijät-Häme.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_FinlandPäijät-Häme.private.md) 
+### [Päijät-Häme.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Päijät-Häme.protect.md) 
 
-### [Päijät-Häme.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_FinlandPäijät-Häme.personal.md) 
+### [Päijät-Häme.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Päijät-Häme.private.md) 
 
-### [Päijät-Häme.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Southern_Finland\counties~Southern_FinlandPäijät-Häme.secret.md)
+### [Päijät-Häme.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Päijät-Häme.personal.md) 
+
+### [Päijät-Häme.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Päijät-Häme.secret.md)
 

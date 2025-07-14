@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~North\FinlandLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~North/Finland/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~North\FinlandLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~North/Finland/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~North\FinlandLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~North\FinlandLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~North\FinlandLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~North/Finland/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~North\FinlandLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/License.secret.md)
 

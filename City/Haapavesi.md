@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Haapavesi.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\CityHaapavesi.public.md) 
+### [Haapavesi](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Haapavesi.md) 
 
-### [Haapavesi.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\CityHaapavesi.internal.md) 
+### [Haapavesi.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Haapavesi.public.md) 
 
-### [Haapavesi.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\CityHaapavesi.protect.md) 
+### [Haapavesi.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Haapavesi.internal.md) 
 
-### [Haapavesi.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\CityHaapavesi.private.md) 
+### [Haapavesi.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Haapavesi.protect.md) 
 
-### [Haapavesi.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\CityHaapavesi.personal.md) 
+### [Haapavesi.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Haapavesi.private.md) 
 
-### [Haapavesi.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\CityHaapavesi.secret.md)
+### [Haapavesi.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Haapavesi.personal.md) 
+
+### [Haapavesi.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Haapavesi.secret.md)
 

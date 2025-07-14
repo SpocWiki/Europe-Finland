@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sotkamo~Kalm..public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySotkamo~Kalm..public.md) 
+### [Sotkamo~Kalm.](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kalm..md) 
 
-### [Sotkamo~Kalm..internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySotkamo~Kalm..internal.md) 
+### [Sotkamo~Kalm..public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kalm..public.md) 
 
-### [Sotkamo~Kalm..protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySotkamo~Kalm..protect.md) 
+### [Sotkamo~Kalm..internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kalm..internal.md) 
 
-### [Sotkamo~Kalm..private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySotkamo~Kalm..private.md) 
+### [Sotkamo~Kalm..protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kalm..protect.md) 
 
-### [Sotkamo~Kalm..personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySotkamo~Kalm..personal.md) 
+### [Sotkamo~Kalm..private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kalm..private.md) 
 
-### [Sotkamo~Kalm..secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Kainuu\CitySotkamo~Kalm..secret.md)
+### [Sotkamo~Kalm..personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kalm..personal.md) 
+
+### [Sotkamo~Kalm..secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kalm..secret.md)
 

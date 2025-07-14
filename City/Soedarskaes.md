@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Soedarskaes.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\CitySoedarskaes.public.md) 
+### [Soedarskaes](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Soedarskaes.md) 
 
-### [Soedarskaes.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\CitySoedarskaes.internal.md) 
+### [Soedarskaes.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Soedarskaes.public.md) 
 
-### [Soedarskaes.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\CitySoedarskaes.protect.md) 
+### [Soedarskaes.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Soedarskaes.internal.md) 
 
-### [Soedarskaes.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\CitySoedarskaes.private.md) 
+### [Soedarskaes.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Soedarskaes.protect.md) 
 
-### [Soedarskaes.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\CitySoedarskaes.personal.md) 
+### [Soedarskaes.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Soedarskaes.private.md) 
 
-### [Soedarskaes.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\CitySoedarskaes.secret.md)
+### [Soedarskaes.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Soedarskaes.personal.md) 
+
+### [Soedarskaes.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Soedarskaes.secret.md)
 

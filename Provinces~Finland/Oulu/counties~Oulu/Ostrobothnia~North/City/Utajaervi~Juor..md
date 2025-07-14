@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Utajaervi~Juor..public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityUtajaervi~Juor..public.md) 
+### [Utajaervi~Juor.](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Utajaervi~Juor..md) 
 
-### [Utajaervi~Juor..internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityUtajaervi~Juor..internal.md) 
+### [Utajaervi~Juor..public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Utajaervi~Juor..public.md) 
 
-### [Utajaervi~Juor..protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityUtajaervi~Juor..protect.md) 
+### [Utajaervi~Juor..internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Utajaervi~Juor..internal.md) 
 
-### [Utajaervi~Juor..private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityUtajaervi~Juor..private.md) 
+### [Utajaervi~Juor..protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Utajaervi~Juor..protect.md) 
 
-### [Utajaervi~Juor..personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityUtajaervi~Juor..personal.md) 
+### [Utajaervi~Juor..private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Utajaervi~Juor..private.md) 
 
-### [Utajaervi~Juor..secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Oulu\counties~Oulu\Ostrobothnia~North\CityUtajaervi~Juor..secret.md)
+### [Utajaervi~Juor..personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Utajaervi~Juor..personal.md) 
+
+### [Utajaervi~Juor..secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Utajaervi~Juor..secret.md)
 

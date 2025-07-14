@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nyslot=Sarolinna.public](/_public/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityNyslot=Sarolinna.public.md) 
+### [Nyslot=Sarolinna](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Nyslot=Sarolinna.md) 
 
-### [Nyslot=Sarolinna.internal](/_internal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityNyslot=Sarolinna.internal.md) 
+### [Nyslot=Sarolinna.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Nyslot=Sarolinna.public.md) 
 
-### [Nyslot=Sarolinna.protect](/_protect/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityNyslot=Sarolinna.protect.md) 
+### [Nyslot=Sarolinna.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Nyslot=Sarolinna.internal.md) 
 
-### [Nyslot=Sarolinna.private](/_private/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityNyslot=Sarolinna.private.md) 
+### [Nyslot=Sarolinna.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Nyslot=Sarolinna.protect.md) 
 
-### [Nyslot=Sarolinna.personal](/_personal/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityNyslot=Sarolinna.personal.md) 
+### [Nyslot=Sarolinna.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Nyslot=Sarolinna.private.md) 
 
-### [Nyslot=Sarolinna.secret](/_secret/\Earth\Continent\Europe\Europe~North\Finland\Provinces~Finland\Eastern_Finland\counties~Eastern_Finland\Savonia~South\CityNyslot=Sarolinna.secret.md)
+### [Nyslot=Sarolinna.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Nyslot=Sarolinna.personal.md) 
+
+### [Nyslot=Sarolinna.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Nyslot=Sarolinna.secret.md)
 
