@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Northern_Ostrobothnia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Northern_Ostrobothnia/
 markerFolder: ./Northern_Ostrobothnia/

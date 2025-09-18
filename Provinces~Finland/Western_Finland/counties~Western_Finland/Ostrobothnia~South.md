@@ -32,7 +32,7 @@ expiryDate:
 ```leaflet
 id: Southern_Ostrobothnia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Southern_Ostrobothnia/
 markerFolder: ./Southern_Ostrobothnia/

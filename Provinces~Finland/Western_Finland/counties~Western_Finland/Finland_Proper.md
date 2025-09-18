@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Finland_Proper
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Finland_Proper/
 markerFolder: ./Finland_Proper/

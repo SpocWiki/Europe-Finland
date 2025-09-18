@@ -32,7 +32,7 @@ expiryDate:
 ```leaflet
 id: Central_Finland
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Central_Finland/
 markerFolder: ./Central_Finland/

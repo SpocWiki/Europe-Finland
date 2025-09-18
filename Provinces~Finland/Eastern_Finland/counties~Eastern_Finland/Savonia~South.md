@@ -33,7 +33,7 @@ expiryDate:
 ```leaflet
 id: Southern_Savonia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Southern_Savonia/
 markerFolder: ./Southern_Savonia/

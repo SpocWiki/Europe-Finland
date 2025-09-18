@@ -32,7 +32,7 @@ expiryDate:
 ```leaflet
 id: North_Karelia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./North_Karelia/
 markerFolder: ./North_Karelia/

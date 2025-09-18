@@ -32,7 +32,7 @@ expiryDate:
 ```leaflet
 id: South_Karelia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./South_Karelia/
 markerFolder: ./South_Karelia/

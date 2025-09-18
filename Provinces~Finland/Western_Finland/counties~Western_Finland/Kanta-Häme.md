@@ -17,12 +17,13 @@ aliases:
   - Kanta-Häme
 Languages:
   - de
-cssclasses: geo-Region
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
 expiryDate:
 ---
 
@@ -31,7 +32,7 @@ expiryDate:
 ```leaflet
 id: Tavastia_Proper
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Tavastia_Proper/
 markerFolder: ./Tavastia_Proper/

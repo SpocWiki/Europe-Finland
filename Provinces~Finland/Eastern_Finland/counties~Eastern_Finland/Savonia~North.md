@@ -33,7 +33,7 @@ expiryDate:
 ```leaflet
 id: Northern_Savonia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Northern_Savonia/
 markerFolder: ./Northern_Savonia/
