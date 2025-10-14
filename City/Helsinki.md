@@ -201,7 +201,7 @@ State ::
 Country :: [[Finland]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Helsinki,1757|WD~Helsinki,1757]] 
 
