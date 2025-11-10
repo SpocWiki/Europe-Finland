@@ -3,7 +3,7 @@ location:
   - 61.3
   - 28.3
 type: geo-Region
-title: South_Karelia
+title: Karelia~South
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
@@ -27,15 +27,15 @@ publishDate:
 expiryDate:
 ---
 
-# South_Karelia
+# [[Karelia~South]] 
 
 ```leaflet
-id: South_Karelia
+id: Karelia~South
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./South_Karelia/
-markerFolder: ./South_Karelia/
+geojsonFolder: ./Karelia~South/
+markerFolder: ./Karelia~South/
 ```
 
 
