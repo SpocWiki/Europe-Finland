@@ -3,7 +3,9 @@ aliases:
   - Saimen
   - Saimaa
 has_id_wikidata: Q192770
-location: [ 61.25, 28.25]
+location:
+  - 61.25
+  - 28.25
 coordinate_location: Point(28.25 61.25)
 has_part_s_:
   - "[[_Standards/WikiData/WD~Lake_Orivesi,382649]]"
@@ -16,7 +18,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~Pyyvesi,7263972]]"
   - "[[_Standards/WikiData/WD~Ukonvesi,7362296]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
 outflows: "[[_Standards/WikiData/WD~Vuoksa,819448]]"
