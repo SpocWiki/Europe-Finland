@@ -2,35 +2,37 @@
 aliases:
   - Saimen
   - Saimaa
+  - Lake_Saimaa
+  - Lake Saimaa
 has_id_wikidata: Q192770
 location:
   - 61.25
   - 28.25
 coordinate_location: Point(28.25 61.25)
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Lake_Orivesi,382649]]"
-  - "[[_Standards/WikiData/WD~Proper_Saimaa,574908]]"
-  - "[[_Standards/WikiData/WD~Puruvesi,1400567]]"
-  - "[[_Standards/WikiData/WD~Haukivesi,1589328]]"
-  - "[[_Standards/WikiData/WD~Pyhäselkä,1892320]]"
-  - "[[_Standards/WikiData/WD~Pihlajavesi,2062505]]"
-  - "[[_Standards/WikiData/WD~Enonvesi,3054512]]"
-  - "[[_Standards/WikiData/WD~Pyyvesi,7263972]]"
-  - "[[_Standards/WikiData/WD~Ukonvesi,7362296]]"
+  - '[[_Standards/WikiData/WD~Lake_Orivesi,382649]]'
+  - '[[_Standards/WikiData/WD~Proper_Saimaa,574908]]'
+  - '[[_Standards/WikiData/WD~Puruvesi,1400567]]'
+  - '[[_Standards/WikiData/WD~Haukivesi,1589328]]'
+  - '[[_Standards/WikiData/WD~Pyhäselkä,1892320]]'
+  - '[[_Standards/WikiData/WD~Pihlajavesi,2062505]]'
+  - '[[_Standards/WikiData/WD~Enonvesi,3054512]]'
+  - '[[_Standards/WikiData/WD~Pyyvesi,7263972]]'
+  - '[[_Standards/WikiData/WD~Ukonvesi,7362296]]'
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
-outflows: "[[_Standards/WikiData/WD~Vuoksa,819448]]"
-inflows: "[[_Standards/WikiData/WD~Pielisjoki,1636182]]"
-drainage_basin: "[[_Standards/WikiData/WD~Vuoksi_basin,11901970]]"
+  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+outflows: '[[_Standards/WikiData/WD~Vuoksa,819448]]'
+inflows: '[[_Standards/WikiData/WD~Pielisjoki,1636182]]'
+drainage_basin: '[[_Standards/WikiData/WD~Vuoksi_basin,11901970]]'
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~South_Karelia,5691]]"
-  - "[[_Standards/WikiData/WD~South_Savo,5693]]"
-  - "[[_Standards/WikiData/WD~North_Karelia,5703]]"
-instance_of: "[[_Standards/WikiData/WD~lake,23397]]"
-basin_country: "[[_Standards/WikiData/WD~Finland,33]]"
-country: "[[_Standards/WikiData/WD~Finland,33]]"
+  - '[[_Standards/WikiData/WD~South_Karelia,5691]]'
+  - '[[_Standards/WikiData/WD~South_Savo,5693]]'
+  - '[[_Standards/WikiData/WD~North_Karelia,5703]]'
+instance_of: '[[_Standards/WikiData/WD~lake,23397]]'
+basin_country: '[[_Standards/WikiData/WD~Finland,33]]'
+country: '[[_Standards/WikiData/WD~Finland,33]]'
 volume_as_quantity: 36
 area: 4400
 width: 75

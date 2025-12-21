@@ -1,16 +1,19 @@
 ---
-location: [62.17,27.8] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Jorvinen
+location:
+  - 62.17
+  - 27.8
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31218
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

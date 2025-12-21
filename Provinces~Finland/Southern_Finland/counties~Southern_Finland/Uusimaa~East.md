@@ -2,6 +2,7 @@
 aliases:
   - Uusimaa,East
   - East Uusimaa
+  - Uusimaa~East
 ---
 
 

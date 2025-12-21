@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Southern_Savonia
+  - Southern Savonia
+  - South Savo
+  - Savonia~South
 location:
   - 61.9
   - 28
@@ -12,20 +17,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Southern_Savonia
-  - Southern Savonia
-  - South Savo
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Southern_Savonia

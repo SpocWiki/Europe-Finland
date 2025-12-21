@@ -1,16 +1,19 @@
 ---
-location: [60.93,26.02] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Nastola
+location:
+  - 60.93
+  - 26.02
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32744
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,19 @@
 ---
-location: [63.85,28.08] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Sotkamo~Kalm.
+location:
+  - 63.85
+  - 28.08
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34385
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

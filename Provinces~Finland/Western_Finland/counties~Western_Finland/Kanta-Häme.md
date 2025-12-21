@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Tavastia Proper
+  - Kanta-Häme
 location:
   - 60.9
   - 24.2
@@ -12,19 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Tavastia Proper
-  - Kanta-Häme
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Kanta-Häme]]

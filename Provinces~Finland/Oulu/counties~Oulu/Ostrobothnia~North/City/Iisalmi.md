@@ -1,16 +1,19 @@
 ---
-location: [65.58,27.15] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Iisalmi
+location:
+  - 65.58
+  - 27.15
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31094
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

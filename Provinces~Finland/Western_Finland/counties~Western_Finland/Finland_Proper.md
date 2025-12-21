@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Finland proper
+  - Finland_Proper
+  - Finland Proper
 location:
   - 60.6
   - 22.9
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Finland proper
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Finland_Proper

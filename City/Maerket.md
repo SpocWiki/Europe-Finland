@@ -1,16 +1,19 @@
 ---
-location: [60.3,19.15] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Maerket
+location:
+  - 60.3
+  - 19.15
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32692
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

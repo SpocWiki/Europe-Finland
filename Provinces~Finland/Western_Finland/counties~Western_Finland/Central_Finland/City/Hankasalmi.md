@@ -1,16 +1,19 @@
 ---
-location: [62.38,26.42] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Hankasalmi
+location:
+  - 62.38
+  - 26.42
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30758
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

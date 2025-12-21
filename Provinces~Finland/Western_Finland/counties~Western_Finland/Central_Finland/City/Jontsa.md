@@ -1,16 +1,19 @@
 ---
-location: [61.73,26.12] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Jontsa
+location:
+  - 61.73
+  - 26.12
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31215
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

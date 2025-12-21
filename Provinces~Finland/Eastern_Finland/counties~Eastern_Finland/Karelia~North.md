@@ -1,4 +1,8 @@
 ---
+aliases:
+  - North_Karelia
+  - North Karelia
+  - Karelia~North
 location:
   - 62.8
   - 30.2
@@ -12,19 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - North_Karelia
-  - North Karelia
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # North_Karelia

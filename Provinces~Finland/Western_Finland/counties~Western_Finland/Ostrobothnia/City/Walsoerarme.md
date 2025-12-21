@@ -1,16 +1,19 @@
 ---
-location: [63.42,21.07] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Walsoerarme
+location:
+  - 63.42
+  - 21.07
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35429
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,4 +1,8 @@
 ---
+aliases:
+  - South_Karelia
+  - South Karelia
+  - Karelia~South
 location:
   - 61.3
   - 28.3
@@ -12,19 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - South_Karelia
-  - South Karelia
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Karelia~South]] 

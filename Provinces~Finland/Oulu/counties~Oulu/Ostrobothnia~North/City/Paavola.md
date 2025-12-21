@@ -1,16 +1,19 @@
 ---
-location: [64.67,25.13] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Paavola
+location:
+  - 64.67
+  - 25.13
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33207
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,6 +1,8 @@
 ---
 aliases:
   - history of Finland
+  - History_of_Finland
+  - History of Finland
 has_id_wikidata: Q202808
 ---
 

@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Southern_Ostrobothnia
+  - South Ostrobothnia
+  - Ostrobothnia~South
 location:
   - 62.7
   - 23.1
@@ -12,19 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Southern_Ostrobothnia
-  - South Ostrobothnia
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Southern_Ostrobothnia

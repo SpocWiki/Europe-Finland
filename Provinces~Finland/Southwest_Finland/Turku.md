@@ -1,6 +1,7 @@
 ---
 aliases:
   - Åbo
+  - Turku
 ---
 
 

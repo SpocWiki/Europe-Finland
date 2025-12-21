@@ -1,16 +1,19 @@
 ---
-location: [62.85,29.33] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Polvijaervi
+location:
+  - 62.85
+  - 29.33
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33437
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

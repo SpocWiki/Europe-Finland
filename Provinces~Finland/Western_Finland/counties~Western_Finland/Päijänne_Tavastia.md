@@ -1,6 +1,7 @@
 ---
 aliases:
   - Päijänne Tavastia
+  - Päijänne_Tavastia
 ---
 
 

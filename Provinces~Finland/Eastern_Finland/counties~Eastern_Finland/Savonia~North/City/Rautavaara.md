@@ -1,16 +1,19 @@
 ---
-location: [63.48,28.28] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Rautavaara
+location:
+  - 63.48
+  - 28.28
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33656
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

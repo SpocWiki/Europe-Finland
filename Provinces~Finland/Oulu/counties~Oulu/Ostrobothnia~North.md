@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Northern_Ostrobothnia
+  - Ostrobothnia~North
 location:
   - 65
   - 26.4
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Northern_Ostrobothnia
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Northern_Ostrobothnia

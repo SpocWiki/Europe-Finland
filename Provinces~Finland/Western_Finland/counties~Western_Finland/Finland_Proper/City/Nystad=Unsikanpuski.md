@@ -1,16 +1,19 @@
 ---
-location: [60.8,21.42] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Nystad=Unsikanpuski
+location:
+  - 60.8
+  - 21.42
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33001
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

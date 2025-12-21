@@ -1,6 +1,7 @@
 ---
 aliases:
   - Vanda
+  - Vantaa
 ---
 
 

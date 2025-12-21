@@ -1,16 +1,19 @@
 ---
-location: [64.68,24.47] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Raahe
+location:
+  - 64.68
+  - 24.47
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33588
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

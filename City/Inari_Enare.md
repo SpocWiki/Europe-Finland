@@ -1,16 +1,22 @@
 ---
-location: [68,67,27,57] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Inari_Enare
+  - Inari Enare
+location:
+  - 68
+  - 67
+  - 27
+  - 57
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31108
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

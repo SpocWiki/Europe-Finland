@@ -4,6 +4,7 @@ aliases:
   - Finland Proper
   - Varsinais-Suomi
   - Egentliga Finland
+  - Southwest_Finland
 ---
 
 

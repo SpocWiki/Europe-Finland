@@ -1,16 +1,19 @@
 ---
-location: [64.55,26.82] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Utajaervi~Vaal.
+location:
+  - 64.55
+  - 26.82
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35143
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

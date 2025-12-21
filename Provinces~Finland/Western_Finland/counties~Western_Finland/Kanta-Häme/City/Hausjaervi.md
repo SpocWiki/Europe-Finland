@@ -1,16 +1,19 @@
 ---
-location: [60.8,24.83] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Hausjaervi
+location:
+  - 60.8
+  - 24.83
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30814
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

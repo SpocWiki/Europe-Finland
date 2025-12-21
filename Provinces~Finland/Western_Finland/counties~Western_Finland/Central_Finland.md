@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Central Finland
+  - Central_Finland
 location:
   - 62.5
   - 25.5
@@ -12,19 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Central Finland
-  - Central_Finland
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Central_Finland

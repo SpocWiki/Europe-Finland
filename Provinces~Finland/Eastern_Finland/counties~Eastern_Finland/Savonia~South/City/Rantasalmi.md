@@ -1,16 +1,19 @@
 ---
-location: [61.98,28.25] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Rantasalmi
+location:
+  - 61.98
+  - 28.25
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33633
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

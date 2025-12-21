@@ -1,16 +1,19 @@
 ---
-location: [61.68,24.37] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Orivesi
+location:
+  - 61.68
+  - 24.37
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33134
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

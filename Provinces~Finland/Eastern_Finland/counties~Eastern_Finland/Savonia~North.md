@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Northern_Savonia
+  - Northern Savonia
+  - North Savo
+  - Savonia~North
 location:
   - 63.1
   - 27.5
@@ -12,20 +17,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Northern_Savonia
-  - Northern Savonia
-  - North Savo
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Northern_Savonia
