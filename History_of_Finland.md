@@ -4,6 +4,12 @@ aliases:
   - History_of_Finland
   - History of Finland
 has_id_wikidata: Q202808
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
+subclass_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
+facet_of: "[[_Standards/WikiData/WD~Finland,33]]"
+country: "[[_Standards/WikiData/WD~Finland,33]]"
+Dewey_Decimal_Classification: "948.97"
+Commons_category: History of Finland
 ---
 
 # [[History_of_Finland]] 
