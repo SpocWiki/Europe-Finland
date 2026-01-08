@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33724
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 25.1
+dv_has_place_latitude: 64.68
+dv_name: Revonhahbi
+dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::25.1] 
-[has_place_latitude::64.68] 
-[name::Revonhahbi] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Revonhahbi](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Revonhahbi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Revonhahbi|Revonhahbi]] 
 
-### [Revonhahbi.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Revonhahbi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Revonhahbi.public|Revonhahbi.public]] 
 
-### [Revonhahbi.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Revonhahbi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Revonhahbi.internal|Revonhahbi.internal]] 
 
-### [Revonhahbi.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Revonhahbi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Revonhahbi.protect|Revonhahbi.protect]] 
 
-### [Revonhahbi.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Revonhahbi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Revonhahbi.private|Revonhahbi.private]] 
 
-### [Revonhahbi.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Revonhahbi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Revonhahbi.personal|Revonhahbi.personal]] 
 
-### [Revonhahbi.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Revonhahbi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Revonhahbi.secret|Revonhahbi.secret]] 
 

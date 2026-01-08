@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33552
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 27.72
+dv_has_place_latitude: 64.85
+dv_name: Puolanka
+dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::27.72] 
-[has_place_latitude::64.85] 
-[name::Puolanka] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Puolanka](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Puolanka.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Puolanka|Puolanka]] 
 
-### [Puolanka.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Puolanka.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Puolanka.public|Puolanka.public]] 
 
-### [Puolanka.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Puolanka.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Puolanka.internal|Puolanka.internal]] 
 
-### [Puolanka.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Puolanka.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Puolanka.protect|Puolanka.protect]] 
 
-### [Puolanka.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Puolanka.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Puolanka.private|Puolanka.private]] 
 
-### [Puolanka.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Puolanka.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Puolanka.personal|Puolanka.personal]] 
 
-### [Puolanka.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Puolanka.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Puolanka.secret|Puolanka.secret]] 
 

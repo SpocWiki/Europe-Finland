@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34838
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 21.75
+dv_has_place_latitude: 62.48
+dv_name: Teuva
+dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::21.75] 
-[has_place_latitude::62.48] 
-[name::Teuva] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Teuva](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia~South/City/Teuva.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia~South/City/Teuva|Teuva]] 
 
-### [Teuva.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia~South/City/Teuva.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia~South/City/Teuva.public|Teuva.public]] 
 
-### [Teuva.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia~South/City/Teuva.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia~South/City/Teuva.internal|Teuva.internal]] 
 
-### [Teuva.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia~South/City/Teuva.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia~South/City/Teuva.protect|Teuva.protect]] 
 
-### [Teuva.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia~South/City/Teuva.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia~South/City/Teuva.private|Teuva.private]] 
 
-### [Teuva.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia~South/City/Teuva.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia~South/City/Teuva.personal|Teuva.personal]] 
 
-### [Teuva.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia~South/City/Teuva.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia~South/City/Teuva.secret|Teuva.secret]] 
 

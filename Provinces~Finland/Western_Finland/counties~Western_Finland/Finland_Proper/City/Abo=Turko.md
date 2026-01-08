@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28656
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 22.27
+dv_has_place_latitude: 60.45
+dv_name: Abo=Turko
+dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::22.27] 
-[has_place_latitude::60.45] 
-[name::Abo=Turko] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Abo=Turko](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Finland_Proper/City/Abo=Turko.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Finland_Proper/City/Abo=Turko|Abo=Turko]] 
 
-### [Abo=Turko.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Finland_Proper/City/Abo=Turko.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Finland_Proper/City/Abo=Turko.public|Abo=Turko.public]] 
 
-### [Abo=Turko.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Finland_Proper/City/Abo=Turko.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Finland_Proper/City/Abo=Turko.internal|Abo=Turko.internal]] 
 
-### [Abo=Turko.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Finland_Proper/City/Abo=Turko.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Finland_Proper/City/Abo=Turko.protect|Abo=Turko.protect]] 
 
-### [Abo=Turko.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Finland_Proper/City/Abo=Turko.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Finland_Proper/City/Abo=Turko.private|Abo=Turko.private]] 
 
-### [Abo=Turko.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Finland_Proper/City/Abo=Turko.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Finland_Proper/City/Abo=Turko.personal|Abo=Turko.personal]] 
 
-### [Abo=Turko.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Finland_Proper/City/Abo=Turko.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Finland_Proper/City/Abo=Turko.secret|Abo=Turko.secret]] 
 

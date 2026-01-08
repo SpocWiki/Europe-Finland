@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34386
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 28.45
+dv_has_place_latitude: 64.12
+dv_name: Sotkamo~Kirk.
+dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::28.45] 
-[has_place_latitude::64.12] 
-[name::Sotkamo~Kirk.] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sotkamo~Kirk.](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kirk..md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kirk.|Sotkamo~Kirk.]] 
 
-### [Sotkamo~Kirk..public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kirk..public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kirk..public|Sotkamo~Kirk..public]] 
 
-### [Sotkamo~Kirk..internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kirk..internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kirk..internal|Sotkamo~Kirk..internal]] 
 
-### [Sotkamo~Kirk..protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kirk..protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kirk..protect|Sotkamo~Kirk..protect]] 
 
-### [Sotkamo~Kirk..private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kirk..private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kirk..private|Sotkamo~Kirk..private]] 
 
-### [Sotkamo~Kirk..personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kirk..personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kirk..personal|Sotkamo~Kirk..personal]] 
 
-### [Sotkamo~Kirk..secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kirk..secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kirk..secret|Sotkamo~Kirk..secret]] 
 

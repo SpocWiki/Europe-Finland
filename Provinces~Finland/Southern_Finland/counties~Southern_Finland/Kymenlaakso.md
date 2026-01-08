@@ -40,17 +40,17 @@ markerFolder: ./Kymenlaakso/
 
 ## Confidential Links & Embeds: 
 
-### [Kymenlaakso](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Kymenlaakso.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Kymenlaakso|Kymenlaakso]] 
 
-### [Kymenlaakso.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Kymenlaakso.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Kymenlaakso.public|Kymenlaakso.public]] 
 
-### [Kymenlaakso.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Kymenlaakso.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Kymenlaakso.internal|Kymenlaakso.internal]] 
 
-### [Kymenlaakso.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Kymenlaakso.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Kymenlaakso.protect|Kymenlaakso.protect]] 
 
-### [Kymenlaakso.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Kymenlaakso.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Kymenlaakso.private|Kymenlaakso.private]] 
 
-### [Kymenlaakso.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Kymenlaakso.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Kymenlaakso.personal|Kymenlaakso.personal]] 
 
-### [Kymenlaakso.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Kymenlaakso.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Kymenlaakso.secret|Kymenlaakso.secret]] 
 

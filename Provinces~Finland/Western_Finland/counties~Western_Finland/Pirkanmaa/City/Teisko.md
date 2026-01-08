@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34795
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 24.03
+dv_has_place_latitude: 61.65
+dv_name: Teisko
+dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::24.03] 
-[has_place_latitude::61.65] 
-[name::Teisko] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Teisko](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Teisko.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Teisko|Teisko]] 
 
-### [Teisko.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Teisko.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Teisko.public|Teisko.public]] 
 
-### [Teisko.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Teisko.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Teisko.internal|Teisko.internal]] 
 
-### [Teisko.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Teisko.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Teisko.protect|Teisko.protect]] 
 
-### [Teisko.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Teisko.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Teisko.private|Teisko.private]] 
 
-### [Teisko.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Teisko.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Teisko.personal|Teisko.personal]] 
 
-### [Teisko.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Teisko.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Teisko.secret|Teisko.secret]] 
 

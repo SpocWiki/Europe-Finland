@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31069
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 23.7
+dv_has_place_latitude: 61.65
+dv_name: Haemenkyroe
+dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::23.7] 
-[has_place_latitude::61.65] 
-[name::Haemenkyroe] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Haemenkyroe](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Haemenkyroe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Haemenkyroe|Haemenkyroe]] 
 
-### [Haemenkyroe.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Haemenkyroe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Haemenkyroe.public|Haemenkyroe.public]] 
 
-### [Haemenkyroe.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Haemenkyroe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Haemenkyroe.internal|Haemenkyroe.internal]] 
 
-### [Haemenkyroe.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Haemenkyroe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Haemenkyroe.protect|Haemenkyroe.protect]] 
 
-### [Haemenkyroe.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Haemenkyroe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Haemenkyroe.private|Haemenkyroe.private]] 
 
-### [Haemenkyroe.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Haemenkyroe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Haemenkyroe.personal|Haemenkyroe.personal]] 
 
-### [Haemenkyroe.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Haemenkyroe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Haemenkyroe.secret|Haemenkyroe.secret]] 
 

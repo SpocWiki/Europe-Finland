@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33385
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 21.62
+dv_has_place_latitude: 62.72
+dv_name: Pirttikylae
+dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::21.62] 
-[has_place_latitude::62.72] 
-[name::Pirttikylae] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pirttikylae](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia/City/Pirttikylae.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia/City/Pirttikylae|Pirttikylae]] 
 
-### [Pirttikylae.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia/City/Pirttikylae.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia/City/Pirttikylae.public|Pirttikylae.public]] 
 
-### [Pirttikylae.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia/City/Pirttikylae.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia/City/Pirttikylae.internal|Pirttikylae.internal]] 
 
-### [Pirttikylae.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia/City/Pirttikylae.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia/City/Pirttikylae.protect|Pirttikylae.protect]] 
 
-### [Pirttikylae.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia/City/Pirttikylae.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia/City/Pirttikylae.private|Pirttikylae.private]] 
 
-### [Pirttikylae.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia/City/Pirttikylae.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia/City/Pirttikylae.personal|Pirttikylae.personal]] 
 
-### [Pirttikylae.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia/City/Pirttikylae.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia/City/Pirttikylae.secret|Pirttikylae.secret]] 
 

@@ -1,4 +1,12 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 25
+dv_has_place_latitude: 60.17
+dv_name: Helsinki
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Helsinki,1757|WD~Helsinki,1757]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Helsinki,1757|WD~Helsinki,1757]]"
+
 has_time_started: 1550-06-22 
 aliases:
 location:
@@ -194,17 +202,17 @@ ISNI:
 # [[Helsinki]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::25] 
-[has_place_latitude::60.17] 
-[name::Helsinki] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[Finland]]  
 [StateId::] 
 [Population::] 
 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Helsinki,1757|WD~Helsinki,1757]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map  
 
@@ -233,17 +241,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Helsinki](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Helsinki.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Helsinki|Helsinki]] 
 
-### [Helsinki.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Helsinki.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/City/Helsinki.public|Helsinki.public]] 
 
-### [Helsinki.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Helsinki.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Helsinki.internal|Helsinki.internal]] 
 
-### [Helsinki.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Helsinki.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Helsinki.protect|Helsinki.protect]] 
 
-### [Helsinki.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Helsinki.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/City/Helsinki.private|Helsinki.private]] 
 
-### [Helsinki.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Helsinki.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Helsinki.personal|Helsinki.personal]] 
 
-### [Helsinki.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Helsinki.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Helsinki.secret|Helsinki.secret]] 
 

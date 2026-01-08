@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34278
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 26.1
+dv_has_place_latitude: 65.97
+dv_name: Simo
+dv_Country: "[[../../../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::26.1] 
-[has_place_latitude::65.97] 
-[name::Simo] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Simo](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Simo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Simo|Simo]] 
 
-### [Simo.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Simo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Simo.public|Simo.public]] 
 
-### [Simo.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Simo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Simo.internal|Simo.internal]] 
 
-### [Simo.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Simo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Simo.protect|Simo.protect]] 
 
-### [Simo.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Simo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Simo.private|Simo.private]] 
 
-### [Simo.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Simo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Simo.personal|Simo.personal]] 
 
-### [Simo.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Simo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Simo.secret|Simo.secret]] 
 

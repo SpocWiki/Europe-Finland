@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33363
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 30.13
+dv_has_place_latitude: 63.32
+dv_name: Pieliljaervi
+dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::30.13] 
-[has_place_latitude::63.32] 
-[name::Pieliljaervi] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pieliljaervi](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North/City/Pieliljaervi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North/City/Pieliljaervi|Pieliljaervi]] 
 
-### [Pieliljaervi.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North/City/Pieliljaervi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North/City/Pieliljaervi.public|Pieliljaervi.public]] 
 
-### [Pieliljaervi.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North/City/Pieliljaervi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North/City/Pieliljaervi.internal|Pieliljaervi.internal]] 
 
-### [Pieliljaervi.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North/City/Pieliljaervi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North/City/Pieliljaervi.protect|Pieliljaervi.protect]] 
 
-### [Pieliljaervi.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North/City/Pieliljaervi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North/City/Pieliljaervi.private|Pieliljaervi.private]] 
 
-### [Pieliljaervi.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North/City/Pieliljaervi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North/City/Pieliljaervi.personal|Pieliljaervi.personal]] 
 
-### [Pieliljaervi.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North/City/Pieliljaervi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North/City/Pieliljaervi.secret|Pieliljaervi.secret]] 
 

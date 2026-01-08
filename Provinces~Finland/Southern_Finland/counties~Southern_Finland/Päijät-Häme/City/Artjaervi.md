@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28888
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 26.07
+dv_has_place_latitude: 60.75
+dv_name: Artjaervi
+dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::26.07] 
-[has_place_latitude::60.75] 
-[name::Artjaervi] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Artjaervi](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Päijät-Häme/City/Artjaervi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Päijät-Häme/City/Artjaervi|Artjaervi]] 
 
-### [Artjaervi.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Päijät-Häme/City/Artjaervi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Päijät-Häme/City/Artjaervi.public|Artjaervi.public]] 
 
-### [Artjaervi.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Päijät-Häme/City/Artjaervi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Päijät-Häme/City/Artjaervi.internal|Artjaervi.internal]] 
 
-### [Artjaervi.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Päijät-Häme/City/Artjaervi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Päijät-Häme/City/Artjaervi.protect|Artjaervi.protect]] 
 
-### [Artjaervi.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Päijät-Häme/City/Artjaervi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Päijät-Häme/City/Artjaervi.private|Artjaervi.private]] 
 
-### [Artjaervi.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Päijät-Häme/City/Artjaervi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Päijät-Häme/City/Artjaervi.personal|Artjaervi.personal]] 
 
-### [Artjaervi.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Päijät-Häme/City/Artjaervi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Päijät-Häme/City/Artjaervi.secret|Artjaervi.secret]] 
 

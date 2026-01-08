@@ -10,29 +10,29 @@ location:
   - 28.25
 coordinate_location: Point(28.25 61.25)
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Lake_Orivesi,382649]]'
-  - '[[_Standards/WikiData/WD~Proper_Saimaa,574908]]'
-  - '[[_Standards/WikiData/WD~Puruvesi,1400567]]'
-  - '[[_Standards/WikiData/WD~Haukivesi,1589328]]'
-  - '[[_Standards/WikiData/WD~Pyhäselkä,1892320]]'
-  - '[[_Standards/WikiData/WD~Pihlajavesi,2062505]]'
-  - '[[_Standards/WikiData/WD~Enonvesi,3054512]]'
-  - '[[_Standards/WikiData/WD~Pyyvesi,7263972]]'
-  - '[[_Standards/WikiData/WD~Ukonvesi,7362296]]'
+  - "[[_Standards/WikiData/WD~Lake_Orivesi,382649]]"
+  - "[[_Standards/WikiData/WD~Proper_Saimaa,574908]]"
+  - "[[_Standards/WikiData/WD~Puruvesi,1400567]]"
+  - "[[_Standards/WikiData/WD~Haukivesi,1589328]]"
+  - "[[_Standards/WikiData/WD~Pyhäselkä,1892320]]"
+  - "[[_Standards/WikiData/WD~Pihlajavesi,2062505]]"
+  - "[[_Standards/WikiData/WD~Enonvesi,3054512]]"
+  - "[[_Standards/WikiData/WD~Pyyvesi,7263972]]"
+  - "[[_Standards/WikiData/WD~Ukonvesi,7362296]]"
 described_by_source:
-  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
-outflows: '[[_Standards/WikiData/WD~Vuoksa,819448]]'
-inflows: '[[_Standards/WikiData/WD~Pielisjoki,1636182]]'
-drainage_basin: '[[_Standards/WikiData/WD~Vuoksi_basin,11901970]]'
+  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
+outflows: "[[_Standards/WikiData/WD~Vuoksa,819448]]"
+inflows: "[[_Standards/WikiData/WD~Pielisjoki,1636182]]"
+drainage_basin: "[[_Standards/WikiData/WD~Vuoksi_basin,11901970]]"
 located_in_the_administrative_territorial_entity:
-  - '[[_Standards/WikiData/WD~South_Karelia,5691]]'
-  - '[[_Standards/WikiData/WD~South_Savo,5693]]'
-  - '[[_Standards/WikiData/WD~North_Karelia,5703]]'
-instance_of: '[[_Standards/WikiData/WD~lake,23397]]'
-basin_country: '[[_Standards/WikiData/WD~Finland,33]]'
-country: '[[_Standards/WikiData/WD~Finland,33]]'
+  - "[[_Standards/WikiData/WD~South_Karelia,5691]]"
+  - "[[_Standards/WikiData/WD~South_Savo,5693]]"
+  - "[[_Standards/WikiData/WD~North_Karelia,5703]]"
+instance_of: "[[_Standards/WikiData/WD~lake,23397]]"
+basin_country: "[[_Standards/WikiData/WD~Finland,33]]"
+country: "[[_Standards/WikiData/WD~Finland,33]]"
 volume_as_quantity: 36
 area: 4400
 width: 75
@@ -45,11 +45,14 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Luonteri%20Neitvuori.j
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Saimaa%20banner.jpg
 Commons_gallery: Saimaa
 Commons_category: Saimaa
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Saimaa,192770]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Saimaa,192770]]"
 ---
 
 # [[Lake_Saimaa]] 
 
-#is_/same_as :: [[WD~Saimaa,192770]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -63,4 +66,21 @@ Commons_category: Saimaa
 > Alternatively, it has been proposed that the name may be connected to the Sami word sápmi.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Saimaa) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/Lake_Saimaa|Lake_Saimaa]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/Lake_Saimaa.public|Lake_Saimaa.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/Lake_Saimaa.internal|Lake_Saimaa.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/Lake_Saimaa.protect|Lake_Saimaa.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/Lake_Saimaa.private|Lake_Saimaa.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/Lake_Saimaa.personal|Lake_Saimaa.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/Lake_Saimaa.secret|Lake_Saimaa.secret]] 
 

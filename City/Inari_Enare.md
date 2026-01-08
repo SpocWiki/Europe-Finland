@@ -17,14 +17,23 @@ tags:
 SpocWebEntityId: 31108
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude:
+  - 27
+  - 57
+dv_has_place_latitude:
+  - 68
+  - 67
+dv_name: Inari/Enare
+dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+is_a_ = `=this.dv_is_a_`
 [has_place_longitude::27,57] 
 [has_place_latitude::68,67] 
-[name::Inari/Enare] 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -41,17 +50,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Inari_Enare](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Enare.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Enare|Inari_Enare]] 
 
-### [Inari_Enare.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Enare.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Enare.public|Inari_Enare.public]] 
 
-### [Inari_Enare.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Enare.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Enare.internal|Inari_Enare.internal]] 
 
-### [Inari_Enare.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Enare.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Enare.protect|Inari_Enare.protect]] 
 
-### [Inari_Enare.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Enare.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Enare.private|Inari_Enare.private]] 
 
-### [Inari_Enare.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Enare.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Enare.personal|Inari_Enare.personal]] 
 
-### [Inari_Enare.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Enare.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Enare.secret|Inari_Enare.secret]] 
 

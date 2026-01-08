@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33426
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 23.65
+dv_has_place_latitude: 60.08
+dv_name: Pohja
+dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::23.65] 
-[has_place_latitude::60.08] 
-[name::Pohja] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pohja](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Pohja.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Pohja|Pohja]] 
 
-### [Pohja.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Pohja.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Pohja.public|Pohja.public]] 
 
-### [Pohja.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Pohja.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Pohja.internal|Pohja.internal]] 
 
-### [Pohja.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Pohja.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Pohja.protect|Pohja.protect]] 
 
-### [Pohja.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Pohja.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Pohja.private|Pohja.private]] 
 
-### [Pohja.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Pohja.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Pohja.personal|Pohja.personal]] 
 
-### [Pohja.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Pohja.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Pohja.secret|Pohja.secret]] 
 

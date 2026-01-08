@@ -26,17 +26,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Vantaa](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Vantaa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Vantaa|Vantaa]] 
 
-### [Vantaa.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Vantaa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Vantaa.public|Vantaa.public]] 
 
-### [Vantaa.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Vantaa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Vantaa.internal|Vantaa.internal]] 
 
-### [Vantaa.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Vantaa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Vantaa.protect|Vantaa.protect]] 
 
-### [Vantaa.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Vantaa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Vantaa.private|Vantaa.private]] 
 
-### [Vantaa.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Vantaa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Vantaa.personal|Vantaa.personal]] 
 
-### [Vantaa.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Vantaa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Vantaa.secret|Vantaa.secret]] 
 

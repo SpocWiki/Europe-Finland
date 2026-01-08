@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31716
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 29.2
+dv_has_place_latitude: 65.95
+dv_name: Kuusamo
+dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::29.2] 
-[has_place_latitude::65.95] 
-[name::Kuusamo] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kuusamo](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Kuusamo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Kuusamo|Kuusamo]] 
 
-### [Kuusamo.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Kuusamo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Kuusamo.public|Kuusamo.public]] 
 
-### [Kuusamo.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Kuusamo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Kuusamo.internal|Kuusamo.internal]] 
 
-### [Kuusamo.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Kuusamo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Kuusamo.protect|Kuusamo.protect]] 
 
-### [Kuusamo.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Kuusamo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Kuusamo.private|Kuusamo.private]] 
 
-### [Kuusamo.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Kuusamo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Kuusamo.personal|Kuusamo.personal]] 
 
-### [Kuusamo.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Kuusamo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Kuusamo.secret|Kuusamo.secret]] 
 

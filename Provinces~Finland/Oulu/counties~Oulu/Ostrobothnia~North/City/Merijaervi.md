@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32423
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 24.47
+dv_has_place_latitude: 64.3
+dv_name: Merijaervi
+dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::24.47] 
-[has_place_latitude::64.3] 
-[name::Merijaervi] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Merijaervi](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Merijaervi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Merijaervi|Merijaervi]] 
 
-### [Merijaervi.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Merijaervi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Merijaervi.public|Merijaervi.public]] 
 
-### [Merijaervi.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Merijaervi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Merijaervi.internal|Merijaervi.internal]] 
 
-### [Merijaervi.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Merijaervi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Merijaervi.protect|Merijaervi.protect]] 
 
-### [Merijaervi.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Merijaervi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Merijaervi.private|Merijaervi.private]] 
 
-### [Merijaervi.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Merijaervi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Merijaervi.personal|Merijaervi.personal]] 
 
-### [Merijaervi.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Merijaervi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Merijaervi.secret|Merijaervi.secret]] 
 

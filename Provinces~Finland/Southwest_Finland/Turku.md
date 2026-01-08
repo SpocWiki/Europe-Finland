@@ -56,17 +56,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Turku](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland/Turku.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland/Turku|Turku]] 
 
-### [Turku.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland/Turku.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland/Turku.public|Turku.public]] 
 
-### [Turku.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland/Turku.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland/Turku.internal|Turku.internal]] 
 
-### [Turku.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland/Turku.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland/Turku.protect|Turku.protect]] 
 
-### [Turku.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland/Turku.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland/Turku.private|Turku.private]] 
 
-### [Turku.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland/Turku.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland/Turku.personal|Turku.personal]] 
 
-### [Turku.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland/Turku.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland/Turku.secret|Turku.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34717
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 24.05
+dv_has_place_latitude: 61.2
+dv_name: Saeaksmaeki
+dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::24.05] 
-[has_place_latitude::61.2] 
-[name::Saeaksmaeki] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Saeaksmaeki](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Saeaksmaeki.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Saeaksmaeki|Saeaksmaeki]] 
 
-### [Saeaksmaeki.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Saeaksmaeki.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Saeaksmaeki.public|Saeaksmaeki.public]] 
 
-### [Saeaksmaeki.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Saeaksmaeki.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Saeaksmaeki.internal|Saeaksmaeki.internal]] 
 
-### [Saeaksmaeki.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Saeaksmaeki.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Saeaksmaeki.protect|Saeaksmaeki.protect]] 
 
-### [Saeaksmaeki.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Saeaksmaeki.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Saeaksmaeki.private|Saeaksmaeki.private]] 
 
-### [Saeaksmaeki.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Saeaksmaeki.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Saeaksmaeki.personal|Saeaksmaeki.personal]] 
 
-### [Saeaksmaeki.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Saeaksmaeki.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Saeaksmaeki.secret|Saeaksmaeki.secret]] 
 

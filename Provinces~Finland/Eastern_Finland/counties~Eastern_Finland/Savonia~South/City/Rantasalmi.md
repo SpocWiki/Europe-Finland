@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33633
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 28.25
+dv_has_place_latitude: 61.98
+dv_name: Rantasalmi
+dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::28.25] 
-[has_place_latitude::61.98] 
-[name::Rantasalmi] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rantasalmi](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Rantasalmi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Rantasalmi|Rantasalmi]] 
 
-### [Rantasalmi.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Rantasalmi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Rantasalmi.public|Rantasalmi.public]] 
 
-### [Rantasalmi.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Rantasalmi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Rantasalmi.internal|Rantasalmi.internal]] 
 
-### [Rantasalmi.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Rantasalmi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Rantasalmi.protect|Rantasalmi.protect]] 
 
-### [Rantasalmi.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Rantasalmi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Rantasalmi.private|Rantasalmi.private]] 
 
-### [Rantasalmi.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Rantasalmi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Rantasalmi.personal|Rantasalmi.personal]] 
 
-### [Rantasalmi.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Rantasalmi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Rantasalmi.secret|Rantasalmi.secret]] 
 

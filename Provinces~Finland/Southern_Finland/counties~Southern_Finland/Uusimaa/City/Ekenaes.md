@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30015
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 23.45
+dv_has_place_latitude: 59.97
+dv_name: Ekenaes
+dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::23.45] 
-[has_place_latitude::59.97] 
-[name::Ekenaes] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ekenaes](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Ekenaes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Ekenaes|Ekenaes]] 
 
-### [Ekenaes.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Ekenaes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Ekenaes.public|Ekenaes.public]] 
 
-### [Ekenaes.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Ekenaes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Ekenaes.internal|Ekenaes.internal]] 
 
-### [Ekenaes.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Ekenaes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Ekenaes.protect|Ekenaes.protect]] 
 
-### [Ekenaes.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Ekenaes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Ekenaes.private|Ekenaes.private]] 
 
-### [Ekenaes.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Ekenaes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Ekenaes.personal|Ekenaes.personal]] 
 
-### [Ekenaes.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Ekenaes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Ekenaes.secret|Ekenaes.secret]] 
 

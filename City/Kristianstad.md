@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31649
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 21.3
+dv_has_place_latitude: 62.27
+dv_name: Kristianstad
+dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::21.3] 
-[has_place_latitude::62.27] 
-[name::Kristianstad] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kristianstad](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Kristianstad.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Kristianstad|Kristianstad]] 
 
-### [Kristianstad.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Kristianstad.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/City/Kristianstad.public|Kristianstad.public]] 
 
-### [Kristianstad.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Kristianstad.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Kristianstad.internal|Kristianstad.internal]] 
 
-### [Kristianstad.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Kristianstad.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Kristianstad.protect|Kristianstad.protect]] 
 
-### [Kristianstad.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Kristianstad.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/City/Kristianstad.private|Kristianstad.private]] 
 
-### [Kristianstad.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Kristianstad.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Kristianstad.personal|Kristianstad.personal]] 
 
-### [Kristianstad.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Kristianstad.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Kristianstad.secret|Kristianstad.secret]] 
 

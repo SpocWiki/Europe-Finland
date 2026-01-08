@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35102
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 23.45
+dv_has_place_latitude: 64.33
+dv_name: Ulkokalla
+dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::23.45] 
-[has_place_latitude::64.33] 
-[name::Ulkokalla] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ulkokalla](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Ulkokalla.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Ulkokalla|Ulkokalla]] 
 
-### [Ulkokalla.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Ulkokalla.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/City/Ulkokalla.public|Ulkokalla.public]] 
 
-### [Ulkokalla.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Ulkokalla.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Ulkokalla.internal|Ulkokalla.internal]] 
 
-### [Ulkokalla.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Ulkokalla.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Ulkokalla.protect|Ulkokalla.protect]] 
 
-### [Ulkokalla.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Ulkokalla.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/City/Ulkokalla.private|Ulkokalla.private]] 
 
-### [Ulkokalla.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Ulkokalla.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Ulkokalla.personal|Ulkokalla.personal]] 
 
-### [Ulkokalla.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Ulkokalla.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Ulkokalla.secret|Ulkokalla.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32474
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 27.17
+dv_has_place_latitude: 61.68
+dv_name: Mikkeli
+dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::27.17] 
-[has_place_latitude::61.68] 
-[name::Mikkeli] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mikkeli](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Mikkeli.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Mikkeli|Mikkeli]] 
 
-### [Mikkeli.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Mikkeli.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Mikkeli.public|Mikkeli.public]] 
 
-### [Mikkeli.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Mikkeli.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Mikkeli.internal|Mikkeli.internal]] 
 
-### [Mikkeli.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Mikkeli.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Mikkeli.protect|Mikkeli.protect]] 
 
-### [Mikkeli.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Mikkeli.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Mikkeli.private|Mikkeli.private]] 
 
-### [Mikkeli.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Mikkeli.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Mikkeli.personal|Mikkeli.personal]] 
 
-### [Mikkeli.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Mikkeli.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Mikkeli.secret|Mikkeli.secret]] 
 

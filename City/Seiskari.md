@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34184
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 28.47
+dv_has_place_latitude: 60
+dv_name: Seiskari
+dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::28.47] 
-[has_place_latitude::60] 
-[name::Seiskari] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Seiskari](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Seiskari.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Seiskari|Seiskari]] 
 
-### [Seiskari.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Seiskari.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/City/Seiskari.public|Seiskari.public]] 
 
-### [Seiskari.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Seiskari.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Seiskari.internal|Seiskari.internal]] 
 
-### [Seiskari.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Seiskari.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Seiskari.protect|Seiskari.protect]] 
 
-### [Seiskari.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Seiskari.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/City/Seiskari.private|Seiskari.private]] 
 
-### [Seiskari.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Seiskari.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Seiskari.personal|Seiskari.personal]] 
 
-### [Seiskari.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Seiskari.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Seiskari.secret|Seiskari.secret]] 
 

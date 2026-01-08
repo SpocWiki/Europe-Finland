@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34337
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 26.65
+dv_has_place_latitude: 67.37
+dv_name: Sodankylae~Taeh.
+dv_Country: "[[../../../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::26.65] 
-[has_place_latitude::67.37] 
-[name::Sodankylae~Taeh.] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sodankylae~Taeh.](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Sodankylae~Taeh..md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Sodankylae~Taeh.|Sodankylae~Taeh.]] 
 
-### [Sodankylae~Taeh..public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Sodankylae~Taeh..public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Sodankylae~Taeh..public|Sodankylae~Taeh..public]] 
 
-### [Sodankylae~Taeh..internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Sodankylae~Taeh..internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Sodankylae~Taeh..internal|Sodankylae~Taeh..internal]] 
 
-### [Sodankylae~Taeh..protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Sodankylae~Taeh..protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Sodankylae~Taeh..protect|Sodankylae~Taeh..protect]] 
 
-### [Sodankylae~Taeh..private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Sodankylae~Taeh..private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Sodankylae~Taeh..private|Sodankylae~Taeh..private]] 
 
-### [Sodankylae~Taeh..personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Sodankylae~Taeh..personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Sodankylae~Taeh..personal|Sodankylae~Taeh..personal]] 
 
-### [Sodankylae~Taeh..secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Sodankylae~Taeh..secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Sodankylae~Taeh..secret|Sodankylae~Taeh..secret]] 
 

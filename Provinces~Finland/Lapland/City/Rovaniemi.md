@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33806
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 25.75
+dv_has_place_latitude: 66.5
+dv_name: Rovaniemi
+dv_Country: "[[../../../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::25.75] 
-[has_place_latitude::66.5] 
-[name::Rovaniemi] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rovaniemi](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Rovaniemi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Rovaniemi|Rovaniemi]] 
 
-### [Rovaniemi.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Rovaniemi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Rovaniemi.public|Rovaniemi.public]] 
 
-### [Rovaniemi.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Rovaniemi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Rovaniemi.internal|Rovaniemi.internal]] 
 
-### [Rovaniemi.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Rovaniemi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Rovaniemi.protect|Rovaniemi.protect]] 
 
-### [Rovaniemi.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Rovaniemi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Rovaniemi.private|Rovaniemi.private]] 
 
-### [Rovaniemi.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Rovaniemi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Rovaniemi.personal|Rovaniemi.personal]] 
 
-### [Rovaniemi.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Rovaniemi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Rovaniemi.secret|Rovaniemi.secret]] 
 

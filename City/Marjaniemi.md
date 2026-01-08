@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32303
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 24.57
+dv_has_place_latitude: 65.05
+dv_name: Marjaniemi
+dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::24.57] 
-[has_place_latitude::65.05] 
-[name::Marjaniemi] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marjaniemi](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Marjaniemi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Marjaniemi|Marjaniemi]] 
 
-### [Marjaniemi.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Marjaniemi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/City/Marjaniemi.public|Marjaniemi.public]] 
 
-### [Marjaniemi.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Marjaniemi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Marjaniemi.internal|Marjaniemi.internal]] 
 
-### [Marjaniemi.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Marjaniemi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Marjaniemi.protect|Marjaniemi.protect]] 
 
-### [Marjaniemi.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Marjaniemi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/City/Marjaniemi.private|Marjaniemi.private]] 
 
-### [Marjaniemi.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Marjaniemi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Marjaniemi.personal|Marjaniemi.personal]] 
 
-### [Marjaniemi.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Marjaniemi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Marjaniemi.secret|Marjaniemi.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33437
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 29.33
+dv_has_place_latitude: 62.85
+dv_name: Polvijaervi
+dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::29.33] 
-[has_place_latitude::62.85] 
-[name::Polvijaervi] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Polvijaervi](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North/City/Polvijaervi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North/City/Polvijaervi|Polvijaervi]] 
 
-### [Polvijaervi.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North/City/Polvijaervi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North/City/Polvijaervi.public|Polvijaervi.public]] 
 
-### [Polvijaervi.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North/City/Polvijaervi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North/City/Polvijaervi.internal|Polvijaervi.internal]] 
 
-### [Polvijaervi.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North/City/Polvijaervi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North/City/Polvijaervi.protect|Polvijaervi.protect]] 
 
-### [Polvijaervi.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North/City/Polvijaervi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North/City/Polvijaervi.private|Polvijaervi.private]] 
 
-### [Polvijaervi.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North/City/Polvijaervi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North/City/Polvijaervi.personal|Polvijaervi.personal]] 
 
-### [Polvijaervi.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North/City/Polvijaervi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North/City/Polvijaervi.secret|Polvijaervi.secret]] 
 

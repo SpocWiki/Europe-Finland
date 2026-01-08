@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33981
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 28.88
+dv_has_place_latitude: 61.87
+dv_name: Savolinna
+dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::28.88] 
-[has_place_latitude::61.87] 
-[name::Savolinna] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Savolinna](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Savolinna.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Savolinna|Savolinna]] 
 
-### [Savolinna.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Savolinna.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Savolinna.public|Savolinna.public]] 
 
-### [Savolinna.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Savolinna.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Savolinna.internal|Savolinna.internal]] 
 
-### [Savolinna.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Savolinna.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Savolinna.protect|Savolinna.protect]] 
 
-### [Savolinna.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Savolinna.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Savolinna.private|Savolinna.private]] 
 
-### [Savolinna.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Savolinna.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Savolinna.personal|Savolinna.personal]] 
 
-### [Savolinna.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Savolinna.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/City/Savolinna.secret|Savolinna.secret]] 
 

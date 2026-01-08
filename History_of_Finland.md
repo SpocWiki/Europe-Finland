@@ -10,11 +10,14 @@ facet_of: "[[_Standards/WikiData/WD~Finland,33]]"
 country: "[[_Standards/WikiData/WD~Finland,33]]"
 Dewey_Decimal_Classification: "948.97"
 Commons_category: History of Finland
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Finland,202808]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Finland,202808]]"
 ---
 
 # [[History_of_Finland]] 
 
-#is_/same_as :: [[WD~History_of_Finland,202808]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -35,4 +38,21 @@ Commons_category: History of Finland
 > In the latter half of its independent history, Finland has maintained a mixed economy. Since its post–World War II economic boom in the 1970s, Finland's GDP per capita has been among the world's highest. The expanded welfare state of Finland from 1970 and 1990 increased the public sector employees and spending and the tax burden imposed on the citizens. In 1992, Finland simultaneously faced economic overheating and depressed Western, Russian, and local markets. Finland joined the European Union in 1995, and replaced the Finnish markka with the euro in 2002. Following the Russian invasion of Ukraine in 2022, public opinion shifted in favour of joining NATO, and Finland eventually joined the alliance on 4 April 2023.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Finland) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/History_of_Finland|History_of_Finland]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/History_of_Finland.public|History_of_Finland.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/History_of_Finland.internal|History_of_Finland.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/History_of_Finland.protect|History_of_Finland.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/History_of_Finland.private|History_of_Finland.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/History_of_Finland.personal|History_of_Finland.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/History_of_Finland.secret|History_of_Finland.secret]] 
 

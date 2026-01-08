@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31094
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 27.15
+dv_has_place_latitude: 65.58
+dv_name: Iisalmi
+dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::27.15] 
-[has_place_latitude::65.58] 
-[name::Iisalmi] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Iisalmi](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Iisalmi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Iisalmi|Iisalmi]] 
 
-### [Iisalmi.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Iisalmi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Iisalmi.public|Iisalmi.public]] 
 
-### [Iisalmi.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Iisalmi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Iisalmi.internal|Iisalmi.internal]] 
 
-### [Iisalmi.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Iisalmi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Iisalmi.protect|Iisalmi.protect]] 
 
-### [Iisalmi.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Iisalmi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Iisalmi.private|Iisalmi.private]] 
 
-### [Iisalmi.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Iisalmi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Iisalmi.personal|Iisalmi.personal]] 
 
-### [Iisalmi.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Iisalmi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Iisalmi.secret|Iisalmi.secret]] 
 

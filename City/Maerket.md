@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32692
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 19.15
+dv_has_place_latitude: 60.3
+dv_name: Maerket
+dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::19.15] 
-[has_place_latitude::60.3] 
-[name::Maerket] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Maerket](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Maerket.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Maerket|Maerket]] 
 
-### [Maerket.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Maerket.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/City/Maerket.public|Maerket.public]] 
 
-### [Maerket.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Maerket.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Maerket.internal|Maerket.internal]] 
 
-### [Maerket.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Maerket.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Maerket.protect|Maerket.protect]] 
 
-### [Maerket.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Maerket.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/City/Maerket.private|Maerket.private]] 
 
-### [Maerket.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Maerket.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Maerket.personal|Maerket.personal]] 
 
-### [Maerket.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Maerket.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Maerket.secret|Maerket.secret]] 
 

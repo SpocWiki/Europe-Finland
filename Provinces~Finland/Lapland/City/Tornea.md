@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34913
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 24.23
+dv_has_place_latitude: 65.83
+dv_name: Tornea
+dv_Country: "[[../../../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::24.23] 
-[has_place_latitude::65.83] 
-[name::Tornea] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tornea](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Tornea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Tornea|Tornea]] 
 
-### [Tornea.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Tornea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Tornea.public|Tornea.public]] 
 
-### [Tornea.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Tornea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Tornea.internal|Tornea.internal]] 
 
-### [Tornea.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Tornea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Tornea.protect|Tornea.protect]] 
 
-### [Tornea.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Tornea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Tornea.private|Tornea.private]] 
 
-### [Tornea.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Tornea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Tornea.personal|Tornea.personal]] 
 
-### [Tornea.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Tornea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Tornea.secret|Tornea.secret]] 
 

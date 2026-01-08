@@ -41,17 +41,17 @@ markerFolder: ./Central_Ostrobothnia/
 
 ## Confidential Links & Embeds: 
 
-### [Central_Ostrobothnia](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Central_Ostrobothnia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Central_Ostrobothnia|Central_Ostrobothnia]] 
 
-### [Central_Ostrobothnia.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Central_Ostrobothnia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Central_Ostrobothnia.public|Central_Ostrobothnia.public]] 
 
-### [Central_Ostrobothnia.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Central_Ostrobothnia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Central_Ostrobothnia.internal|Central_Ostrobothnia.internal]] 
 
-### [Central_Ostrobothnia.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Central_Ostrobothnia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Central_Ostrobothnia.protect|Central_Ostrobothnia.protect]] 
 
-### [Central_Ostrobothnia.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Central_Ostrobothnia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Central_Ostrobothnia.private|Central_Ostrobothnia.private]] 
 
-### [Central_Ostrobothnia.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Central_Ostrobothnia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Central_Ostrobothnia.personal|Central_Ostrobothnia.personal]] 
 
-### [Central_Ostrobothnia.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Central_Ostrobothnia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Central_Ostrobothnia.secret|Central_Ostrobothnia.secret]] 
 

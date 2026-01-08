@@ -41,17 +41,17 @@ markerFolder: ./Northern_Ostrobothnia/
 
 ## Confidential Links & Embeds: 
 
-### [Ostrobothnia~North](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North|Ostrobothnia~North]] 
 
-### [Ostrobothnia~North.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North.public|Ostrobothnia~North.public]] 
 
-### [Ostrobothnia~North.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North.internal|Ostrobothnia~North.internal]] 
 
-### [Ostrobothnia~North.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North.protect|Ostrobothnia~North.protect]] 
 
-### [Ostrobothnia~North.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North.private|Ostrobothnia~North.private]] 
 
-### [Ostrobothnia~North.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North.personal|Ostrobothnia~North.personal]] 
 
-### [Ostrobothnia~North.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North.secret|Ostrobothnia~North.secret]] 
 

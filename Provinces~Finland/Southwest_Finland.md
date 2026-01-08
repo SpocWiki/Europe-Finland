@@ -28,17 +28,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Southwest_Finland](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland|Southwest_Finland]] 
 
-### [Southwest_Finland.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland.public|Southwest_Finland.public]] 
 
-### [Southwest_Finland.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland.internal|Southwest_Finland.internal]] 
 
-### [Southwest_Finland.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland.protect|Southwest_Finland.protect]] 
 
-### [Southwest_Finland.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland.private|Southwest_Finland.private]] 
 
-### [Southwest_Finland.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland.personal|Southwest_Finland.personal]] 
 
-### [Southwest_Finland.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Southwest_Finland.secret|Southwest_Finland.secret]] 
 

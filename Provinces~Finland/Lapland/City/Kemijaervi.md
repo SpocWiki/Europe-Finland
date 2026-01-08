@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31381
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 27.43
+dv_has_place_latitude: 66.72
+dv_name: Kemijaervi
+dv_Country: "[[../../../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::27.43] 
-[has_place_latitude::66.72] 
-[name::Kemijaervi] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kemijaervi](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Kemijaervi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Kemijaervi|Kemijaervi]] 
 
-### [Kemijaervi.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Kemijaervi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Kemijaervi.public|Kemijaervi.public]] 
 
-### [Kemijaervi.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Kemijaervi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Kemijaervi.internal|Kemijaervi.internal]] 
 
-### [Kemijaervi.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Kemijaervi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Kemijaervi.protect|Kemijaervi.protect]] 
 
-### [Kemijaervi.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Kemijaervi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Kemijaervi.private|Kemijaervi.private]] 
 
-### [Kemijaervi.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Kemijaervi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Kemijaervi.personal|Kemijaervi.personal]] 
 
-### [Kemijaervi.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Kemijaervi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Kemijaervi.secret|Kemijaervi.secret]] 
 

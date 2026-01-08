@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31337
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 21.18
+dv_has_place_latitude: 62.37
+dv_name: Kaskoe
+dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::21.18] 
-[has_place_latitude::62.37] 
-[name::Kaskoe] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kaskoe](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Kaskoe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Kaskoe|Kaskoe]] 
 
-### [Kaskoe.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Kaskoe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/City/Kaskoe.public|Kaskoe.public]] 
 
-### [Kaskoe.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Kaskoe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Kaskoe.internal|Kaskoe.internal]] 
 
-### [Kaskoe.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Kaskoe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Kaskoe.protect|Kaskoe.protect]] 
 
-### [Kaskoe.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Kaskoe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/City/Kaskoe.private|Kaskoe.private]] 
 
-### [Kaskoe.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Kaskoe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Kaskoe.personal|Kaskoe.personal]] 
 
-### [Kaskoe.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Kaskoe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Kaskoe.secret|Kaskoe.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34385
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 28.08
+dv_has_place_latitude: 63.85
+dv_name: Sotkamo~Kalm.
+dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::28.08] 
-[has_place_latitude::63.85] 
-[name::Sotkamo~Kalm.] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sotkamo~Kalm.](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kalm..md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kalm.|Sotkamo~Kalm.]] 
 
-### [Sotkamo~Kalm..public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kalm..public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kalm..public|Sotkamo~Kalm..public]] 
 
-### [Sotkamo~Kalm..internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kalm..internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kalm..internal|Sotkamo~Kalm..internal]] 
 
-### [Sotkamo~Kalm..protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kalm..protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kalm..protect|Sotkamo~Kalm..protect]] 
 
-### [Sotkamo~Kalm..private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kalm..private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kalm..private|Sotkamo~Kalm..private]] 
 
-### [Sotkamo~Kalm..personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kalm..personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kalm..personal|Sotkamo~Kalm..personal]] 
 
-### [Sotkamo~Kalm..secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kalm..secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu/City/Sotkamo~Kalm..secret|Sotkamo~Kalm..secret]] 
 

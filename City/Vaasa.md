@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35157
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 21.53
+dv_has_place_latitude: 63.08
+dv_name: Vaasa
+dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::21.53] 
-[has_place_latitude::63.08] 
-[name::Vaasa] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vaasa](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Vaasa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Vaasa|Vaasa]] 
 
-### [Vaasa.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Vaasa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/City/Vaasa.public|Vaasa.public]] 
 
-### [Vaasa.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Vaasa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Vaasa.internal|Vaasa.internal]] 
 
-### [Vaasa.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Vaasa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Vaasa.protect|Vaasa.protect]] 
 
-### [Vaasa.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Vaasa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/City/Vaasa.private|Vaasa.private]] 
 
-### [Vaasa.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Vaasa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Vaasa.personal|Vaasa.personal]] 
 
-### [Vaasa.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Vaasa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Vaasa.secret|Vaasa.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31020
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 21.37
+dv_has_place_latitude: 60.22
+dv_name: Hontskari
+dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::21.37] 
-[has_place_latitude::60.22] 
-[name::Hontskari] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hontskari](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Hontskari.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Hontskari|Hontskari]] 
 
-### [Hontskari.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Hontskari.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/City/Hontskari.public|Hontskari.public]] 
 
-### [Hontskari.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Hontskari.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Hontskari.internal|Hontskari.internal]] 
 
-### [Hontskari.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Hontskari.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Hontskari.protect|Hontskari.protect]] 
 
-### [Hontskari.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Hontskari.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/City/Hontskari.private|Hontskari.private]] 
 
-### [Hontskari.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Hontskari.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Hontskari.personal|Hontskari.personal]] 
 
-### [Hontskari.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Hontskari.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Hontskari.secret|Hontskari.secret]] 
 

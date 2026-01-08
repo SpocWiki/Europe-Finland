@@ -40,17 +40,17 @@ markerFolder: ./Lapland/
 
 ## Confidential Links & Embeds: 
 
-### [Lapland](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland|Lapland]] 
 
-### [Lapland.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland.public|Lapland.public]] 
 
-### [Lapland.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland.internal|Lapland.internal]] 
 
-### [Lapland.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland.protect|Lapland.protect]] 
 
-### [Lapland.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland.private|Lapland.private]] 
 
-### [Lapland.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland.personal|Lapland.personal]] 
 
-### [Lapland.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland.secret|Lapland.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34684
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 27.03
+dv_has_place_latitude: 60.02
+dv_name: Suursaari
+dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::27.03] 
-[has_place_latitude::60.02] 
-[name::Suursaari] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Suursaari](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Suursaari.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Suursaari|Suursaari]] 
 
-### [Suursaari.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Suursaari.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/City/Suursaari.public|Suursaari.public]] 
 
-### [Suursaari.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Suursaari.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Suursaari.internal|Suursaari.internal]] 
 
-### [Suursaari.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Suursaari.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Suursaari.protect|Suursaari.protect]] 
 
-### [Suursaari.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Suursaari.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/City/Suursaari.private|Suursaari.private]] 
 
-### [Suursaari.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Suursaari.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Suursaari.personal|Suursaari.personal]] 
 
-### [Suursaari.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Suursaari.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Suursaari.secret|Suursaari.secret]] 
 

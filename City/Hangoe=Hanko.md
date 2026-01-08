@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30757
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 22.97
+dv_has_place_latitude: 59.9
+dv_name: Hangoe=Hanko
+dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::22.97] 
-[has_place_latitude::59.9] 
-[name::Hangoe=Hanko] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hangoe=Hanko](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Hangoe=Hanko.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Hangoe=Hanko|Hangoe=Hanko]] 
 
-### [Hangoe=Hanko.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Hangoe=Hanko.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/City/Hangoe=Hanko.public|Hangoe=Hanko.public]] 
 
-### [Hangoe=Hanko.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Hangoe=Hanko.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Hangoe=Hanko.internal|Hangoe=Hanko.internal]] 
 
-### [Hangoe=Hanko.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Hangoe=Hanko.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Hangoe=Hanko.protect|Hangoe=Hanko.protect]] 
 
-### [Hangoe=Hanko.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Hangoe=Hanko.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/City/Hangoe=Hanko.private|Hangoe=Hanko.private]] 
 
-### [Hangoe=Hanko.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Hangoe=Hanko.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Hangoe=Hanko.personal|Hangoe=Hanko.personal]] 
 
-### [Hangoe=Hanko.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Hangoe=Hanko.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Hangoe=Hanko.secret|Hangoe=Hanko.secret]] 
 

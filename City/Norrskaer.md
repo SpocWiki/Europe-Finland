@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32954
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 20.6
+dv_has_place_latitude: 63.23
+dv_name: Norrskaer
+dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::20.6] 
-[has_place_latitude::63.23] 
-[name::Norrskaer] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Norrskaer](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Norrskaer.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Norrskaer|Norrskaer]] 
 
-### [Norrskaer.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Norrskaer.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/City/Norrskaer.public|Norrskaer.public]] 
 
-### [Norrskaer.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Norrskaer.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Norrskaer.internal|Norrskaer.internal]] 
 
-### [Norrskaer.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Norrskaer.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Norrskaer.protect|Norrskaer.protect]] 
 
-### [Norrskaer.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Norrskaer.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/City/Norrskaer.private|Norrskaer.private]] 
 
-### [Norrskaer.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Norrskaer.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Norrskaer.personal|Norrskaer.personal]] 
 
-### [Norrskaer.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Norrskaer.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Norrskaer.secret|Norrskaer.secret]] 
 

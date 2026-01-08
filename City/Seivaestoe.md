@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34187
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 29.05
+dv_has_place_latitude: 60.18
+dv_name: Seivaestoe
+dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::29.05] 
-[has_place_latitude::60.18] 
-[name::Seivaestoe] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Seivaestoe](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Seivaestoe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Seivaestoe|Seivaestoe]] 
 
-### [Seivaestoe.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Seivaestoe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/City/Seivaestoe.public|Seivaestoe.public]] 
 
-### [Seivaestoe.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Seivaestoe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Seivaestoe.internal|Seivaestoe.internal]] 
 
-### [Seivaestoe.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Seivaestoe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Seivaestoe.protect|Seivaestoe.protect]] 
 
-### [Seivaestoe.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Seivaestoe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/City/Seivaestoe.private|Seivaestoe.private]] 
 
-### [Seivaestoe.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Seivaestoe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Seivaestoe.personal|Seivaestoe.personal]] 
 
-### [Seivaestoe.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Seivaestoe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Seivaestoe.secret|Seivaestoe.secret]] 
 

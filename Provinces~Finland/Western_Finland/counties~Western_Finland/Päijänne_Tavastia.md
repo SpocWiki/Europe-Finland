@@ -7,17 +7,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Päijänne_Tavastia](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Päijänne_Tavastia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Päijänne_Tavastia|Päijänne_Tavastia]] 
 
-### [Päijänne_Tavastia.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Päijänne_Tavastia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Päijänne_Tavastia.public|Päijänne_Tavastia.public]] 
 
-### [Päijänne_Tavastia.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Päijänne_Tavastia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Päijänne_Tavastia.internal|Päijänne_Tavastia.internal]] 
 
-### [Päijänne_Tavastia.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Päijänne_Tavastia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Päijänne_Tavastia.protect|Päijänne_Tavastia.protect]] 
 
-### [Päijänne_Tavastia.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Päijänne_Tavastia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Päijänne_Tavastia.private|Päijänne_Tavastia.private]] 
 
-### [Päijänne_Tavastia.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Päijänne_Tavastia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Päijänne_Tavastia.personal|Päijänne_Tavastia.personal]] 
 
-### [Päijänne_Tavastia.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Päijänne_Tavastia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Päijänne_Tavastia.secret|Päijänne_Tavastia.secret]] 
 

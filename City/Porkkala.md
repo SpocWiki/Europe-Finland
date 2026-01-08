@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33465
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 24.42
+dv_has_place_latitude: 59.93
+dv_name: Porkkala
+dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::24.42] 
-[has_place_latitude::59.93] 
-[name::Porkkala] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Porkkala](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Porkkala.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Porkkala|Porkkala]] 
 
-### [Porkkala.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Porkkala.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/City/Porkkala.public|Porkkala.public]] 
 
-### [Porkkala.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Porkkala.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Porkkala.internal|Porkkala.internal]] 
 
-### [Porkkala.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Porkkala.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Porkkala.protect|Porkkala.protect]] 
 
-### [Porkkala.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Porkkala.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/City/Porkkala.private|Porkkala.private]] 
 
-### [Porkkala.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Porkkala.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Porkkala.personal|Porkkala.personal]] 
 
-### [Porkkala.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Porkkala.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Porkkala.secret|Porkkala.secret]] 
 

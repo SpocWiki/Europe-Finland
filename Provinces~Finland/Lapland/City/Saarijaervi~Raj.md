@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33858
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 25.27
+dv_has_place_latitude: 65.7
+dv_name: Saarijaervi~Raj
+dv_Country: "[[../../../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::25.27] 
-[has_place_latitude::65.7] 
-[name::Saarijaervi~Raj] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Saarijaervi~Raj](/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Saarijaervi~Raj.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Saarijaervi~Raj|Saarijaervi~Raj]] 
 
-### [Saarijaervi~Raj.public](/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Saarijaervi~Raj.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Saarijaervi~Raj.public|Saarijaervi~Raj.public]] 
 
-### [Saarijaervi~Raj.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Saarijaervi~Raj.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Saarijaervi~Raj.internal|Saarijaervi~Raj.internal]] 
 
-### [Saarijaervi~Raj.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Saarijaervi~Raj.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Saarijaervi~Raj.protect|Saarijaervi~Raj.protect]] 
 
-### [Saarijaervi~Raj.private](/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Saarijaervi~Raj.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Saarijaervi~Raj.private|Saarijaervi~Raj.private]] 
 
-### [Saarijaervi~Raj.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Saarijaervi~Raj.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Saarijaervi~Raj.personal|Saarijaervi~Raj.personal]] 
 
-### [Saarijaervi~Raj.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Saarijaervi~Raj.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/Provinces~Finland/Lapland/City/Saarijaervi~Raj.secret|Saarijaervi~Raj.secret]] 
 

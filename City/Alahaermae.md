@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28705
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 22.83
+dv_has_place_latitude: 60.28
+dv_name: Alahaermae
+dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::22.83] 
-[has_place_latitude::60.28] 
-[name::Alahaermae] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alahaermae](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Alahaermae.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Alahaermae|Alahaermae]] 
 
-### [Alahaermae.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Alahaermae.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/City/Alahaermae.public|Alahaermae.public]] 
 
-### [Alahaermae.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Alahaermae.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Alahaermae.internal|Alahaermae.internal]] 
 
-### [Alahaermae.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Alahaermae.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Alahaermae.protect|Alahaermae.protect]] 
 
-### [Alahaermae.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Alahaermae.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/City/Alahaermae.private|Alahaermae.private]] 
 
-### [Alahaermae.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Alahaermae.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Alahaermae.personal|Alahaermae.personal]] 
 
-### [Alahaermae.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Alahaermae.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Alahaermae.secret|Alahaermae.secret]] 
 

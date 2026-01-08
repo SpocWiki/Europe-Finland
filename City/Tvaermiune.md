@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35064
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 23.2
+dv_has_place_latitude: 59.83
+dv_name: Tvaermiune
+dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::23.2] 
-[has_place_latitude::59.83] 
-[name::Tvaermiune] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tvaermiune](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Tvaermiune.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Tvaermiune|Tvaermiune]] 
 
-### [Tvaermiune.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Tvaermiune.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/City/Tvaermiune.public|Tvaermiune.public]] 
 
-### [Tvaermiune.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Tvaermiune.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Tvaermiune.internal|Tvaermiune.internal]] 
 
-### [Tvaermiune.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Tvaermiune.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Tvaermiune.protect|Tvaermiune.protect]] 
 
-### [Tvaermiune.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Tvaermiune.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/City/Tvaermiune.private|Tvaermiune.private]] 
 
-### [Tvaermiune.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Tvaermiune.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Tvaermiune.personal|Tvaermiune.personal]] 
 
-### [Tvaermiune.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Tvaermiune.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Tvaermiune.secret|Tvaermiune.secret]] 
 

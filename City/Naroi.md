@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32738
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 27.98
+dv_has_place_latitude: 60.25
+dv_name: Naroi
+dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::27.98] 
-[has_place_latitude::60.25] 
-[name::Naroi] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Naroi](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Naroi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Naroi|Naroi]] 
 
-### [Naroi.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Naroi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/City/Naroi.public|Naroi.public]] 
 
-### [Naroi.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Naroi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Naroi.internal|Naroi.internal]] 
 
-### [Naroi.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Naroi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Naroi.protect|Naroi.protect]] 
 
-### [Naroi.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Naroi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/City/Naroi.private|Naroi.private]] 
 
-### [Naroi.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Naroi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Naroi.personal|Naroi.personal]] 
 
-### [Naroi.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Naroi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Naroi.secret|Naroi.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34747
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 23.43
+dv_has_place_latitude: 59.97
+dv_name: Tammisaari
+dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::23.43] 
-[has_place_latitude::59.97] 
-[name::Tammisaari] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tammisaari](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Tammisaari.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Tammisaari|Tammisaari]] 
 
-### [Tammisaari.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Tammisaari.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/City/Tammisaari.public|Tammisaari.public]] 
 
-### [Tammisaari.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Tammisaari.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Tammisaari.internal|Tammisaari.internal]] 
 
-### [Tammisaari.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Tammisaari.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Tammisaari.protect|Tammisaari.protect]] 
 
-### [Tammisaari.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Tammisaari.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/City/Tammisaari.private|Tammisaari.private]] 
 
-### [Tammisaari.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Tammisaari.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Tammisaari.personal|Tammisaari.personal]] 
 
-### [Tammisaari.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Tammisaari.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Tammisaari.secret|Tammisaari.secret]] 
 

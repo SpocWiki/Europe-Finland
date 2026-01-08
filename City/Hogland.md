@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30975
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 25.12
+dv_has_place_latitude: 60.05
+dv_name: Hogland
+dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::25.12] 
-[has_place_latitude::60.05] 
-[name::Hogland] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hogland](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Hogland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Hogland|Hogland]] 
 
-### [Hogland.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Hogland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/City/Hogland.public|Hogland.public]] 
 
-### [Hogland.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Hogland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Hogland.internal|Hogland.internal]] 
 
-### [Hogland.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Hogland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Hogland.protect|Hogland.protect]] 
 
-### [Hogland.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Hogland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/City/Hogland.private|Hogland.private]] 
 
-### [Hogland.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Hogland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Hogland.personal|Hogland.personal]] 
 
-### [Hogland.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Hogland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Hogland.secret|Hogland.secret]] 
 

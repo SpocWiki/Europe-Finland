@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31070
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 27.2
+dv_has_place_latitude: 60.57
+dv_name: Haemina
+dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::27.2] 
-[has_place_latitude::60.57] 
-[name::Haemina] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Haemina](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Haemina.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Haemina|Haemina]] 
 
-### [Haemina.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Haemina.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/City/Haemina.public|Haemina.public]] 
 
-### [Haemina.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Haemina.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Haemina.internal|Haemina.internal]] 
 
-### [Haemina.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Haemina.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Haemina.protect|Haemina.protect]] 
 
-### [Haemina.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Haemina.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/City/Haemina.private|Haemina.private]] 
 
-### [Haemina.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Haemina.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Haemina.personal|Haemina.personal]] 
 
-### [Haemina.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Haemina.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Haemina.secret|Haemina.secret]] 
 

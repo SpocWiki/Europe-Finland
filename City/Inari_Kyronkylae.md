@@ -17,14 +17,23 @@ tags:
 SpocWebEntityId: 31109
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude:
+  - 27
+  - 22
+dv_has_place_latitude:
+  - 69
+  - 1
+dv_name: Inari/Kyronkylae
+dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+is_a_ = `=this.dv_is_a_`
 [has_place_longitude::27,22] 
 [has_place_latitude::69,1] 
-[name::Inari/Kyronkylae] 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -41,17 +50,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Inari_Kyronkylae](/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Kyronkylae.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Kyronkylae|Inari_Kyronkylae]] 
 
-### [Inari_Kyronkylae.public](/_public/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Kyronkylae.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Kyronkylae.public|Inari_Kyronkylae.public]] 
 
-### [Inari_Kyronkylae.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Kyronkylae.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Kyronkylae.internal|Inari_Kyronkylae.internal]] 
 
-### [Inari_Kyronkylae.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Kyronkylae.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Kyronkylae.protect|Inari_Kyronkylae.protect]] 
 
-### [Inari_Kyronkylae.private](/_private/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Kyronkylae.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Kyronkylae.private|Inari_Kyronkylae.private]] 
 
-### [Inari_Kyronkylae.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Kyronkylae.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Kyronkylae.personal|Inari_Kyronkylae.personal]] 
 
-### [Inari_Kyronkylae.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Kyronkylae.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Finland/City/Inari_Kyronkylae.secret|Inari_Kyronkylae.secret]] 
 
