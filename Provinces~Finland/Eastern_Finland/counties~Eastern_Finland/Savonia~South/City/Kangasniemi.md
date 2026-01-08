@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.6
 dv_has_place_latitude: 61.98
-dv_name: Kangasniemi
+dv_has_name_: Kangasniemi
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 24.45
 dv_has_place_latitude: 61
-dv_name: Haemeenlinna
+dv_has_name_: Haemeenlinna
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.42
 dv_has_place_latitude: 60.8
-dv_name: Nystad=Unsikanpuski
+dv_has_name_: Nystad=Unsikanpuski
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

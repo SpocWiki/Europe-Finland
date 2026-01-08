@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.85
 dv_has_place_latitude: 61.45
-dv_name: Sysmae
+dv_has_name_: Sysmae
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

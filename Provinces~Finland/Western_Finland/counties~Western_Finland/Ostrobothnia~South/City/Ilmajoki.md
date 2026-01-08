@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.55
 dv_has_place_latitude: 62.72
-dv_name: Ilmajoki
+dv_has_name_: Ilmajoki
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

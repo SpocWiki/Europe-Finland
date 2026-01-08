@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.65
 dv_has_place_latitude: 67.37
-dv_name: Sodankylae~Taeh.
+dv_has_name_: Sodankylae~Taeh.
 dv_Country: "[[../../../../Finland]]"
 ---
 #is_a_/Place  

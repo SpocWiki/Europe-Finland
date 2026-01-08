@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 24.35
 dv_has_place_latitude: 61.07
-dv_name: Hattula
+dv_has_name_: Hattula
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

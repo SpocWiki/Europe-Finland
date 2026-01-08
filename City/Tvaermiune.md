@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.2
 dv_has_place_latitude: 59.83
-dv_name: Tvaermiune
+dv_has_name_: Tvaermiune
 dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  

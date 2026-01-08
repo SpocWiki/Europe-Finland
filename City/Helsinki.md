@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 25
 dv_has_place_latitude: 60.17
-dv_name: Helsinki
+dv_has_name_: Helsinki
 dv_is_:
   same_as: "[[../../../../../../WikiData/WD~Helsinki,1757|WD~Helsinki,1757]]"
 dv_is_same_as: "[[../../../../../../WikiData/WD~Helsinki,1757|WD~Helsinki,1757]]"

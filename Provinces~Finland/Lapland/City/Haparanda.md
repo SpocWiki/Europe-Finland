@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 24.17
 dv_has_place_latitude: 65.83
-dv_name: Haparanda
+dv_has_name_: Haparanda
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

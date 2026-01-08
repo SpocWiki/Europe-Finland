@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.63
 dv_has_place_latitude: 60.8
-dv_name: Forssa
+dv_has_name_: Forssa
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

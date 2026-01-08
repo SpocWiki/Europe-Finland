@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.4
 dv_has_place_latitude: 60.8
-dv_name: Uusikaupuuki
+dv_has_name_: Uusikaupuuki
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

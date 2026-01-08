@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.28
 dv_has_place_latitude: 60.67
-dv_name: Somero~Langs.
+dv_has_name_: Somero~Langs.
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

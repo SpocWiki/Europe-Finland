@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.6
 dv_has_place_latitude: 68.4
-dv_name: Enontekioe
+dv_has_name_: Enontekioe
 dv_Country: "[[../../../../Finland]]"
 ---
 #is_a_/Place  

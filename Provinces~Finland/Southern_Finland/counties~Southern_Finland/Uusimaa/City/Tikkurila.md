@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.03
 dv_has_place_latitude: 60.3
-dv_name: Tikkurila
+dv_has_name_: Tikkurila
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

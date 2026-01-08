@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.65
 dv_has_place_latitude: 60.08
-dv_name: Pohja
+dv_has_name_: Pohja
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

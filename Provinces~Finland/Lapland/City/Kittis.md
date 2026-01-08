@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 24.05
 dv_has_place_latitude: 66.8
-dv_name: Kittis
+dv_has_name_: Kittis
 dv_Country: "[[../../../../Finland]]"
 ---
 #is_a_/Place  

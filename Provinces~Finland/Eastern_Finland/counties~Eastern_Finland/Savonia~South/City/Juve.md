@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 27.83
 dv_has_place_latitude: 61.9
-dv_name: Juve
+dv_has_name_: Juve
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

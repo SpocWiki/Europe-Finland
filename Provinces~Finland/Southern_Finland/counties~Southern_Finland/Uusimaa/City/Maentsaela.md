@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.33
 dv_has_place_latitude: 60.63
-dv_name: Maentsaela
+dv_has_name_: Maentsaela
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 29
 dv_has_place_latitude: 63.65
-dv_name: Nurmes
+dv_has_name_: Nurmes
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

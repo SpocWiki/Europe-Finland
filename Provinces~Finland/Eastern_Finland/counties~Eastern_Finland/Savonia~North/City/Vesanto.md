@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.57
 dv_has_place_latitude: 62.87
-dv_name: Vesanto
+dv_has_name_: Vesanto
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

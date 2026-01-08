@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.2
 dv_has_place_latitude: 61.57
-dv_name: Kuhmoinen
+dv_has_name_: Kuhmoinen
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

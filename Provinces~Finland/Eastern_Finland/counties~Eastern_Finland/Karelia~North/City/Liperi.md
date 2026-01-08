@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 29.33
 dv_has_place_latitude: 62.33
-dv_name: Liperi
+dv_has_name_: Liperi
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

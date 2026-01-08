@@ -24,7 +24,7 @@ dv_has_place_longitude:
 dv_has_place_latitude:
   - 69
   - 1
-dv_name: Inari/Kyronkylae
+dv_has_name_: Inari/Kyronkylae
 dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  

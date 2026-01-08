@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 27.42
 dv_has_place_latitude: 61.4
-dv_name: Suomennierni
+dv_has_name_: Suomennierni
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 27.03
 dv_has_place_latitude: 60.02
-dv_name: Suursaari
+dv_has_name_: Suursaari
 dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.95
 dv_has_place_latitude: 60.1
-dv_name: Finby
+dv_has_name_: Finby
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

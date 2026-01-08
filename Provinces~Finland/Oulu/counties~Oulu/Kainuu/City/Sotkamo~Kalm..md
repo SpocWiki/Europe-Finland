@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 28.08
 dv_has_place_latitude: 63.85
-dv_name: Sotkamo~Kalm.
+dv_has_name_: Sotkamo~Kalm.
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

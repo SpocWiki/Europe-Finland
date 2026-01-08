@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 27.72
 dv_has_place_latitude: 64.85
-dv_name: Puolanka
+dv_has_name_: Puolanka
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

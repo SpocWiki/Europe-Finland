@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.5
 dv_has_place_latitude: 61.13
-dv_name: Rauma
+dv_has_name_: Rauma
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

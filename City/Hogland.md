@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.12
 dv_has_place_latitude: 60.05
-dv_name: Hogland
+dv_has_name_: Hogland
 dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  

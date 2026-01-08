@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.82
 dv_has_place_latitude: 64.55
-dv_name: Utajaervi~Vaal.
+dv_has_name_: Utajaervi~Vaal.
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

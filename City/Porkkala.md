@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 24.42
 dv_has_place_latitude: 59.93
-dv_name: Porkkala
+dv_has_name_: Porkkala
 dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  

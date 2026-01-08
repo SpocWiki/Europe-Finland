@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.07
 dv_has_place_latitude: 63.1
-dv_name: Kauhava
+dv_has_name_: Kauhava
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

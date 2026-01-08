@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 24.35
 dv_has_place_latitude: 60.45
-dv_name: Vihti
+dv_has_name_: Vihti
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

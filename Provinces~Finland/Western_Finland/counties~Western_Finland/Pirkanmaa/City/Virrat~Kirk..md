@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.73
 dv_has_place_latitude: 62.25
-dv_name: Virrat~Kirk.
+dv_has_name_: Virrat~Kirk.
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

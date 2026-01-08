@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.52
 dv_has_place_latitude: 61.62
-dv_name: Lavia
+dv_has_name_: Lavia
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 27.77
 dv_has_place_latitude: 64.22
-dv_name: Kajaani
+dv_has_name_: Kajaani
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

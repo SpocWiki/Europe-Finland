@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.18
 dv_has_place_latitude: 62.33
-dv_name: Saelgrund
+dv_has_name_: Saelgrund
 dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  

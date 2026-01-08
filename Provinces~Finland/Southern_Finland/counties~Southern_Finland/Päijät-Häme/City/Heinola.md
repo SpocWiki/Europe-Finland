@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.03
 dv_has_place_latitude: 61.22
-dv_name: Heinola
+dv_has_name_: Heinola
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

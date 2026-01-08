@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.43
 dv_has_place_latitude: 59.97
-dv_name: Tammisaari
+dv_has_name_: Tammisaari
 dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.77
 dv_has_place_latitude: 61.5
-dv_name: Tampere
+dv_has_name_: Tampere
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

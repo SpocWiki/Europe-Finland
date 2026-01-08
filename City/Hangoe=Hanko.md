@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.97
 dv_has_place_latitude: 59.9
-dv_name: Hangoe=Hanko
+dv_has_name_: Hangoe=Hanko
 dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  

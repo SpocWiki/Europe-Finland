@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.02
 dv_has_place_latitude: 60.93
-dv_name: Nastola
+dv_has_name_: Nastola
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

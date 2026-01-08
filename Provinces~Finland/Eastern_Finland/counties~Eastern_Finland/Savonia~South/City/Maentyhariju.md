@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.8
 dv_has_place_latitude: 61.38
-dv_name: Maentyhariju
+dv_has_name_: Maentyhariju
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

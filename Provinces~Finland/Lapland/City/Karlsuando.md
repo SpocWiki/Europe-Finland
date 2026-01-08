@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.5
 dv_has_place_latitude: 68.45
-dv_name: Karlsuando
+dv_has_name_: Karlsuando
 dv_Country: "[[../../../../Sweden]]"
 ---
 #is_a_/Place  

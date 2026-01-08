@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.65
 dv_has_place_latitude: 60.92
-dv_name: Kuusankoski
+dv_has_name_: Kuusankoski
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

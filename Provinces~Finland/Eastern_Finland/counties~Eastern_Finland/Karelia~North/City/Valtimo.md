@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 28.82
 dv_has_place_latitude: 63.67
-dv_name: Valtimo
+dv_has_name_: Valtimo
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

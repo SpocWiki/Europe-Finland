@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 29.28
 dv_has_place_latitude: 61.8
-dv_name: Kerimaeki
+dv_has_name_: Kerimaeki
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

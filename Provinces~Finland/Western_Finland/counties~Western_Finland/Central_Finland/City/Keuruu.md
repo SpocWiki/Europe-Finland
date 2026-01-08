@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 24.7
 dv_has_place_latitude: 62.25
-dv_name: Keuruu
+dv_has_name_: Keuruu
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

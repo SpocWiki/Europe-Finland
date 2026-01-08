@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 24.37
 dv_has_place_latitude: 61.68
-dv_name: Orivesi
+dv_has_name_: Orivesi
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

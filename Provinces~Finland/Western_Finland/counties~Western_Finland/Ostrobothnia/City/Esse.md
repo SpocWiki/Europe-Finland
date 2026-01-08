@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.18
 dv_has_place_latitude: 63.58
-dv_name: Esse
+dv_has_name_: Esse
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

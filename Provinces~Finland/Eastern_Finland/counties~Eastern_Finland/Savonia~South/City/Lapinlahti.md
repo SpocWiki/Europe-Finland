@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 27.38
 dv_has_place_latitude: 62.37
-dv_name: Lapinlahti
+dv_has_name_: Lapinlahti
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.5
 dv_has_place_latitude: 63.52
-dv_name: Nykarleby
+dv_has_name_: Nykarleby
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.07
 dv_has_place_latitude: 60.75
-dv_name: Artjaervi
+dv_has_name_: Artjaervi
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

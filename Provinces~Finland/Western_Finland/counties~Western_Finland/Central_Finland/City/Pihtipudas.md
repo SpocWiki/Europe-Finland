@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.62
 dv_has_place_latitude: 63.3
-dv_name: Pihtipudas
+dv_has_name_: Pihtipudas
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.78
 dv_has_place_latitude: 60.95
-dv_name: Vaikeala
+dv_has_name_: Vaikeala
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

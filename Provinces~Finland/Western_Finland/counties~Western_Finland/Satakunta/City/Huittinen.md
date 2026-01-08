@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.62
 dv_has_place_latitude: 61.18
-dv_name: Huittinen
+dv_has_name_: Huittinen
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

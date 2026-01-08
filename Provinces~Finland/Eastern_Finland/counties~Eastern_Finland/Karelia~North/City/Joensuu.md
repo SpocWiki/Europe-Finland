@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 29.73
 dv_has_place_latitude: 62.6
-dv_name: Joensuu
+dv_has_name_: Joensuu
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

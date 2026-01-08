@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 24.5
 dv_has_place_latitude: 60.2
-dv_name: Kyrkslaett
+dv_has_name_: Kyrkslaett
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.58
 dv_has_place_latitude: 60.65
-dv_name: Poeyttyae
+dv_has_name_: Poeyttyae
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

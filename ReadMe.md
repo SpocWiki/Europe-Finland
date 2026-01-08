@@ -43,15 +43,13 @@ dv_ISO4217-currency_country_name: FINLAND
 dv_Telephone: 358
 dv_Global: true
 dv_Global_Name: World
-dv_name: Finland
-dv_name-en:
-  - Finland
-  - Finland
-dv_name-es: Finlandia
-dv_name-fr: Finlande
-dv_name-cn: 芬兰
-dv_name-ar: فنلندا
-dv_name-ru: Финляндия
+dv_has_name_: Finland
+dv_has_name_en: Finland
+dv_has_name_es: Finlandia
+dv_has_name_fr: Finlande
+dv_has_name_cn: 芬兰
+dv_has_name_ar: فنلندا
+dv_has_name_ru: Финляндия
 dv_CLDR_display_name: Finland
 dv_UNTERM_English: Finland
 dv_UNTERM_English_Formal: the Republic of Finland
@@ -88,7 +86,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 246
 dv_ISO2: FI
 dv_ISO3: FIN
-dv_name-de: Finnland
+dv_has_name_de: Finnland
 dv_Area-Total: 338144
 dv_Area-Land: 304610
 dv_Continent: "[[../../../Europe]]"
@@ -114,12 +112,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Finland ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Finland ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -178,8 +176,8 @@ geojsonFolder: .//
 markerFolder: .//
 ```
 
-[name-en::Finland] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Finland] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

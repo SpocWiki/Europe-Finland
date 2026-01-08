@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.43
 dv_has_place_latitude: 60.12
-dv_name: Soedarskaes
+dv_has_name_: Soedarskaes
 dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 27.57
 dv_has_place_latitude: 68.67
-dv_name: Inari~Enare
+dv_has_name_: Inari~Enare
 dv_Country: "[[../../../../Finland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 27.42
 dv_has_place_latitude: 68.02
-dv_name: Sodankylae~Mut.
+dv_has_name_: Sodankylae~Mut.
 dv_Country: "[[../../../../Finland]]"
 ---
 #is_a_/Place  

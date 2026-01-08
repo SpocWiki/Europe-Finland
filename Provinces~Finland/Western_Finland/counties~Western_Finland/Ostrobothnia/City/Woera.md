@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.23
 dv_has_place_latitude: 63.22
-dv_name: Woera
+dv_has_name_: Woera
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

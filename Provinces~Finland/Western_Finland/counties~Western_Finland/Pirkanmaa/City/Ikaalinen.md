@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.07
 dv_has_place_latitude: 61.77
-dv_name: Ikaalinen
+dv_has_name_: Ikaalinen
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

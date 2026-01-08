@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 29.28
 dv_has_place_latitude: 61.8
-dv_name: Punkaharju
+dv_has_name_: Punkaharju
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

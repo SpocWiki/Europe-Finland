@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.67
 dv_has_place_latitude: 60.37
-dv_name: Porvoo
+dv_has_name_: Porvoo
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.07
 dv_has_place_latitude: 63.42
-dv_name: Walsoerarme
+dv_has_name_: Walsoerarme
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

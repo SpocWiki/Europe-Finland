@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.25
 dv_has_place_latitude: 64.35
-dv_name: Kestilae
+dv_has_name_: Kestilae
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

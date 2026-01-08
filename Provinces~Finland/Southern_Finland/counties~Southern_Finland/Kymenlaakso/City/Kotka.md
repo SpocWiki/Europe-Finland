@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.93
 dv_has_place_latitude: 60.47
-dv_name: Kotka
+dv_has_name_: Kotka
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

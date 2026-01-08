@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 28.25
 dv_has_place_latitude: 65.55
-dv_name: Taivalkoski
+dv_has_name_: Taivalkoski
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

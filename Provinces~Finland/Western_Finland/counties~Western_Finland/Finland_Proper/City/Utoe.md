@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.37
 dv_has_place_latitude: 59.78
-dv_name: Utoe
+dv_has_name_: Utoe
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 24.57
 dv_has_place_latitude: 65.05
-dv_name: Marjaniemi
+dv_has_name_: Marjaniemi
 dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  

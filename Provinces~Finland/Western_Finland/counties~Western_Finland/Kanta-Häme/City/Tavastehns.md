@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 24.47
 dv_has_place_latitude: 61
-dv_name: Tavastehns
+dv_has_name_: Tavastehns
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

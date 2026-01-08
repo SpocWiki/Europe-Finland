@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 24.05
 dv_has_place_latitude: 61.92
-dv_name: Ruovesi
+dv_has_name_: Ruovesi
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

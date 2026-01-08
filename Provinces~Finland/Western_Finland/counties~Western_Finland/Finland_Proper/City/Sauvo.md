@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.58
 dv_has_place_latitude: 60.35
-dv_name: Sauvo
+dv_has_name_: Sauvo
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

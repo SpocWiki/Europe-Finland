@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.47
 dv_has_place_latitude: 65.17
-dv_name: Oulu
+dv_has_name_: Oulu
 dv_Country: "[[../../../../../../Finland]]"
 ---
 #is_a_/Place  

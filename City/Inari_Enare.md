@@ -24,7 +24,7 @@ dv_has_place_longitude:
 dv_has_place_latitude:
   - 68
   - 67
-dv_name: Inari/Enare
+dv_has_name_: Inari/Enare
 dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  
