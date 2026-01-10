@@ -24,14 +24,14 @@ dv_has_place_longitude:
 dv_has_place_latitude:
   - 68
   - 67
-dv_has_name_: Inari/Enare
+dv_has_name: Inari/Enare
 dv_Country: "[[../../Finland]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
 [has_place_longitude::27,57] 
 [has_place_latitude::68,67] 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country = `=this.dv_Country`
 [StateId::] 
