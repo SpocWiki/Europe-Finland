@@ -2,9 +2,9 @@
 dv_is_:
   member_:
     of:
-    - '[[../EU(European_Union)|EU]]'
+    - '[[../../EU(European_Union)|EU]]'
     - '[[Eurozone]]'
-    - '[[../../../../Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO|NATO]]'
+    - '[[../../../../../Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO|NATO]]'
     since:
     - 1995-01-01T00:00:00.000+01:00
     - 1999-01-01T00:00:00.000+01:00
@@ -381,7 +381,7 @@ dv_has_:
     zu: IFinlandi
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Finland
-dv_see: '[[Finland/ReadMe|ReadMe]]'
+dv_see: '[[ReadMe|ReadMe]]'
 dv_ISO4217-currency_alphabetic: EUR
 dv_ISO4217-currency_name: Euro
 dv_ISO4217-currency_numeric: 978
@@ -410,7 +410,7 @@ dv_UNTERM_Chinese_Formal: 芬兰共和国
 dv_UNTERM_French_Formal: la République de Finlande
 dv_UNTERM_Russian: Финляндия
 dv_UNTERM_Russian_Formal: Финляндская Республика
-dv_Region_Name: '[[../../Europe|Europe]]'
+dv_Region_Name: '[[../../../Europe|Europe]]'
 dv_Intermediate_Region_Name: '[[Finland]]'
 dv_Sub-region_Name: '[[Northern Europe]]'
 dv_Region: 150
@@ -436,17 +436,17 @@ dv_ISO3: FIN
 dv_has_name_de: Finnland
 dv_Area-Total: 338144
 dv_Area-Land: 304610
-dv_has_place_continent: '[[../../Europe|Europe]]'
+dv_has_place_continent: '[[../../../Europe|Europe]]'
 dv_VehicleCode: FIN
-dv_Capital: '[[Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Helsingfors|Helsingfors]]'
+dv_Capital: '[[Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Helsingfors|Helsingfors]]'
 dv_Alcohol-l: 12.5
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 25.4668
 dv_has_place_latitude: 62.3173
 dv_is_member_of:
-- '[[../EU(European_Union)|EU]]'
+- '[[../../EU(European_Union)|EU]]'
 - '[[Eurozone]]'
-- '[[../../../../Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO|NATO]]'
+- '[[../../../../../Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO|NATO]]'
 dv_is_member_since:
 - 1995-01-01T00:00:00.000+01:00
 - 1999-01-01T00:00:00.000+01:00
@@ -668,7 +668,7 @@ Languages:
 - smn
 icon: flag-fi
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
 - '[[/_Standards/WikiData/WD~Nordic_Council,146165|WD~Nordic_Council,146165]]'
 - '[[/_Standards/WikiData/WD~European_Southern_Observatory,151991|WD~European_Southern_Observatory,151991]]'
 - '[[/_Standards/WikiData/WD~European_Free_Trade_Association,166546|WD~European_Free_Trade_Association,166546]]'
@@ -745,7 +745,7 @@ patron_saint: '[[/_Standards/WikiData/WD~Henry,445357|WD~Henry,445357]]'
 highest_judicial_authority: '[[/_Standards/WikiData/WD~Supreme_Court_of_Finland,500459|WD~Supreme_Court_of_Finland,500459]]'
 head_of_state: '[[/_Standards/WikiData/WD~Alexander_Stubb,503143|WD~Alexander_Stubb,503143]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
 - '[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
@@ -1195,7 +1195,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Finland_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1224,31 +1224,31 @@ Below is a comprehensive table detailing the 19 regions of Finland (known as "ma
 | Region                                                                                                            | Pop/k |    kkm² | GRDP/G€ |  pP/k€ | Notable Properties                                                                                |
 | ----------------------------------------------------------------------------------------------------------------- | ----: | ------: | ------: | -----: | ------------------------------------------------------------------------------------------------- |
 | [[Åland-Islands\|Åland Islands]]                                                                                  |    30 |   1.552 |     1.4 | 46.667 | Autonomous region, unique cultural identity                                                       |
-| [[Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Central_Finland\|Central Finland]]           |   275 |  19.950 |    10.0 | 36.364 | Known for lakes, university city of Jyväskylä                                                     |
-| [[Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Central_Ostrobothnia\|Central Ostrobothnia]] |    69 |   5.706 |     2.3 | 33.333 | Strong agricultural sector, rich in cultural heritage                                             |
-| [[Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu\|Kainuu]]                                                   |    70 |  22.687 |     2.1 | 30.000 | Sparse population, rich in forests and nature                                                     |
-| [[Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Kanta-Häme\|Kanta-Häme]]                                                                                                        |   172 |   5.707 |     7.4 | 43.022 | Industrial focus, known for historical sites                                                      |
-| Karjala ([[Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North\|North Karelia]])     |   163 |  21.585 |     5.6 | 34.356 | Beautiful natural landscapes, diverse ecosystems                                                  |
-| Karjala ([[Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Karelia~South\|South Karelia]])   |   127 |   7.238 |     4.2 | 33.072 | Known for Saimaa Canal, robust industrial sector                                                  |
-| [[Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Kymenlaakso\|Kymenlaakso]]                 |   168 |   7.178 |     6.8 | 40.476 | Key industrial region, coastal location                                                           |
-| [[Finland/Provinces~Finland/Lapland\|Lapland]]                                                                    |   178 | 100.366 |     5.8 | 32.584 | Northernmost region, known for tourism and reindeer herding                                       |
-| [[Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia\|Ostrobothnia]]                 |   181 |   7.954 |     7.0 | 38.674 | Coastal region, known for bilingual heritage                                                      |
-| [[Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa\|Pirkanmaa]]                       |   542 |  14.469 |    22.5 | 41.510 | Rapidly developing region, city of Tampere                                                        |
-| [[Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Päijät-Häme\|Päijät-Häme]]                 |   201 |   6.256 |     7.9 | 39.303 | Known for its lush landscapes and lake systems                                                    |
-| [[Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Satakunta\|Satakunta]]                       |   215 |   8.528 |     8.3 | 38.605 | Significant port industries, historical significance                                              |
-| Savonia ([[Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~North\|North Savo]])        |   248 |  20.367 |     8.4 | 33.871 | Strong educational and cultural presence                                                          |
-| Savonia ([[Finland/Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South\|South Savo]])        |   140 |  18.768 |     4.0 | 28.571 | Rich in lake regions, tourism                                                                     |
-| [[Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa\|Uusimaa]]                         |  1734 |   9.096 |    87.0 | 50.173 | Capital region, economic and population hub                                                       |
-| [[Finland/Provinces~Finland/Southwest_Finland\|Varsinais-Suomi]] (Southwest Finland)                              |   479 |  20.537 |    20.1 | 41.960 | Known for maritime industry, city of [[Finland/Provinces~Finland/Southwest_Finland/Turku\|Turku]] |
-| [[Finland/Provinces~Finland/Oulu/counties~Oulu/Kainuu\|Kainuu]]                                                   |    31 |   3.710 |     1.1 | 35.484 | Sparse population, natural beauty and forest resources                                            |
-| [[Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Satakunta\|Satakunta]]                       |   350 |   7.142 |    14.1 | 40.286 | Industrial and cultural significance, coastline                                                   |
+| [[Provinces~Finland/Western_Finland/counties~Western_Finland/Central_Finland/|Central Finland]]           |   275 |  19.950 |    10.0 | 36.364 | Known for lakes, university city of Jyväskylä                                                     |
+| [[Provinces~Finland/Western_Finland/counties~Western_Finland/Central_Ostrobothnia/|Central Ostrobothnia]] |    69 |   5.706 |     2.3 | 33.333 | Strong agricultural sector, rich in cultural heritage                                             |
+| [[Provinces~Finland/Oulu/counties~Oulu/Kainuu/|Kainuu]]                                                   |    70 |  22.687 |     2.1 | 30.000 | Sparse population, rich in forests and nature                                                     |
+| [[Provinces~Finland/Western_Finland/counties~Western_Finland/Kanta-Häme/|Kanta-Häme]]                                                                                                        |   172 |   5.707 |     7.4 | 43.022 | Industrial focus, known for historical sites                                                      |
+| Karjala ([[Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Karelia~North/|North Karelia]])     |   163 |  21.585 |     5.6 | 34.356 | Beautiful natural landscapes, diverse ecosystems                                                  |
+| Karjala ([[Provinces~Finland/Southern_Finland/counties~Southern_Finland/Karelia~South/|South Karelia]])   |   127 |   7.238 |     4.2 | 33.072 | Known for Saimaa Canal, robust industrial sector                                                  |
+| [[Provinces~Finland/Southern_Finland/counties~Southern_Finland/Kymenlaakso/|Kymenlaakso]]                 |   168 |   7.178 |     6.8 | 40.476 | Key industrial region, coastal location                                                           |
+| [[Provinces~Finland/Lapland/|Lapland]]                                                                    |   178 | 100.366 |     5.8 | 32.584 | Northernmost region, known for tourism and reindeer herding                                       |
+| [[Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia/|Ostrobothnia]]                 |   181 |   7.954 |     7.0 | 38.674 | Coastal region, known for bilingual heritage                                                      |
+| [[Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/|Pirkanmaa]]                       |   542 |  14.469 |    22.5 | 41.510 | Rapidly developing region, city of Tampere                                                        |
+| [[Provinces~Finland/Southern_Finland/counties~Southern_Finland/Päijät-Häme/|Päijät-Häme]]                 |   201 |   6.256 |     7.9 | 39.303 | Known for its lush landscapes and lake systems                                                    |
+| [[Provinces~Finland/Western_Finland/counties~Western_Finland/Satakunta/|Satakunta]]                       |   215 |   8.528 |     8.3 | 38.605 | Significant port industries, historical significance                                              |
+| Savonia ([[Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~North/|North Savo]])        |   248 |  20.367 |     8.4 | 33.871 | Strong educational and cultural presence                                                          |
+| Savonia ([[Provinces~Finland/Eastern_Finland/counties~Eastern_Finland/Savonia~South/|South Savo]])        |   140 |  18.768 |     4.0 | 28.571 | Rich in lake regions, tourism                                                                     |
+| [[Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/|Uusimaa]]                         |  1734 |   9.096 |    87.0 | 50.173 | Capital region, economic and population hub                                                       |
+| [[Provinces~Finland/Southwest_Finland/|Varsinais-Suomi]] (Southwest Finland)                              |   479 |  20.537 |    20.1 | 41.960 | Known for maritime industry, city of [[Provinces~Finland/Southwest_Finland/Turku/|Turku]] |
+| [[Provinces~Finland/Oulu/counties~Oulu/Kainuu/|Kainuu]]                                                   |    31 |   3.710 |     1.1 | 35.484 | Sparse population, natural beauty and forest resources                                            |
+| [[Provinces~Finland/Western_Finland/counties~Western_Finland/Satakunta/|Satakunta]]                       |   350 |   7.142 |    14.1 | 40.286 | Industrial and cultural significance, coastline                                                   |
 
 
 ## Memberships 
 
-- [#is_/member_/of :: [[../EU(European_Union)|EU]]] [#is_/member_/since ::  1995-01-01] 
+- [#is_/member_/of :: [[../../EU(European_Union)|EU]]] [#is_/member_/since ::  1995-01-01] 
 - [ #is_/member_/of :: [[Eurozone]] ] [#is_/member_/since ::  1999-01-01] 
-- [ #is_/member_/of :: [[../../../../Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO|NATO]] ] [#is_/member_/since ::  2023-04-04]
+- [ #is_/member_/of :: [[../../../../../Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO|NATO]] ] [#is_/member_/since ::  2023-04-04]
 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
@@ -1328,7 +1328,7 @@ VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 
 ![[Coat_of_arms_of_Finland.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Finland.mp3|Anthem-Finland.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Finland.mp3|Anthem-Finland.mp3]]
 ![[Flag_of_Finland.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
@@ -1343,15 +1343,15 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 | City                                                                                                   | Region                                                                                                  |   Pop/k |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- | ------: |
-| [[Finland/City/Helsinki\|Helsinki]]                                                                    | [[Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa\|Uusimaa]]               | 674.500 |
-| [[Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Espoo\|Espoo]]     | [[Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa\|Uusimaa]]               | 314.024 |
-| [[Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Tampere\|Tampere]] | [[Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa\|Pirkanmaa]]             | 255.050 |
-| [[Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Vantaa\|Vantaa]]   | [[Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa\|Uusimaa]]               | 247.443 |
-| [[Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Oulu\|Oulu]]                    | North [[Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia\|Ostrobothnia]] | 214.633 |
-| [[Finland/Provinces~Finland/Southwest_Finland/Turku\|Turku]]                                                                                                  | [[Finland/Provinces~Finland/Southwest_Finland\|Southwest Finland]]                                                                                       | 201.863 |
+| [[City/Helsinki/|Helsinki]]                                                                    | [[Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/|Uusimaa]]               | 674.500 |
+| [[Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Espoo/|Espoo]]     | [[Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/|Uusimaa]]               | 314.024 |
+| [[Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Tampere/|Tampere]] | [[Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/|Pirkanmaa]]             | 255.050 |
+| [[Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Vantaa/|Vantaa]]   | [[Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/|Uusimaa]]               | 247.443 |
+| [[Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Oulu/|Oulu]]                    | North [[Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia/|Ostrobothnia]] | 214.633 |
+| [[Provinces~Finland/Southwest_Finland/Turku/|Turku]]                                                                                                  | [[Provinces~Finland/Southwest_Finland/|Southwest Finland]]                                                                                       | 201.863 |
 | Jyväskylä                                                                                              | Central Finland                                                                                         | 147.746 |
 | Kuopio                                                                                                 | Northern Savonia                                                                                        | 124.021 |
-| [[Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Päijät-Häme/City/Lahti\|Lahti]] | [[Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Päijät-Häme\|Päijät-Häme]]       | 120.693 |
+| [[Provinces~Finland/Southern_Finland/counties~Southern_Finland/Päijät-Häme/City/Lahti/|Lahti]] | [[Provinces~Finland/Southern_Finland/counties~Southern_Finland/Päijät-Häme/|Päijät-Häme]]       | 120.693 |
 
 
 ## #has_/text_of_/abstract 
@@ -1396,8 +1396,8 @@ has_place_latitude = `=this.dv_has_place_latitude`
 > This allowed the country to experience overall prosperity and high per capita income. 
 > During the Cold War, Finland officially embraced a policy of neutrality. 
 > 
-> Since then, it has become a member of the [[../EU(European_Union)|EU(European_Union)]] in 1995, 
-> the   [[Eurozone]] in 1999, and [[../../../../Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO|NATO]] in 2023. 
+> Since then, it has become a member of the [[../../EU(European_Union)|EU(European_Union)]] in 1995, 
+> the   [[Eurozone]] in 1999, and [[../../../../../Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO|NATO]] in 2023. 
 > 
 > Finland is a member of various international organisations, such as the United Nations, 
 > the Nordic Council, the Schengen Area, the Council of Europe, the World Trade Organization, 
